@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="@drawable/fz_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fz="http://schemas.android.com/apk/res-auto">
+    <include android:id="@id/fz_top_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" layout="@layout/fz_top_bar" />
+    <ScrollView android:paddingLeft="20.0dip" android:paddingTop="10.0dip" android:paddingRight="20.0dip" android:paddingBottom="20.0dip" android:scrollbars="none" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/fz_top_bar">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@drawable/fz_cart_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="15.0dip" android:layout_marginBottom="15.0dip">
+            <com.fabzat.shop.utils.ui.FZTextView android:textSize="22.0sp" android:textStyle="bold" android:textColor="@android:color/black" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="20.0dip" android:text="@string/fz_label.accountInfo" />
+            <TableLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TableRow android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <com.fabzat.shop.utils.ui.FZTextView android:textColor="@android:color/black" android:gravity="center|left" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/fz_label.emailAddress" android:layout_weight="1.0" />
+                    <com.fabzat.shop.utils.ui.FZEditText android:textColor="@android:color/black" android:gravity="left" android:id="@id/fz_user_login" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:layout_weight="1.0" android:inputType="textEmailAddress" android:textCursorDrawable="@null" fz:isMandatory="true" />
+                    <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                </TableRow>
+                <TableRow android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <com.fabzat.shop.utils.ui.FZTextView android:textColor="@android:color/black" android:gravity="center|left" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/fz_label.password" android:layout_weight="1.0" />
+                    <com.fabzat.shop.utils.ui.FZEditText android:textColor="@android:color/black" android:gravity="left" android:id="@id/fz_user_password" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:layout_weight="1.0" android:inputType="textPassword" android:textCursorDrawable="@null" fz:isMandatory="true" />
+                    <TextView android:textSize="12.0sp" android:textColor="@android:color/darker_gray" android:gravity="center|left" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/fz_label.passwordSizeLegend" android:layout_weight="1.0" />
+                </TableRow>
+                <TableRow android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <View android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                    <TextView android:textSize="12.0sp" android:textColor="@android:color/darker_gray" android:id="@id/fz_btn_forgot_password" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="@string/fz_label.forgottenPassword" android:layout_weight="1.0" />
+                    <View android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                </TableRow>
+            </TableLayout>
+        </LinearLayout>
+    </ScrollView>
+    <LinearLayout android:gravity="center" android:id="@id/fz_progressbar" android:background="@color/fz_transparent_grey" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/fz_top_bar">
+        <ProgressBar android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</RelativeLayout>

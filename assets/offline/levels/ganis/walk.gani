@@ -1,0 +1,90 @@
+GANI0001
+SPRITE    0         SPRITES    0    0   24   12 shadow
+SPRITE   10          SHIELD    0    0    6   18 shield up
+SPRITE   11          SHIELD    6    0    8   20 shield left
+SPRITE   12          SHIELD   14    0   16   20 shield down
+SPRITE   13          SHIELD   30    0    8   20 shield right
+SPRITE   40           ATTR1    0    0   48   48 hat up
+SPRITE   41           ATTR1   48    0   48   48 hat left
+SPRITE   42           ATTR1   96    0   48   48 hat down
+SPRITE   43           ATTR1  144    0   48   48 hat right
+SPRITE  100            HEAD    0    0   32   32 head up
+SPRITE  101            HEAD    0   32   32   32 head left
+SPRITE  102            HEAD    0   64   32   32 head down
+SPRITE  103            HEAD    0   96   32   32 head right
+SPRITE  201            BODY   32    0   32   32 body left
+SPRITE  203            BODY   96    0   32   32 body right
+SPRITE  204            BODY    0   32   32   32 body walking1 up
+SPRITE  205            BODY   32   32   32   32 body walking1 left
+SPRITE  206            BODY   64   32   32   32 body walking1 down
+SPRITE  207            BODY   96   32   32   32 body walking1 right
+SPRITE  208            BODY    0   64   32   32 body walking2 up
+SPRITE  209            BODY   32   64   32   32 body walking2 left
+SPRITE  210            BODY   64   64   32   32 body walking2 down
+SPRITE  211            BODY   96   64   32   32 body walking2 right
+SPRITE  212            BODY    0   96   32   32 body walking3 up
+SPRITE  213            BODY   32   96   32   32 body walking3 left
+SPRITE  214            BODY   64   96   32   32 body walking3 down
+SPRITE  215            BODY   96   96   32   32 body walking3 right
+SPRITE  216            BODY    0  128   32   32 body walking4 up
+SPRITE  217            BODY   32  128   32   32 body walking4 left
+SPRITE  218            BODY   64  128   32   32 body walking4 down
+SPRITE  219            BODY   96  128   32   32 body walking4 right
+SPRITE  220            BODY    0  160   32   32 body walking5 up
+SPRITE  221            BODY   32  160   32   32 body walking5 left
+SPRITE  222            BODY   64  160   32   32 body walking5 down
+SPRITE  223            BODY   96  160   32   32 body walking5 right
+SPRITE  233            BODY   32  256   32   32 body sword3 left
+SPRITE  235            BODY   96  256   32   32 body sword3 right
+SPRITE  249            BODY   32  384   32   32 body pushing3 left
+SPRITE  251            BODY   96  384   32   32 body pushing3 right
+
+LOOP
+CONTINUOUS
+DEFAULTATTR1 hat0.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   0  12  36,   10  36  18,  216   8  16,  100   8   4,   40   0 -14
+   0  12  36,   11   6  15,  201  12  16,  101  11   0,   41  -1 -18
+   0  12  36,  218   8  16,  102   8   2,   42   0 -16,   12   8  26
+   0  12  36,   13  34  15,  203   4  16,  103   5   0,   43   1 -18
+PLAYSOUND steps2.wav 2.125 2.3125
+
+   0  12  36,   10  36  14,  220   8  17,  100   8   0,   40   0 -18
+   0  12  36,   11   6  13,  217  12  14,  101  11  -1,   41  -1 -19
+   0  12  36,  222   8  20,  102   8   0,   42   0 -18,   12   8  22
+   0  12  36,   13  34  13,  219   4  14,  103   5  -1,   43   1 -19
+
+   0  12  36,   10  36  18,  216   8  16,  100   8   4,   40   0 -14
+   0  12  36,   11   7  14,  249  10  10,  101  10  -1,   41  -2 -19
+   0  12  36,  218   8  16,  102   8   2,   42   0 -16,   12   8  26
+   0  12  36,   13  33  14,  251   7  10,  103   6  -1,   43   2 -19
+
+   0  12  36,   10  36  14,  212   8  17,  100   8   4,   40   0 -14
+   0  12  36,   11   7  16,  221  10  17,  101  10   2,   41  -2 -16
+   0  12  36,  214   8  16,  102   8   4,   42   0 -14,   12   8  28
+   0  12  36,   13  33  16,  223   6  17,  103   6   2,   43   2 -16
+
+   0  12  36,   10  36  16,  208   8  16,  100   8   2,   40   0 -16
+   0  12  36,   11   7  15,  213  12  16,  101  10   2,   41  -2 -16
+   0  12  36,  210   8  16,  102   8   2,   42   0 -16,   12   8  26
+   0  12  36,   13  33  15,  215   3  16,  103   6   2,   43   2 -16
+PLAYSOUND steps2.wav 2.125 2.3125
+
+   0  12  36,   10  36  14,  204   8  15,  100   8   0,   40   0 -18
+   0  12  36,   11   6  12,  209  12  16,  101  10   0,   41  -2 -18
+   0  12  36,  206   8  14,  102   8   0,   42   0 -18,   12   8  22
+   0  12  36,   13  34  12,  211   4  16,  103   6   0,   43   2 -18
+
+   0  12  36,   10  36  16,  208   8  16,  100   8   2,   40   0 -16
+   0  12  36,   11   6  14,  205  10  18,  101   9   0,   41  -3 -18
+   0  12  36,  210   8  16,  102   8   2,   42   0 -16,   12   8  26
+   0  12  36,   13  34  14,  207   6  18,  103   7   0,   43   3 -18
+
+   0  12  36,   10  36  14,  212   8  16,  100   8   4,   40   0 -14
+   0  12  36,   11   6  16,  233  10  14,  101  10   1,   41  -2 -17
+   0  12  36,  214   8  16,  102   8   4,   42   0 -14,   12   8  28
+   0  12  36,   13  34  16,  235   6  14,  103   6   2,   43   2 -16
+ANIEND

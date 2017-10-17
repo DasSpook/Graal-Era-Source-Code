@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:background="@drawable/fz_address_new_box" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="5.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fz="http://schemas.android.com/apk/res-auto">
+    <com.fabzat.shop.utils.ui.FZTextView android:textColor="@color/fz_black" android:id="@id/fz_address" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fz_label.addNew" android:lines="3" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+    <com.fabzat.shop.utils.ui.FZTextView android:textSize="20.0sp" android:textColor="@color/fz_green" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fz_label.addNew" android:drawableLeft="@drawable/fz_cart_line_plus" android:drawablePadding="20.0dip" android:layout_centerInParent="true" />
+</RelativeLayout>

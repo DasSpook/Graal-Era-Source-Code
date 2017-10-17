@@ -1,0 +1,29 @@
+GANI0001
+SPRITE    0         SPRITES    0    0   24   12 shadow
+SPRITE   10          SHIELD    0    0    6   18 shield up
+SPRITE   11          SHIELD    6    0    8   20 shield left
+SPRITE   12          SHIELD   14    0   16   20 shield down
+SPRITE   13          SHIELD   30    0    8   20 shield right
+SPRITE   40           ATTR1    0    0   48   48 hat up
+SPRITE   41           ATTR1   48    0   48   48 hat left
+SPRITE   42           ATTR1   96    0   48   48 hat down
+SPRITE   43           ATTR1  144    0   48   48 hat right
+SPRITE  100            HEAD    0    0   32   32 head up
+SPRITE  101            HEAD    0   32   32   32 head left
+SPRITE  102            HEAD    0   64   32   32 head down
+SPRITE  103            HEAD    0   96   32   32 head right
+SPRITE  200            BODY    0    0   32   32 body up
+SPRITE  201            BODY   32    0   32   32 body left
+SPRITE  202            BODY   64    0   32   32 body down
+SPRITE  203            BODY   96    0   32   32 body right
+
+DEFAULTATTR1 hat0.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   0  12  34,   10  36  16,  200   8  16,  100   8   2,   40   0 -16
+   0  12  36,   11   6  16,  201  12  16,  101  12   2,   41   0 -16
+   0  12  34,  202   8  16,  102   8   2,   42   0 -16,   12  24  24
+   0  12  36,   13  34  16,  203   4  16,  103   4   2,   43   0 -16
+ANIEND

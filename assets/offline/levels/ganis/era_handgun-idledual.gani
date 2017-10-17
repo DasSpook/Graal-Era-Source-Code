@@ -1,0 +1,32 @@
+GANI0001
+SPRITE    0         SPRITES    0    0   24   12 shadow
+SPRITE    1            BODY  120  330    8    8 sprite
+SPRITE    2            BODY   32  330    8    8 sprite
+SPRITE   20 era_handgun.gif    0    0   32   16 Handgun
+SPRITE   21 era_handgun.gif   32    0   32   16 Handgun
+SPRITE   22 era_handgun.gif   64    0   15   22 Handgun
+SPRITE   23 era_handgun.gif   82    0   20   20 Handgun
+SPRITE   40           ATTR1    0    0   48   48 hat up
+SPRITE   41           ATTR1   48    0   48   48 hat left
+SPRITE   42           ATTR1   96    0   48   48 hat down
+SPRITE   43           ATTR1  144    0   48   48 hat right
+SPRITE  100            HEAD    0    0   32   32 head up
+SPRITE  101            HEAD    0   32   32   32 head left
+SPRITE  102            HEAD    0   64   32   32 head down
+SPRITE  103            HEAD    0   96   32   32 head right
+SPRITE  239            BODY   96  288   32   32 
+SPRITE  270            BODY   64  544   32   32 body carrying2 down
+SPRITE  273            BODY   32  576   32   32 body carrying3 left
+SPRITE  275            BODY   96  576   32   32 body carrying3 right
+SPRITE  276            BODY    0  608   32   32 body carrying4 up
+
+DEFAULTATTR1 hat0.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   0  12  34,   23   4  11,   23  21  10,  276   8  16,  100   8   2,   40   0 -16
+   0  12  36,   20  -6  18,  273  11  15,  101  12   2,   41   0 -16,   20   0  25,  239   8  16,    2  16  31
+   0  12  34,  102   8   2,  270   8  16,   42   0 -16,    1  12  29,    2  28  28,   22  22  28,   22   8  28
+   0  12  36,   21  25  18,  275   4  16,  103   4   2,   43   0 -16,   21  19  25,  239   5  16,    1  24  31
+ANIEND

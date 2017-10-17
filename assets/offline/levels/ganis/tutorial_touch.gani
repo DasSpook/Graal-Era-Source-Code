@@ -1,0 +1,23 @@
+GANI0002
+SPRITE    0         SPRITES    0    0   24   16 shadow
+SPRITE   20 tutorial_arrowdown.png    0    0   16   16 arrow
+
+FRAMES 40
+LOOP
+CONTINUOUS
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+MOVIE
+  ACTOR SPRITE Sprite1
+    FRAME 0 dx=16,dy=-29,layer=3,sprite #=20,visible=true
+    FRAME 20 dx=16,dy=-24
+    FRAME 40 dx=16,dy=-29
+  ACTOREND
+
+  ACTOR TEXT Text1
+    FRAME 0 bold=false,centered=true,color=FFE080,dx=35,dy=-36,font=Tempus Sans ITC,fontsize=14,italic=false,layer=3,rightaligned=false,shaded=true,strikeout=false,text=Touch to get information,underline=false,visible=true,wordwrap=true,zoom=1
+    FRAME 20 dx=35,dy=-31
+    FRAME 40 dx=35,dy=-36
+  ACTOREND
+MOVIEEND

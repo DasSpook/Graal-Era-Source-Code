@@ -1,0 +1,50 @@
+uniform mat4 modelViewMatrix;
+uniform mat4 modelViewProjectionMatrix;
+
+uniform vec4 additionalColor;
+uniform vec4 ambientColor;
+
+uniform float alpha;
+uniform float shininess;
+uniform bool useColors;
+
+uniform vec3 lightPositions;
+uniform vec3 diffuseColors;
+uniform vec3 specularColors;
+uniform float attenuation;
+
+attribute vec4 position;
+attribute vec3 normal;
+attribute vec4 color;
+attribute vec2 texture0;
+
+varying vec2 texCoord;
+varying vec4 vertexColor;
+
+const vec4 WHITE = vec4(1,1,1,1);
+
+void main() {
+
+	texCoord = texture0;	
+
+	vertexColor = ambientColor + additionalColor;
+
+	vec4 vertexPos = modelViewMatrix * position;
+
+	// This is correct only if the modelview matrix is orthogonal. In jPCT-AE, it always is...unless you fiddle around with it.
+	vec3 normalEye   = normalize(modelViewMatrix * vec4(normal, 0.0)).xyz;
+	
+	float angle = dot(normalEye, normalize(lightPositions - vertexPos.xyz));
+		
+	if (angle > 0.0) {
+		vertexColor += vec4((diffuseColors * angle + specularColors * pow(angle, shininess))*(1.0/(1.0+length(lightPositions - vertexPos.xyz)*attenuation)), 1);
+	}
+		
+	vertexColor=vec4(min(WHITE, vertexColor).xyz, alpha);
+	
+	if (useColors) {
+		vertexColor *= color;
+	}
+	
+	gl_Position = modelViewProjectionMatrix * position;
+}

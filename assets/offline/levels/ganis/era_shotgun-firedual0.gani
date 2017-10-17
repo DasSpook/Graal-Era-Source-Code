@@ -1,0 +1,62 @@
+GANI0001
+SPRITE   -5            BODY   40  494    8    8 sprite
+SPRITE    0         SPRITES    0    0   24   12 shadow
+SPRITE    5            BODY  120  398    8    8 sprite
+SPRITE    6            BODY   32  398    8    8 sprite
+SPRITE    8            BODY  120  330    8    8 sprite
+SPRITE   20 sprites_shotgun.png    0   17   38   17 Shotgun
+SPRITE   21 sprites_shotgun.png    0    0   38   17 Shotgun
+SPRITE   22 sprites_shotgun.png   38    0    7   34 Shotgun
+SPRITE   23 sprites_shotgun.png   45    0    7   31 Shotgun
+SPRITE   24 sprites_shotgun.png   52   10   11    3 Shotgun load
+SPRITE   25 sprites_shotgun.png   73    0   15    5 Shotgun load
+SPRITE   26 sprites_shotgun.png   73    5   15    7 Shotgun load
+SPRITE   27 sprites_shotgun.png   73   12    7   20 Shotgun load
+SPRITE   28 sprites_shotgun.png   79   12    7   20 Shotgun load
+SPRITE   40           ATTR1    0    0   48   48 hat up
+SPRITE   41           ATTR1   48    0   48   48 hat left
+SPRITE   42           ATTR1   96    0   48   48 hat down
+SPRITE   43           ATTR1  144    0   48   48 hat right
+SPRITE  100            HEAD    0    0   32   32 head up
+SPRITE  101            HEAD    0   32   32   32 head left
+SPRITE  102            HEAD    0   64   32   32 head down
+SPRITE  103            HEAD    0   96   32   32 head right
+SPRITE  201            BODY   32    0   32   32 body left
+SPRITE  202            BODY   64    0   32   32 body down
+SPRITE  203            BODY   96    0   32   32 body right
+SPRITE  210            BODY   64   64   32   32 body walking2 down
+SPRITE  211            BODY   96   64   32   32 body walking2 right
+SPRITE  214            BODY   64   96   32   32 body walking3 down
+SPRITE  216            BODY    0  128   32   32 body walking4 up
+SPRITE  217            BODY   32  128   32   32 body walking4 left
+SPRITE  221            BODY   32  160   32   32 body walking5 left
+SPRITE  235            BODY   96  256   32   32 body sword3 right
+SPRITE  239            BODY   96  288   32   32 
+
+SETBACKTO era_shotgun-idledual
+DEFAULTATTR1 hat0.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   0  12  34,   23   9   0,   23  33   0,  216   8  16,  100   8   2,   40   0 -16
+  24  -6  24,   20 -18  17,    0  12  36,  201  12  16,  101  11   2,   41  -1 -16,   20  -8  27,   24   2  34,  239   4  12,    6  20  33
+   0  12  34,  202   8  16,  102   8   2,   42   0 -16,   22  34  22,   22   8  23
+  21  28  17,    0  12  36,  203   4  16,  103   4   2,   43   0 -16,   24  43  24,  239   4  13,   21  18  27,   24  33  34,    5  19  33
+
+   0  12  34,   23  10  -3,   23  31  -3,  216   8  16,  100   8   2,   40   0 -16
+  20 -18  15,    0  12  36,  217  11  19,  101  10   2,   41  -2 -16,   20 -13  26,   24   0  33,  239   2   9,   24  -6  22,    6  14  32
+   0  12  34,  102   8   2,  214   8  16,   42   0 -16,   22  33  23,   22   8  24
+  21  28  15,   24  43  22,    0  12  36,  211   4  19,  103   4   2,   43   0 -16,  239   4  11,   21  16  26,   24  32  33,    5  17  31
+
+   0  12  34,   27  10 -15,   23  10   0,   27  14 -15,   23  30   0,  216   8  16,  100   8   2,   40   0 -16
+  24  -3  22,   20 -15  15,    0  12  36,  221  12  19,  101  13   2,   41   1 -16,   20 -15  25,   24  -3  31,   26 -28  25,   26 -26  27,  239   2   8,    6  12  31
+   0  12  34,  210   8  16,  102   8   0,   42   0 -18,   22  32  18,   28  30  50,   28  34  51,   22  12  22
+   0  12  36,   21  21  15,   24  36  22,   25  60  15,   25  60  18,  239   2  11,  235   5  17,  103   2   2,   43  -2 -16,   21  19  28,   24  32  35,    8  20  34
+PLAYSOUND shotgun.wav 3.8125 0.875
+
+   0  12  34,   23   8   0,   23  33   0,  216   8  16,  100   8   2,   40   0 -16
+  20 -15  16,    0  12  36,  101  12   2,   41   0 -16,  221  12  19,   20  -8  26,   24   4  33,  239   4   7,   24  -3  23,    6  21  32
+   0  12  34,  210   8  18,  102   8   2,   42   0 -16,   22  33  21,   22  13  23
+  21  21  18,   24  34  25,    0  12  36,  235   6  17,  239   2  12,  103   4   2,   43   0 -16,   21  19  29,   24  34  35,    8  20  35
+ANIEND

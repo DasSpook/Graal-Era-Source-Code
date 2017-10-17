@@ -1,0 +1,19 @@
+GANI0001
+SPRITE   -1 era_image-tree-shadow.png    0    0  140   60 TreeShadow
+SPRITE    0         SPRITES    0    0   24   16 shadow
+SPRITE    1 era_image-tree-02.png    0    0  140  156 Tree
+SPRITE    3           ATTR1    0    0   40   47 sprite
+
+DEFAULTATTR1 era_christmas-decoration.png
+DEFAULTATTR2 era_christmaspresent-red.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+COLOREFFECT -1 1 1 1 0.4
+EFFECTMODE -1 2
+
+ANI
+  -1 -44  10,    1 -44 -105
+  -1 -44  10,    1 -44 -105
+  -1 -44  10,    1 -44 -105,    3   6 -24
+  -1 -44  10,    1 -44 -105
+ANIEND

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="com_facebook_usersettingsfragment_profile_picture_width">64.0dip</dimen>
+    <dimen name="com_facebook_usersettingsfragment_profile_picture_height">64.0dip</dimen>
+    <dimen name="com_facebook_loginview_padding_left">42.0dip</dimen>
+    <dimen name="com_facebook_loginview_padding_right">0.0dip</dimen>
+    <dimen name="com_facebook_loginview_padding_top">0.0dip</dimen>
+    <dimen name="com_facebook_loginview_padding_bottom">0.0dip</dimen>
+    <dimen name="com_facebook_loginview_width">205.0dip</dimen>
+    <dimen name="com_facebook_loginview_height">44.0dip</dimen>
+    <dimen name="com_facebook_loginview_text_size">16.0sp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_small">50.0dip</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_normal">100.0dip</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_large">180.0dip</dimen>
+</resources>

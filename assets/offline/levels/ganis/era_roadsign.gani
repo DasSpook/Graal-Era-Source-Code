@@ -1,0 +1,11 @@
+GANI0001
+SPRITE    1 era_roadsign-2.png    0    0   64   96 sprite
+
+SINGLEDIRECTION
+DEFAULTATTR1 hat0.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   1  -8 -49
+ANIEND

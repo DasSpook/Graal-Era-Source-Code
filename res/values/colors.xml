@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="com_facebook_blue">#ff3b5998</color>
+    <color name="com_facebook_usersettingsfragment_connected_text_color">#ffffffff</color>
+    <color name="com_facebook_usersettingsfragment_connected_shadow_color">#ff000000</color>
+    <color name="com_facebook_usersettingsfragment_not_connected_text_color">#ffa6aed7</color>
+    <color name="com_facebook_loginview_text_color">#ffffffff</color>
+    <color name="fz_white">#ffffffff</color>
+    <color name="fz_black">#ff000000</color>
+    <color name="fz_grey">#ffaaaaaa</color>
+    <color name="fz_grey_light">#ffeeeeee</color>
+    <color name="fz_grey_blue">#ffc0d6e8</color>
+    <color name="fz_half_white">#80ffffff</color>
+    <color name="fz_orange">#fff67e12</color>
+    <color name="fz_red">#ffff0000</color>
+    <color name="fz_green">#ff389c1d</color>
+    <color name="fz_blue">#ff0099cc</color>
+    <color name="fz_transparent_grey">#80000000</color>
+    <color name="fz_btn_form_start">#ffb4d03f</color>
+    <color name="fz_btn_form_middle">#ff9db62e</color>
+    <color name="fz_btn_form_end">#ff899f1f</color>
+    <color name="fz_btn_form_start_pressed">#ff92b306</color>
+    <color name="fz_btn_form_middle_pressed">#ff7d9900</color>
+    <color name="fz_btn_form_end_pressed">#ff688000</color>
+    <color name="fz_btn_form_start_disabled">#ffbace6d</color>
+    <color name="fz_btn_form_middle_disabled">#ffacbe62</color>
+    <color name="fz_btn_form_end_disabled">#ff9eae58</color>
+    <color name="fz_cart_background">#ffe7f5fb</color>
+    <color name="fz_cart_red">#ffe14b76</color>
+    <color name="fz_cart_total_bg">#ffaac7d7</color>
+    <color name="fz_cart_total_border">#ff7d91a0</color>
+</resources>

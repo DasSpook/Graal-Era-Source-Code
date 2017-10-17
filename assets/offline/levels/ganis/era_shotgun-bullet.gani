@@ -1,0 +1,26 @@
+GANI0001
+SPRITE    0         SPRITES    0    0   24   16 shadow
+SPRITE    1 sprites_shotgun.png   52    0    4    5 Bullet (0)
+SPRITE    2 sprites_shotgun.png   52    5    4    5 Bullet (1)
+SPRITE    3 sprites_shotgun.png   56    0    5    4 Bullet (0)
+SPRITE    4 sprites_shotgun.png   56    4    5    4 Bullet (1)
+SPRITE    5 era_bullet-trails.png    0    0   16   32 trail (0)
+SPRITE    6 era_bullet-trails.png   16    0   16   32 trail (1)
+SPRITE    7 era_bullet-trails.png    0   32   32   16 trail (0)
+SPRITE    8 era_bullet-trails.png    0   48   32   16 trail (1)
+
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   1  22  36
+   4  22  36
+   2  22  36
+   3  22  36
+WAIT 1
+
+   1  22  36,    5  16  37
+   4  22  36,    8  23  30
+   6  16   8,    2  22  36
+   3  22  36,    7  -6  30
+ANIEND

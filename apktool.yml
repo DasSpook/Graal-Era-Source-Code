@@ -1,0 +1,51 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: GraalOnline Era_v1.7_apkpure.com.apk
+compressionType: false
+doNotCompress:
+- arsc
+- txt
+- assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/FauxS-TOON.uis_frames.wb4
+- assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/SSBarActiveDown.bmp
+- assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/SSBarActiveUp.bmp
+- assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/SSBarNoneActiveUp.bmp
+- assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/sSSBarActiveDown.bmp
+- assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/sSSBarActiveUp.bmp
+- assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/sSSBarNoneActivedown.bmp
+- assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/sSSBarNoneActiveup.bmp
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '7'
+  targetSdkVersion: '7'
+sharedLibrary: false
+unknownFiles:
+  defaultFragmentShader.src: '8'
+  defaultFragmentShaderFog.src: '8'
+  defaultFragmentShaderTex0Amb.src: '8'
+  defaultFragmentShaderTex0Light0.src: '8'
+  defaultVertexShaderFogLight0.src: '8'
+  defaultVertexShaderTex0.src: '8'
+  defaultVertexShader.src: '8'
+  defaultVertexShaderTex1.src: '8'
+  defaultVertexShaderTex0Light0.src: '8'
+  defaultFragmentShaderTex0.src: '8'
+  defaultFragmentShaderDepth.src: '8'
+  defaultVertexShaderTex0Amb.src: '8'
+  defaultVertexShaderDepth.src: '8'
+  defaultFragmentShaderTex1.src: '8'
+  defaultVertexShaderFog.src: '8'
+  defaultFragmentShaderFogLight0.src: '8'
+  org/apache/http/version.properties: '8'
+  org/apache/http/entity/mime/version.properties: '8'
+  js/closebutton.html: '8'
+  js/mraid.js: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.0
+versionInfo:
+  versionCode: '6110'
+  versionName: '1.7'

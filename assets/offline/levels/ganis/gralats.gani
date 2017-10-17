@@ -1,0 +1,14 @@
+SPRITE    0         SPRITES    0    0   24   12 shadow
+SPRITE    1     gralats.png    0    0   32   32 gralats (0, 0)
+SPRITE    2     gralats.png   32    0   32   32 gralats (1, 0)
+SPRITE    3     gralats.png    0   32   32   32 gralats (0, 1)
+SPRITE    4     gralats.png   32   32   32   32 gralats (1, 1)
+SPRITE   20      glare1.mng    0    0   32   32 glare
+
+SINGLEDIRECTION
+DEFAULTPARAM1 1
+
+ANI
+PARAM1   8  16,   20  -6   5
+
+ANIEND

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient android:startColor="@color/fz_btn_form_start_pressed" android:endColor="@color/fz_btn_form_end_pressed" android:angle="270.0" android:centerColor="@color/fz_btn_form_middle_pressed" />
+    <corners android:radius="3.0dip" />
+</shape>

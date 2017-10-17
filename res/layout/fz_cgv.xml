@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/fz_top_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/fz_top_bar" />
+    <View android:id="@id/fz_separator" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_below="@id/fz_top_bar" />
+    <WebView android:id="@id/fz_cgv" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/fz_separator" />
+    <ProgressBar android:id="@id/fz_progressbar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+</RelativeLayout>

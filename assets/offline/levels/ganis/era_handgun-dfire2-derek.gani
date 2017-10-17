@@ -1,0 +1,66 @@
+GANI0001
+SPRITE  -11 era_handgun-derekedit.gif   32   25   32   32 sprite
+SPRITE  -10 era_handgun-derekedit.gif    0   25   32   32 sprite
+SPRITE    0         SPRITES    0    0   24   12 shadow
+SPRITE    5            BODY  120  398    8    8 sprite
+SPRITE    6            BODY   32  398    8    8 sprite
+SPRITE   20 era_handgun.gif    0    0   32   16 Handgun
+SPRITE   21 era_handgun.gif   32    0   32   16 Handgun
+SPRITE   22 era_handgun.gif   64    0   22   20 Handgun
+SPRITE   24 era_handgun.gif  135    0   20   22 Handgun fire
+SPRITE   25 era_handgun.gif  155    0   22   22 Handgun fire
+SPRITE   26 era_handgun.gif  175    0   22   22 Handgun fire
+SPRITE   27 era_handgun.gif  195    0   22   22 Handgun fire
+SPRITE   29 era_colt1911.gif   94    0   10   34 sprite
+SPRITE   30 era_colt1911.gif  102    0   10   34 sprite
+SPRITE   31 era_colt1911.gif  102   32   10   16 sprite
+SPRITE   32 era_colt1911.gif  100   48   16   16 sprite
+SPRITE   40           ATTR1    0    0   48   48 hat up
+SPRITE   41           ATTR1   48    0   48   48 hat left
+SPRITE   42           ATTR1   96    0   48   48 hat down
+SPRITE   43           ATTR1  144    0   48   48 hat right
+SPRITE  100            HEAD    0    0   32   32 head up
+SPRITE  101            HEAD    0   32   32   32 head left
+SPRITE  102            HEAD    0   64   32   32 head down
+SPRITE  103            HEAD    0   96   32   32 head right
+SPRITE  239            BODY   96  288   32   32 
+SPRITE  273            BODY   32  576   32   32 body carrying3 left
+SPRITE  274            BODY   64  576   32   32 body carrying3 down
+SPRITE  275            BODY   96  576   32   32 body carrying3 right
+SPRITE  276            BODY    0  608   32   32 body carrying4 up
+SPRITE  330            BODY   32  330    8    8 body pushing3 left
+SPRITE  331            BODY   32  384   15   22 body pushing3 left
+SPRITE  332            BODY  113  384   20   22 body pushing3 right
+SPRITE  348            BODY  120  330    8    8 hand right
+
+DEFAULTATTR1 hat0.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   0  12  34,  276   8  16,  100   8   2,   40   0 -16
+   0  12  36,  273  11  16,  101  12   2,   41   0 -16,    6   8  30,   20  -3  24,  239   8  16,  331  12  16
+   0  12  34,  274   8  14,  102   8   2,  330  22  33,  348  19  31,   42   0 -16,   22  16  29
+   0  12  36,  275   5  16,  103   5   2,   43   1 -16,    5  33  30,   21  23  24,  239   6  17,  332  22  16
+
+  26  11 -12,    0  12  34,  276   8  16,  100   8   2,   40   0 -16
+   0  12  36,  273  11  16,  101  12   2,   41   0 -16,    6  10  30,   20  -2  24,  239   8  16,  331  13  16,   25 -21  18,   31   4   7
+   0  12  34,  274   8  14,  102   8   2,  330  22  32,  348  19  30,   42   0 -16,   22  16  28,   27   9  47,   29  21  15
+   0  12  36,  275   5  16,  103   5   2,   43   1 -16,    5  31  30,   21  22  24,  239   6  17,  332  21  16,   24  50  19,   31  31   6
+PLAYSOUND shotgun.wav 2.1875 3.5
+
+   0  12  34,  276   8  17,  100   8   3,   40   0 -15
+   0  12  36,  273  11  16,  101  12   2,   41   0 -16,  239   8  16,  -10   1  14,  331  15  14,   32   9  10
+   0  12  34,  274   8  13,  102   8   1,  330  22  29,  348  19  27,   42   0 -17,   22  16  25,   29  28  11
+   0  12  36,  275   5  16,  103   5   2,   43   1 -16,  239   6  17,  -11  19  15,  332  19  14,   30  27   1
+
+   0  12  34,  276   8  16,  100   8   2,   40   0 -16
+   0  12  36,  273  12  16,  101  13   1,   41   1 -17,  239   8  16,  -10   1  15,  331  15  15,   29  19  -2
+   0  12  34,  274   8  14,  102   8   2,  330  22  32,  348  19  30,   42   0 -16,   22  16  28,   30  33  17
+   0  12  36,  275   4  16,  103   4   1,   43   0 -17,  239   6  17,  -11  18  15,  332  18  15,   29  18   2
+
+   0  12  34,  276   8  16,  100   8   2,   40   0 -16
+   0  12  36,  273  11  16,  101  12   2,   41   0 -16,    6   9  30,   20  -2  24,  239   8  16,  331  13  16
+   0  12  34,  274   8  14,  102   8   2,  330  22  33,  348  19  31,   42   0 -16,   22  16  29
+   0  12  36,  275   5  16,  103   5   2,    5  31  30,   21  21  24,   43   1 -16,  239   6  17,  332  20  16
+ANIEND

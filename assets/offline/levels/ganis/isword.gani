@@ -1,0 +1,76 @@
+GANI0001
+SPRITE    0         SPRITES    0    0   24   12 shadow
+SPRITE   11          SHIELD    6    0    8   20 shield left
+SPRITE   13          SHIELD   30    0    8   20 shield right
+SPRITE   20           SWORD   62    0   28   28 sword sw ->down
+SPRITE   21           SWORD   90    0   28   24 sword ssw ->right
+SPRITE   22           SWORD  118    0   10   22 sword n
+SPRITE   23           SWORD    0   12   12   24 sword s
+SPRITE   24           SWORD   14   20   24   28 sword see ->up
+SPRITE   25           SWORD   38   28   28   24 sword sse ->left
+SPRITE   26           SWORD   66   28   28   28 sword se ->left
+SPRITE   27           SWORD   94   24   34   12 sword e
+SPRITE   28           SWORD    0   36   14   24 sword sse
+SPRITE   29           SWORD   14   48   24   28 sword nee ->down
+SPRITE   30           SWORD   38   52   28   28 sword ne ->down
+SPRITE   31           SWORD   66   56   24   28 sword nww ->down
+SPRITE   32           SWORD   94   36   28   28 sword nw ->left
+SPRITE   33           SWORD    0   60   10   24 sword nnw
+SPRITE   34           SWORD   10   76   14   20 sword nne
+SPRITE   35           SWORD   56   84   34   12 sword w
+SPRITE   36           SWORD  112   64   16   28 sword ne ->up
+SPRITE   40           ATTR1    0    0   48   48 hat up
+SPRITE   41           ATTR1   48    0   48   48 hat left
+SPRITE   42           ATTR1   96    0   48   48 hat down
+SPRITE   43           ATTR1  144    0   48   48 hat right
+SPRITE  100            HEAD    0    0   32   32 head up
+SPRITE  101            HEAD    0   32   32   32 head left
+SPRITE  102            HEAD    0   64   32   32 head down
+SPRITE  103            HEAD    0   96   32   32 head right
+SPRITE  224            BODY    0  192   32   32 body sword1 up
+SPRITE  225            BODY   32  192   32   32 body sword1 left
+SPRITE  226            BODY   64  192   32   32 body sword1 down
+SPRITE  227            BODY   96  192   32   32 body sword1 right
+SPRITE  228            BODY    0  224   32   32 body sword2 up
+SPRITE  229            BODY   32  224   32   32 body sword2 left
+SPRITE  230            BODY   64  224   32   32 body sword2 down
+SPRITE  231            BODY   96  224   32   32 body sword2 right
+SPRITE  232            BODY    0  256   32   32 body sword3 up
+SPRITE  233            BODY   32  256   32   32 body sword3 left
+SPRITE  234            BODY   64  256   32   32 body sword3 down
+SPRITE  235            BODY   96  256   32   32 body sword3 right
+SPRITE  236            BODY    0  288   32   32 body sword4 up
+
+SETBACKTO iidle
+DEFAULTPARAM1 sword1.png
+DEFAULTATTR1 hat0.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   0  12  34,   13  40  18,   36  38  -2,  224   8  16,  100   8   0,   40   0 -18
+   0  12  36,   32  -2   0,  225  12  16,  101  12   4,   41   0 -14
+   0  12  34,   11   2  14,  226   8  16,  102   8   4,   20  -4  24,   42   0 -14
+   0  12  36,   30  22   0,  227   6  16,  103   4   4,   43   0 -14
+PLAYSOUND sword.wav 1.5 2
+
+   0  12  34,   13  40  14,   34  14 -18,  228   8  16,  100   8  -2,   40   0 -20
+   0  12  36,   31 -16   0,  225  12  16,  101   8   4,   41  -4 -14
+   0  12  34,   11   2  14,  226   8  16,  102   8   4,   21  -2  38,   42   0 -14
+   0  12  36,   29  36   0,  227   6  16,  103   8   4,   43   4 -14
+
+   0  12  34,   13  40  10,   22   8 -24,  232   8  16,  100   8  -8,   40   0 -26
+   0  12  36,   35 -18  26,  229  12  16,  101   2   6,   41 -10 -12
+   0  12  34,   11   2  14,  230   8  16,  102   8  10,   23  26  48,   42   0  -8
+   0  12  36,   27  38  26,  231   6  16,  103  14   6,   43  10 -12
+
+   0  12  34,   13  40  20,   33   0 -14,  228   8  16,  100   8  -2,   40   0 -20
+   0  12  36,  233  12  16,  101  10   4,   20 -14  32,   41  -2 -14
+   0  12  34,   11   2  14,  230   8  16,  102   8   4,   28  32  38,   42   0 -14
+   0  12  36,  235   6  16,  103   6   4,   26  34  32,   43   2 -14
+
+   0  12  34,   13  40  18,   31 -16   0,  236   8  16,  100   8   2,   40   0 -16
+   0  12  36,  233  12  16,  101  10   4,   21  -4  42,   41  -2 -14
+   0  12  34,   11   2  14,  234   8  16,  102   8   2,   24  42  30,   42   0 -16
+   0  12  36,  235   6  16,  103   6   4,   25  24  42,   43   2 -14
+ANIEND

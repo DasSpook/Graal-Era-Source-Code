@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FZAppBaseTheme" parent="@android:style/Theme.Black.NoTitleBar" />
+    <style name="DialogTheme" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@style/WaitDialogAnimation</item>
+    </style>
+    <style name="FZAppTheme" parent="@style/FZAppBaseTheme" />
+</resources>

@@ -1,0 +1,83 @@
+SPRITE    0         SPRITES    0    0   24   12 shadow
+SPRITE    1           ATTR3    0    0   32   32 item
+SPRITE   40           ATTR1    0    0   48   48 hat up
+SPRITE   41           ATTR1   48    0   48   48 hat left
+SPRITE   42           ATTR1   96    0   48   48 hat down
+SPRITE   43           ATTR1  144    0   48   48 hat right
+SPRITE  100            HEAD    0    0   32   32 head up
+SPRITE  101            HEAD    0   32   32   32 head left
+SPRITE  102            HEAD    0   64   32   32 head down
+SPRITE  103            HEAD    0   96   32   32 head right
+SPRITE  260            BODY    0  480   32   32 body hands up
+SPRITE  261            BODY   32  480   32   32 body hands left
+SPRITE  262            BODY   64  480   32   32 body hands down
+SPRITE  263            BODY   96  480   32   32 body hands right
+SPRITE  264            BODY    0  512   32   32 body carrying1 up
+SPRITE  265            BODY   32  512   32   32 body carrying1 left
+SPRITE  266            BODY   64  512   32   32 body carrying1 down
+SPRITE  267            BODY   96  512   32   32 body carrying1 right
+SPRITE  268            BODY    0  544   32   32 body carrying2 up
+SPRITE  269            BODY   32  544   32   32 body carrying2 left
+SPRITE  270            BODY   64  544   32   32 body carrying2 down
+SPRITE  271            BODY   96  544   32   32 body carrying2 right
+SPRITE  272            BODY    0  576   32   32 body carrying3 up
+SPRITE  273            BODY   32  576   32   32 body carrying3 left
+SPRITE  274            BODY   64  576   32   32 body carrying3 down
+SPRITE  275            BODY   96  576   32   32 body carrying3 right
+SPRITE  276            BODY    0  608   32   32 body carrying4 up
+SPRITE  278            BODY   64  608   32   32 body carrying4 down
+SPRITE  280            BODY    0  640   32   32 body carrying5 up
+SPRITE  282            BODY   64  640   32   32 body carrying5 down
+
+LOOP
+CONTINUOUS
+DEFAULTATTR1 hat0.png
+DEFAULTATTR3 bushitem.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   0  12  36,  268   8  16,  100   8   2,   40   0 -16,  260   8   2,    1   8 -20
+   0  12  36,  269  10  14,  101  12   0,   41   0 -18,  261  12   0,    1   8 -22
+   0  12  36,  270   8  16,  102   8   2,   42   0 -16,  262   8   2,    1   8 -20
+   0  12  36,  271   6  14,  103   4   0,   43   0 -18,  263   4   0,    1   8 -22
+PLAYSOUND steps2.wav 1.5 2
+
+   0  12  36,  272   8  16,  100   8   4,   40   0 -14,  260   8   4,    1   8 -18
+   0  12  36,  273  10  14,  101  12   2,   41   0 -16,  261  12   2,    1   8 -20
+   0  12  36,  274   8  16,  102   8   4,   42   0 -14,  262   8   4,    1   8 -18
+   0  12  36,  275   6  14,  103   4   2,   43   0 -16,  263   4   2,    1   8 -20
+
+   0  12  36,  268   8  16,  100   8   2,   40   0 -16,  260   8   2,    1   8 -20
+   0  12  36,  269  10  14,  101  12   0,   41   0 -18,  261  12   0,    1   8 -22
+   0  12  36,  270   8  16,  102   8   2,   42   0 -16,  262   8   2,    1   8 -20
+   0  12  36,  271   6  14,  103   4   0,   43   0 -18,  263   4   0,    1   8 -22
+
+   0  12  34,  264   8  16,  100   8   0,   40   0 -18,  260   8   0,    1   8 -22
+   0  12  36,  265  10  16,  101  12   0,   41   0 -18,  261  12   0,    1   8 -22
+   0  12  34,  266   8  16,  102   8   0,   42   0 -18,  262   8   0,    1   8 -22
+   0  12  36,  267   6  16,  103   4   0,   43   0 -18,  263   4   0,    1   8 -22
+
+   0  12  36,  276   8  16,  100   8   2,   40   0 -16,  260   8   2,    1   8 -20
+   0  12  36,  269  10  14,  101  12   0,   41   0 -18,  261  12   0,    1   8 -22
+   0  12  36,  278   8  16,  102   8   2,   42   0 -16,  262   8   2,    1   8 -20
+   0  12  36,  271   6  14,  103   4   0,   43   0 -18,  263   4   0,    1   8 -22
+PLAYSOUND steps2.wav 1.5 2
+
+   0  12  36,  280   8  16,  100   8   4,   40   0 -14,  260   8   4,    1   8 -18
+   0  12  36,  273  10  14,  101  12   2,   41   0 -16,  261  12   2,    1   8 -20
+   0  12  36,  282   8  16,  102   8   4,   42   0 -14,  262   8   4,    1   8 -18
+   0  12  36,  275   6  14,  103   4   2,   43   0 -16,  263   4   2,    1   8 -20
+
+   0  12  36,  276   8  16,  100   8   2,   40   0 -16,  260   8   2,    1   8 -20
+   0  12  36,  269  10  14,  101  12   0,   41   0 -18,  261  12   0,    1   8 -22
+   0  12  36,  278   8  16,  102   8   2,   42   0 -16,  262   8   2,    1   8 -20
+   0  12  36,  271   6  14,  103   4   0,   43   0 -18,  263   4   0,    1   8 -22
+
+   0  12  34,  264   8  16,  100   8   0,   40   0 -18,  260   8   0,    1   8 -22
+   0  12  36,  265  10  16,  101  12   0,   41   0 -18,  261  12   0,    1   8 -22
+   0  12  34,  266   8  16,  102   8   0,   42   0 -18,  262   8   0,    1   8 -22
+   0  12  36,  267   6  16,  103   4   0,   43   0 -18,  263   4   0,    1   8 -22
+
+ANIEND
+

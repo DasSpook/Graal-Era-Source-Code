@@ -1,0 +1,32 @@
+SPRITE    0         SPRITES    0    0   24   12 shadow
+SPRITE    1           ATTR3    0    0   32   32 item
+SPRITE   40           ATTR1    0    0   48   48 hat up
+SPRITE   41           ATTR1   48    0   48   48 hat left
+SPRITE   42           ATTR1   96    0   48   48 hat down
+SPRITE   43           ATTR1  144    0   48   48 hat right
+SPRITE  102            HEAD    0   64   32   32 head down
+SPRITE  108            HEAD    0  272   32   32 head pushing up
+SPRITE  109            HEAD    0  304   32   32 head pushing left
+SPRITE  111            HEAD    0  368   32   32 head pushing right
+SPRITE  256            BODY    0  448   32   32 body lifting up
+SPRITE  257            BODY   32  448   32   32 body lifting left
+SPRITE  258            BODY   64  448   32   32 body lifting down
+SPRITE  259            BODY   96  448   32   32 body lifting right
+
+CONTINUOUS
+SETBACKTO idle
+DEFAULTATTR1 hat0.png
+DEFAULTATTR3 bushitem.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   0  12  36,    1   8  -6,  256   8  16,  108   8   4,   40   0 -11
+   0  12  36,  257  10  16,  109  12   4,   41   0 -13,    1 -15   9
+   0  12  36,  258   8  16,  102   8   6,   42   0 -12,    1   8  34
+   0  12  36,  259   6  16,  111   4   4,   43   0 -13,    1  30   9
+WAIT 5
+PLAYSOUND put.wav 1.5 2
+
+ANIEND
+

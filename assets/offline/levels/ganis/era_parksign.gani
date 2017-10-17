@@ -1,0 +1,11 @@
+GANI0001
+SPRITE    0         SPRITES    0    0   24   16 shadow
+SPRITE    1 era_sign-parking.png    0   0  40  110 parking sign
+
+SINGLEDIRECTION
+DEFAULTHEAD
+DEFAULTBODY
+
+ANI
+   1  4 -75
+ANIEND

@@ -1,0 +1,88 @@
+GANI0001
+SPRITE   -5            BODY   40  494    8    8 sprite
+SPRITE    0         SPRITES    0    0   24   12 shadow
+SPRITE    6            BODY   32  398    8    8 sprite
+SPRITE    8            BODY  120  330    8    8 sprite
+SPRITE   20 sprites_shotgun.png    0   17   38   17 Shotgun
+SPRITE   21 sprites_shotgun.png    0    0   38   17 Shotgun
+SPRITE   22 sprites_shotgun.png   38    0    7   34 Shotgun
+SPRITE   23 sprites_shotgun.png   45    0    7   31 Shotgun
+SPRITE   24 sprites_shotgun.png   52   10   11    3 Shotgun load
+SPRITE   40           ATTR1    0    0   48   48 hat up
+SPRITE   41           ATTR1   48    0   48   48 hat left
+SPRITE   42           ATTR1   96    0   48   48 hat down
+SPRITE   43           ATTR1  144    0   48   48 hat right
+SPRITE  100            HEAD    0    0   32   32 head up
+SPRITE  101            HEAD    0   32   32   32 head left
+SPRITE  102            HEAD    0   64   32   32 head down
+SPRITE  103            HEAD    0   96   32   32 head right
+SPRITE  204            BODY    0   32   32   32 body walking1 up
+SPRITE  205            BODY   32   32   32   32 body walking1 left
+SPRITE  206            BODY   64   32   32   32 body walking1 down
+SPRITE  207            BODY   96   32   32   32 body walking1 right
+SPRITE  208            BODY    0   64   32   32 body walking2 up
+SPRITE  209            BODY   32   64   32   32 body walking2 left
+SPRITE  210            BODY   64   64   32   32 body walking2 down
+SPRITE  211            BODY   96   64   32   32 body walking2 right
+SPRITE  212            BODY    0   96   32   32 body walking3 up
+SPRITE  213            BODY   32   96   32   32 body walking3 left
+SPRITE  214            BODY   64   96   32   32 body walking3 down
+SPRITE  215            BODY   96   96   32   32 body walking3 right
+SPRITE  216            BODY    0  128   32   32 body walking4 up
+SPRITE  217            BODY   32  128   32   32 body walking4 left
+SPRITE  218            BODY   64  128   32   32 body walking4 down
+SPRITE  219            BODY   96  128   32   32 body walking4 right
+SPRITE  220            BODY    0  160   32   32 body walking5 up
+SPRITE  221            BODY   32  160   32   32 body walking5 left
+SPRITE  222            BODY   64  160   32   32 body walking5 down
+SPRITE  223            BODY   96  160   32   32 body walking5 right
+
+LOOP
+CONTINUOUS
+DEFAULTATTR1 hat0.png
+DEFAULTHEAD head.png
+DEFAULTBODY body.png
+
+ANI
+  23  33  -2,    0  12  36,   23   8  -2,  216   8  16,  100   8   4,   40   0 -14
+  20 -17  13,    0  12  36,  217  12  16,  101  12   0,   41   0 -18,   20 -12  22,   24   0  29,   24  -5  20,    6  17  28
+   0  12  36,  218   8  16,  102   8   2,   42   0 -16,   22  28  23,   22   8  20
+  24  38  22,   21  26  15,    0  12  36,  219   2  16,  103   4   0,   43   0 -18,   21  22  22,   24  37  29,    8  23  28
+PLAYSOUND steps2.wav 3.875 2.5
+
+  23  32  -5,    0  12  36,   23   8  -8,  220   8  17,  100   8   0,   40   0 -18
+  24  -6  21,   20 -18  14,    0  12  36,  221  11  17,  101  12   2,   41   0 -16,   20 -16  22,   24  -4  29,    6  13  28
+   0  12  36,  222   8  20,  102   8   0,   42   0 -18,   22  27  21,   22   9  20
+  24  42  21,   21  27  14,    0  12  36,  223   4  16,  103   4   2,   43   0 -16,   21  27  21,   24  42  28,    8  27  28
+
+  23  33  -2,    0  12  36,   23   8   0,  216   8  16,  100   8   4,   40   0 -14
+  20 -17  17,   24  -5  24,    0  12  36,  217  12  19,  101  12   0,   41   0 -18,   20 -14  26,   24  -2  33,    6  15  31
+   0  12  36,  218   8  16,  102   8   2,   42   0 -16,   22  28  23,   22   8  19
+  21  26  17,    0  12  36,  219   2  16,  103   4   0,   43   0 -18,   21  21  26,   24  36  33,   24  42  24,    8  22  31
+
+  23  33  -1,    0  12  36,   23   7   4,  212   8  17,  100   8   4,   40   0 -14
+  20 -16  19,   24  -4  26,    0  12  36,  213  12  18,  101  12   2,   41   0 -16,   20  -9  28,   24   3  35,    6  21  33
+   0  12  36,  214   8  16,  102   8   4,   42   0 -14,   22  33  26,   22   8  25
+  21  27  18,    0  12  36,  215   2  18,  103   4   2,   43   0 -16,   21  16  28,   24  31  35,   24  44  25,    8  17  34
+
+  23  34  -2,    0  12  36,   23   7   1,  208   8  16,  100   8   2,   40   0 -16
+  20 -17  13,    0  12  36,   24  -5  20,  209  12  14,  101  12   0,   41   0 -18,   20  -5  23,   24   6  30,    6  24  29
+   0  12  36,  210   8  16,  102   8   2,   42   0 -16,   22  32  23,   22  12  21
+  24  43  22,   21  26  15,    0  12  36,  211   2  14,  103   4   0,   43   0 -18,   21  14  23,   24  29  30,    8  16  28
+PLAYSOUND steps2.wav 1.125 5.375
+
+  23  33  -5,    0  12  36,   23   7  -1,  204   8  15,  100   8   0,   40   0 -18
+  20 -16  15,    0  12  36,  205  10  16,  101  10   0,   41  -2 -18,   20  -3  21,   24   9  28,    6  26  27
+   0  12  36,  206   8  14,  102   8   0,   42   0 -18,   22  32  20,   22  14  19
+  24  41  21,   21  25  14,    0  12  36,  207   4  16,  103   6   0,   43   2 -18,   21  11  21,   24  26  28,    8  12  28
+
+   0  12  36,   23  33  -2,   23   7   0,  208   8  16,  100   8   2,   40   0 -16
+  20 -17  14,    0  12  36,  209  12  14,  101  12   0,   41   0 -18,   20  -5  23,   24   7  30,   24  -5  21,    6  23  29
+   0  12  36,  210   8  16,  102   8   2,   42   0 -16,   22  32  22,   22  12  22
+  21  25  15,    0  12  36,   24  42  22,  211   2  14,  103   4   0,   43   0 -18,   21  14  23,   24  29  30,    8  14  29
+
+  23  33   0,    0  12  36,   23   7   3,  212   8  16,  100   8   4,   40   0 -14
+  20 -18  18,    0  12  36,  213  12  18,  101  12   2,   41   0 -16,   20  -7  29,   24   3  36,   24  -8  25,    6  21  35
+   0  12  36,  214   8  16,  102   8   4,   42   0 -14,   22  33  26,   22   8  26
+  21  25  18,    0  12  36,  215   2  18,  103   4   2,   43   0 -16,   21  16  29,   24  31  36,   24  41  25,    8  17  35
+ANIEND

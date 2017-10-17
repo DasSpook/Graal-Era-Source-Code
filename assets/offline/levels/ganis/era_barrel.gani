@@ -1,0 +1,49 @@
+GANI0001
+SPRITE    1 era_barrelsprites.png    2    2   19   16 sprite
+SPRITE    2 era_barrelsprites.png   22    2   19   16 sprite
+SPRITE    3 era_barrelsprites.png   42    2   19   16 sprite
+SPRITE    4 era_barrelsprites.png   60    2   19   16 sprite
+SPRITE    5 era_barrelsprites.png   80    2   19   16 sprite
+SPRITE    6 era_barrelsprites.png  100    2   19   16 sprite
+SPRITE    7 era_barrelsprites.png  120    2   19   16 sprite
+SPRITE    8 era_barrelsprites.png  140    2   19   16 sprite
+SPRITE    9 era_barrelsprites.png  160    2   19   16 sprite
+SPRITE   10 era_barrelsprites.png  180    2   19   16 sprite
+SPRITE   11 era_barrelsprites.png  200    2   19   16 sprite
+SPRITE   12 era_barrelsprites.png  220    2   19   16 sprite
+SPRITE   13 era_barrelsprites.png  240    2   19   16 sprite
+SPRITE   15  era_barrel.png    1    1   35   50 sprite
+SPRITE   16 era_barrelsprites.png    1   21   21   21 sprite
+SPRITE   17 era_barrelsprites.png    1   40   21   21 sprite
+SPRITE   18 era_barrelsprites.png    1   60   21   21 sprite
+SPRITE   19 era_barrelsprites.png    1   80   21   21 sprite
+SPRITE   20 era_barrelsprites.png   20   20   21   21 sprite
+SPRITE   21 era_barrelsprites.png   20   40   21   21 sprite
+SPRITE   22 era_barrelsprites.png   20   60   21   21 sprite
+SPRITE   23 era_barrelsprites.png   20   80   21   21 sprite
+SPRITE   24 era_barrelsprites.png  220   20   21   21 sprite
+SPRITE   25 era_barrelsprites.png  200   80   21   21 sprite
+SPRITE   26 era_barrelsprites.png  160   80   21   21 sprite
+SPRITE   27 era_barrelsprites.png  140   80   21   21 sprite
+SPRITE   28 era_barrelsprites.png   40   20   21   21 sprite
+SPRITE   29 era_barrelsprites.png   40   60   21   21 sprite
+SPRITE   30 era_barrelsprites.png   40   40   21   21 sprite
+SPRITE   31 era_barrelsprites.png   20  120   21   21 sprite
+SPRITE   32 era_barrelsprites.png    1  200   21   21 sprite
+SPRITE   33 era_barrelsprites.png    1  180   21   21 sprite
+SPRITE   34 era_barrelsprites.png  100   40   21   21 sprite
+SPRITE   35 era_barrelsprites.png  100   80   21   21 sprite
+SPRITE   36 era_barrelsprites.png   40  180   21   21 sprite
+SPRITE   37 era_barrelsprites.png  100  100   21   21 sprite
+SPRITE   38 era_barrelsprites.png  240   40   21   21 sprite
+SPRITE   39 era_barrelsprites.png  240   80   21   21 sprite
+
+SINGLEDIRECTION
+DEFAULTATTR1 hat0.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   1   9   5,    2  15  -1,    3  22   5,    4   5  13,    5  14  14,    6  23  12,    7   5  21,    8  17  22,    9  18  24,   10  26  19,   11   5  30,   12  16  30,   13  25  29,   15  10   0
+WAIT 3
+ANIEND

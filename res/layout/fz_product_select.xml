@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/fz_product_select" android:background="@drawable/fz_sel_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/fz_top_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/fz_top_bar" />
+    <ImageView android:id="@id/fz_powered" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:src="@drawable/fz_powered" android:adjustViewBounds="true" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+    <com.fabzat.shop.utils.ui.FZHorizontalPager android:gravity="bottom" android:layout_gravity="bottom" android:id="@id/fz_select_pager" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/fz_top_bar" android:layout_centerVertical="true" />
+    <ImageView android:id="@id/fz_arrow_left" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:src="@drawable/fz_arrow_left" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+    <ImageView android:id="@id/fz_arrow_right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:src="@drawable/fz_arrow_right" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    <LinearLayout android:gravity="center" android:id="@id/fz_progressbar" android:background="@color/fz_transparent_grey" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/fz_top_bar">
+        <ProgressBar android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</RelativeLayout>

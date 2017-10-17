@@ -1,0 +1,13 @@
+uniform mat4 modelViewProjectionMatrix;
+
+attribute vec4 position;
+attribute vec2 texture0;
+
+varying vec2 texCoord;
+varying vec4 pos;
+
+void main() {
+	texCoord = texture0;
+	pos = modelViewProjectionMatrix * position;
+	gl_Position = pos;
+}

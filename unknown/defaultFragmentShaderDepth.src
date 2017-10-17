@@ -1,0 +1,30 @@
+precision highp float;
+
+varying vec4 pos;
+varying vec2 texCoord;
+
+const vec4 SHIFT = vec4(256.0 * 256.0 * 256.0,  256.0 * 256.0,  256.0,  1.0);
+const vec4 MASK = vec4(0, 1.0 / 256.0, 1.0 / 256.0, 1.0 / 256.0);
+
+vec4 pack(float depth) {
+	vec4 packy = fract(depth * SHIFT);
+	packy -= packy * MASK;
+	return packy;
+}
+
+/*
+float getShadowFactor(vec4 lightZ)
+	vec4 packedZValue = texture2D(shadowTexture, lightZ.st);
+	const vec4 bitShifts = vec4(1.0 / (256.0 * 256.0 * 256.0), 1.0 / (256.0 * 256.0), 1.0 / 256.0, 1);
+	float shadow = dot(packedZValue , bitShifts);
+
+	return float(shadow > lightZ.z);
+}
+*/
+
+void main() {
+	float dist  = pos.z / pos.w;
+	dist = (dist + 1.0) / 2.0;
+	dist += 0.0005;
+	gl_FragColor = pack(dist);
+}

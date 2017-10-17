@@ -1,0 +1,17 @@
+SPRITE    0         SPRITES    0    0   24   12 shadow
+SPRITE    1           ATTR3    0    0   32   32 item
+
+LOOP
+CONTINUOUS
+SINGLEDIRECTION
+DEFAULTATTR3 bushitem.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   0  12  34,    1   8  16
+PLAYSOUND steps2.wav 1.5 2
+WAIT4
+
+ANIEND
+

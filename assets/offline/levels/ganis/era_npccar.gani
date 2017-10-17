@@ -1,0 +1,44 @@
+GANI0001
+SPRITE    0         SPRITES    0    0    1    1 shadow
+SPRITE    1         ATTR1      0    0   64  106 car up
+SPRITE    2         ATTR1      0    0   64  106 car left
+SPRITE    3         ATTR1      0    0   64  106 car down
+SPRITE    4         ATTR1      0    0   64  106 car right
+SPRITE    5 era_spotlight_1.png  0 0 64 128 spot light
+SPRITE    6 era_spotlight_1.png  0 0 64 128 spot light
+SPRITE    7 era_spotlight_1.png  0 0 64 128 spot light
+SPRITE    8 era_spotlight_1.png  0 0 64 128 spot light
+SPRITE  100            HEAD    0    0   32   32 head up
+SPRITE  101            HEAD    0   32   32   32 head left
+SPRITE  102            HEAD    0   64   32   32 head down
+SPRITE  103            HEAD    0   96   32   32 head right
+ROTATEEFFECT 2 4.7124
+ROTATEEFFECT 3 3.1416
+ROTATEEFFECT 4 1.5708
+ROTATEEFFECT 6 4.7124
+ROTATEEFFECT 7 3.1416
+ROTATEEFFECT 8 1.5708
+EFFECTMODE 5 0
+EFFECTMODE 5 0
+EFFECTMODE 5 0
+EFFECTMODE 5 0
+COLOREFFECT 5 1 1 0.8 0.6
+COLOREFFECT 6 1 1 0.8 0.6
+COLOREFFECT 7 1 1 0.8 0.6
+COLOREFFECT 8 1 1 0.8 0.6
+LAYER 5 3
+LAYER 5 3
+LAYER 5 3
+LAYER 5 3
+
+CONTINUOUS
+DEFAULTATTR1 era_car0_0.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   0  12  34, 1 -8 -21, 5  -32 -128, 5   13 -128, 100 9 20
+   0  12  34, 2 -8 -21, 6 -104  -54, 6 -104   -9, 101 20 0
+   0  12  34, 3 -8 -21, 7  -30   63, 7   15   63, 102 9 5
+   0  12  34, 4 -8 -21, 8   87  -56, 8   87  -11, 103 0 0
+ANIEND

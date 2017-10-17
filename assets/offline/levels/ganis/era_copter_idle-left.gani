@@ -1,0 +1,20 @@
+GANI0001
+SPRITE    0         SPRITES    0    0   24   16 shadow
+SPRITE   20 era_helicopter.gif    0    0  275  118 Copter (0)
+SPRITE   21 era_helicopter.gif  275    0  275  118 Copter (1)
+SPRITE   22 era_helicopter.gif  550    0   14  122 Copter Blade 1
+SPRITE   23 era_helicopter.gif  428  122  230   14 Copter Blade 2
+SPRITE   24 era_helicopter.gif    0  118   60   60 Copter Blade 3
+SPRITE   25 era_helicopter.gif   60  118   46   46 Copter Blade 3
+SPRITE   26 era_helicopter.gif  106  118  161  109 Copter Blade 3
+SPRITE   27 era_helicopter.gif  267  118  161  109 Copter Blade 3
+
+LOOP
+CONTINUOUS
+SINGLEDIRECTION
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+  20 -64 -64,   22   9 -97,   23 -100 -47,   25 157 -50
+ANIEND

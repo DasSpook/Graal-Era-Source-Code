@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <layer-list>
+            <item android:left="2.0dip" android:top="2.0dip">
+                <shape>
+                    <corners android:radius="7.0dip" />
+                    <solid android:color="#20dfdfdf" />
+                </shape>
+            </item>
+            <item android:right="2.0dip" android:bottom="2.0dip">
+                <shape>
+                    <solid android:color="@color/fz_cart_background" />
+                    <corners android:radius="7.0dip" />
+                    <padding android:left="10.0dip" android:top="5.0dip" android:right="10.0dip" android:bottom="5.0dip" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</selector>

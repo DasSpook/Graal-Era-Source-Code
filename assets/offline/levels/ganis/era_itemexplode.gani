@@ -1,0 +1,35 @@
+GANI0001
+SPRITE    0         SPRITES    0    0   24   16 shadow
+SPRITE    1          PARAM3    0    0   16   14 debris (0, 0)
+SPRITE    2          PARAM3   16    0   16   14 debris (1, 0)
+SPRITE    3          PARAM3    0   14   16   14 debris (0, 1)
+SPRITE    4          PARAM3   16   14   16   14 debris (1, 1)
+SPRITE    5          PARAM1    0    0   32   32 item
+SPRITE    6          PARAM1    0    0   16   16 item (0, 0)
+SPRITE    7          PARAM1   16    0   16   16 item (1, 0)
+SPRITE    8          PARAM1    0   16   16   16 item (0, 1)
+SPRITE    9          PARAM1   16   16   16   16 item (1, 1)
+
+SINGLEDIRECTION
+SETBACKTO era_flowergone
+DEFAULTPARAM1 chrisz_ph-plant.gif
+DEFAULTPARAM2 wood_crush.wav
+DEFAULTPARAM3 era_explodedebris1.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   5   0   0,    1   2   6,    2  13   6,    3   3  14,    4  16  15,    3   8  11
+
+   6  -6  -6,    8  -6  22,    7  22  -6,    1  -1   2,    9  22  22,    2  17   1,    3   1  15,    4  17  17,    3   8   9
+PLAYSOUND PARAM2 1.5 2
+
+   1  -6  -3,    2  22  -4,    3  -3  13,    4  19  15,    3   8   5
+
+   1 -14 -11,    2  28  -9,    3  -8  11,    4  24  13,    3  10  -1
+
+   1 -20  -8,    2  33  -5,    3 -14  17,    4  28  17,    3   8   2
+
+   1 -25  -1,    2  43   2,    3 -15  19,    4  30  19,    3   8   8
+WAIT 1
+ANIEND

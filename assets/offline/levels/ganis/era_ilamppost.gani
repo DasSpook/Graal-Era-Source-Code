@@ -1,0 +1,23 @@
+GANI0001
+SPRITE    0         SPRITES    0    0   24   16 shadow
+SPRITE    1 era_lampposts.png    0    0   40  144 sprite right
+SPRITE    2 era_lampposts.png   40    0   40  144 sprite left
+SPRITE    3 era_lampposts.png   80    0   19  144 sprite up
+SPRITE    4 era_lampposts.png   99    0   19  144 sprite down
+SPRITE    5 era_lamplight_1.png 0 0 224 256 lamp shaped light
+SPRITE    6 light2.png          0 0 128 128 light effect
+LAYER 5 3
+LAYER 6 3
+COLOREFFECT 5 0.976 0.988 0.705 0.25
+COLOREFFECT 6 0.976 0.988 0.705 0.55
+ZOOMEFFECT 6 4
+
+DEFAULTHEAD 
+DEFAULTBODY
+
+ANI
+   3  14 -103, 5 -80 -160, 6 -40 -48
+   2  -7 -103, 5 -96 -160, 6 -56 -48
+   4  14 -103, 5 -80 -160, 6 -40 -48
+   1  14 -103, 5 -64 -160, 6 -24 -48
+ANIEND

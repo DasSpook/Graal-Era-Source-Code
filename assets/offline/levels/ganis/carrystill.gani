@@ -1,0 +1,32 @@
+SPRITE    0         SPRITES    0    0   24   12 shadow
+SPRITE    1           ATTR3    0    0   32   32 item
+SPRITE   40           ATTR1    0    0   48   48 hat up
+SPRITE   41           ATTR1   48    0   48   48 hat left
+SPRITE   42           ATTR1   96    0   48   48 hat down
+SPRITE   43           ATTR1  144    0   48   48 hat right
+SPRITE  100            HEAD    0    0   32   32 head up
+SPRITE  101            HEAD    0   32   32   32 head left
+SPRITE  102            HEAD    0   64   32   32 head down
+SPRITE  103            HEAD    0   96   32   32 head right
+SPRITE  260            BODY    0  480   32   32 body hands up
+SPRITE  261            BODY   32  480   32   32 body hands left
+SPRITE  262            BODY   64  480   32   32 body hands down
+SPRITE  263            BODY   96  480   32   32 body hands right
+SPRITE  264            BODY    0  512   32   32 body carrying1 up
+SPRITE  265            BODY   32  512   32   32 body carrying1 left
+SPRITE  266            BODY   64  512   32   32 body carrying1 down
+SPRITE  267            BODY   96  512   32   32 body carrying1 right
+
+DEFAULTATTR1 hat0.png
+DEFAULTATTR3 bushitem.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   0  12  34,  264   8  16,  100   8   0,   40   0 -18,  260   8   0,    1   8 -22
+   0  12  36,  265  10  16,  101  12   0,   41   0 -18,  261  12   0,    1   8 -22
+   0  12  34,  266   8  16,  102   8   0,   42   0 -18,  262   8   0,    1   8 -22
+   0  12  36,  267   6  16,  103   4   0,   43   0 -18,  263   4   0,    1   8 -22
+
+ANIEND
+

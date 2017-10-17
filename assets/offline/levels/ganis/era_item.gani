@@ -1,0 +1,14 @@
+GANI0001
+SPRITE    0         SPRITES    0    0   24   16 shadow
+SPRITE    1          PARAM1    0    0  128  128 param1
+
+DEFAULTPARAM1 garage-door1.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   0  12  34
+   0  12  34
+   1   0   0
+   0  12  34
+ANIEND

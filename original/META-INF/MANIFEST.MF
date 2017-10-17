@@ -1,0 +1,3456 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/offline/levels/images/icon/icon_blackjackcards.png
+SHA1-Digest: meOCo4S0SxDv2lVLegmNRKGPz0c=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_ar.png
+SHA1-Digest: yvGqg8i4BHXsSXow7VTwxuNP5Fo=
+
+Name: defaultFragmentShaderDepth.src
+SHA1-Digest: rPd/ByAzuRfVNXPOFwP6+rfbnG0=
+
+Name: assets/offline/levels/emoticons/emoticon_XX.png
+SHA1-Digest: DT/oyIcljo11cggh3g/DdyqT9Yk=
+
+Name: res/drawable-hdpi/fz_cart_line.9.png
+SHA1-Digest: 0JdhrSHhrgLStJIz3L560fzOA2U=
+
+Name: res/drawable/com_facebook_picker_list_longpressed.9.png
+SHA1-Digest: /uU9+qqC9MjC0cwR3L+DskCy9xM=
+
+Name: assets/offline/levels/bodies/body4.png
+SHA1-Digest: vZ1USWGAytaRx7HIF0knOwila1M=
+
+Name: assets/offline/levels/images/era/era_radiottower1.png
+SHA1-Digest: fs8+0qVndd3T84ARrgnE2boulGo=
+
+Name: assets/offline/levels/images/era/era_beach-lemonade.png
+SHA1-Digest: m+GU4xOys/u4Mdic69R4ObakZxQ=
+
+Name: assets/offline/levels/tiles/tileset_era01-summer.png
+SHA1-Digest: w0qCeasi3lx1dst/Tng7uf14b90=
+
+Name: assets/offline/levels/images/tachi/tachi_metaldoor.png
+SHA1-Digest: 9eOlhHkwSFRSAjhgeW35Gl19DAg=
+
+Name: defaultVertexShaderDepth.src
+SHA1-Digest: EaIdLKKXxbnMdA9zmgSXiXzGWEA=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/SSBarN
+ oneActiveUp.bmp
+SHA1-Digest: AqQwK3zezjDDPBJx5d/7T/pn/0I=
+
+Name: assets/offline/levels/ganis/isword.gani
+SHA1-Digest: EL57dJOa5j8SRAsQi+mAgfDCsMg=
+
+Name: assets/offline/levels/images/era/era_southridge-blockade.png
+SHA1-Digest: A8OtuTOeGP3D93954Sl4ZoRbAfU=
+
+Name: assets/offline/levels/images/era/era_blookatrooftop.png
+SHA1-Digest: CBXhu7msZBHXPZcEs03gOBunxMQ=
+
+Name: assets/offline/levels/ganis/era_gang_door_neutral.gani
+SHA1-Digest: 9kHW856aZ7Fyv0ocmSXXlzqTW14=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/tracks
+ lidersidetoside.tga
+SHA1-Digest: Q55TGdZhGCjsNSMeCrI3IE0geNs=
+
+Name: assets/offline/levels/images/era/era_shortparkingsign1.png
+SHA1-Digest: AEJJjsIF+EqHQYY4o7CvgR5JyG0=
+
+Name: assets/offline/levels/images/era/era_ptwindow5.gif
+SHA1-Digest: T8A56ZXgfZ4EtIxBhNM3GHQshLM=
+
+Name: res/drawable/com_facebook_loginbutton_blue.xml
+SHA1-Digest: gnwYUb3xEDVuqA9XBckhmOArWb4=
+
+Name: res/drawable/fz_grey_background.xml
+SHA1-Digest: 6rm4FU1ol98TDHIQ2DdHn3/CiNs=
+
+Name: assets/offline/levels/images/classicgui/classicgui_color_darkblu
+ e.png
+SHA1-Digest: dQiIwJ0Qw//WYfxvetughzF8B4I=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/radiel
+ .tga
+SHA1-Digest: o+TUkz3I//de75DuK2K/VWdZvbU=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_camerabutton.pn
+ g
+SHA1-Digest: L/P3tAHe0805PtLfvUje3d+oqR4=
+
+Name: assets/offline/levels/images/era/era_ghostpiratestatue.png
+SHA1-Digest: dUeWrz2X3uahAxBUTA28Ydmx9zY=
+
+Name: assets/offline/levels/images/era/era_door-metal-glass-1.png
+SHA1-Digest: /2gX/uSKp37d3Ixr3YCb7s3YvSg=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_in.png
+SHA1-Digest: YdoS22l1TXEch6YatzptYO1CRNk=
+
+Name: assets/offline/levels/images/stop/stop_sign.png
+SHA1-Digest: lYplfrv1kIFn/4rlf5pLNbybsUs=
+
+Name: assets/offline/levels/images/era/era_icon-trash-news.png
+SHA1-Digest: D2gE111f5tGLx5UDnxLWUp6XWe4=
+
+Name: assets/offline/levels/images/downloads/gencomp2.gif
+SHA1-Digest: tXGYBlK3yUqXfwyrd+OYu5Zgdgs=
+
+Name: assets/offline/levels/images/era/era_hat-icon-060.png
+SHA1-Digest: yLdjzGAis8EUkEItFF7tNk5xbcc=
+
+Name: assets/offline/levels/images/era/era_woisign.png
+SHA1-Digest: U+RLQPbZJG/j2ku2XXkOTbvNuuQ=
+
+Name: res/drawable/fz_cart_total_background.xml
+SHA1-Digest: Q7TMLlxeePabwKbZh9QDkrFVzi0=
+
+Name: assets/offline/levels/ganis/era_handgun-idledual.gani
+SHA1-Digest: lUU3TIlOzoHfN1vHEPIfrln8uL4=
+
+Name: assets/offline/levels/images/gui/gui_interface_line_dino.png
+SHA1-Digest: FRnMK0Y1XnF2uoGndaHcxlcmmuo=
+
+Name: assets/offline/levels/music/eraiphone_musiceffect1.mp3
+SHA1-Digest: IJ2mdJvnIXjN4mDcWvFdyzfdZKo=
+
+Name: assets/offline/levels/images/era/era_handicapsign.png
+SHA1-Digest: rcqtKnXBTXCgixrz9vQdvGUXAqA=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_help_gangs.png
+SHA1-Digest: w3eiEzfME9aIMCQunxRbAUQR6ZQ=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_facebookaddnews
+ button.png
+SHA1-Digest: Ee7zDSddsqIDveGXu57a4vNtUao=
+
+Name: assets/offline/levels/ganis/era_mjdanceswift.gani
+SHA1-Digest: qzmaKb6BNjME5cYDKmBS1P/0Hlo=
+
+Name: assets/offline/sounds/dead.wav
+SHA1-Digest: os7ASvWKIHFgVucuOLNQx1MrJ1Y=
+
+Name: assets/offline/levels/images/era/era_flower-5_2b.png
+SHA1-Digest: 8Whfqax3fs5buy6pazZwilApujk=
+
+Name: assets/offline/levels/heads/head176.png
+SHA1-Digest: 4J3Q5R0SrozVYqXGk02fWnaC5XY=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/xpdevi
+ derleft.tga
+SHA1-Digest: UV+FBdO+DpJ0l8kIjZLJJy9mRQ0=
+
+Name: assets/offline/levels/images/era/era_image-cartelesmine.png
+SHA1-Digest: HU1YMkmpSuGJ1lQs/wtAcRW81kc=
+
+Name: assets/offline/levels/images/downloads/light4.png
+SHA1-Digest: bJ5DElbzegLkLd+JhsfCHRFaUcI=
+
+Name: res/layout/fz_address_new_box.xml
+SHA1-Digest: CvrIYarL7jHEsZdtgelA5xusejc=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_fr.png
+SHA1-Digest: 7Gewdqj+i3qr6jW5XVJ+90vFY5I=
+
+Name: res/drawable/com_facebook_picker_list_pressed.9.png
+SHA1-Digest: ughAWBlhb5fxIgHli8NgEiGGjGY=
+
+Name: res/drawable/com_facebook_button_check_on.png
+SHA1-Digest: ObcSDxnphDDTROHTniwThtnJVWk=
+
+Name: assets/offline/levels/images/era/era_houseplant1.gif
+SHA1-Digest: gW/1s8LzRQcnxqfcGtreoBxxQeI=
+
+Name: assets/offline/levels/heads/head723.png
+SHA1-Digest: PHuPDlrBgkJXK/7ZtakzIvEpJdw=
+
+Name: assets/offline/levels/images/era/era_helicopter.gif
+SHA1-Digest: 7YdhxCteAtlvz9fu8DvpWK4WEP4=
+
+Name: assets/offline/levels/heads/head18.png
+SHA1-Digest: 0e4Zd0VF8CUKDPWOo45CRWBQHXc=
+
+Name: assets/offline/levels/images/era/era_door-paper-panel-1.png
+SHA1-Digest: ixXf0z2n2zGAv5zi0iJ+r64sW6M=
+
+Name: assets/offline/levels/images/era/era_icon-trash-tire.png
+SHA1-Digest: G1ogKGtcOn0IJ/8tNpFQ/MZUXEs=
+
+Name: assets/offline/levels/images/era/era_painting-6.gif
+SHA1-Digest: OWIVuIF6/m6Dy8Xzxhlrd+VGs68=
+
+Name: assets/offline/levels/ganis/era_shotgun-walk.gani
+SHA1-Digest: IymiaLm3xLvRKLZmrtRZKRpcrpY=
+
+Name: assets/offline/levels/images/era/era_flower-5_3a.png
+SHA1-Digest: 1LW/Jlj6pe4pCJDiie5xInym7Bc=
+
+Name: assets/offline/levels/images/era/era_image-liftbutton.png
+SHA1-Digest: ZFVpFDT9kbcKzhgVP8e/y+Inq5s=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_signbutton.png
+SHA1-Digest: cek52TbdnT4WDuW57yBc4+4rdHs=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Scrool
+ Horbars.bmp
+SHA1-Digest: XmiHJ0RGtEbVlz7jb0sWPS39gqM=
+
+Name: assets/offline/levels/images/classicgui/classicgui_color_darkred
+ .png
+SHA1-Digest: qqYzovG/tCeFBiK/SP69UfDui4Q=
+
+Name: assets/offline/levels/emoticons/emoticon_Wink.png
+SHA1-Digest: TI7iBaxDvsW1PFhyBmDdKpuCwgU=
+
+Name: assets/offline/levels/ganis/era_treenew.gani
+SHA1-Digest: UoplYcZ/K4BN6XlYP+dJAiXcdqg=
+
+Name: assets/offline/levels/ganis/era_gun-ak47-bolt.gani
+SHA1-Digest: za1ikorvn8wtgQIwm0/rB+i02k4=
+
+Name: assets/offline/levels/ganis/guigames_wait.gani
+SHA1-Digest: QbXZLJNEwOXRkl++173CS/lWM1s=
+
+Name: res/layout/com_facebook_usersettingsfragment.xml
+SHA1-Digest: P5TYggNUFwMlFYoh1++50rZT6lM=
+
+Name: assets/offline/levels/images/carskeleton/carskeleton_1.gif
+SHA1-Digest: QC/o2WzXpkncUV2YiMLu0R7/fF4=
+
+Name: res/layout/fz_price_item.xml
+SHA1-Digest: DH2nNzhJJ1gcnBBzSx3XNCz1Tu0=
+
+Name: assets/offline/levels/images/era/era_gun-icon-uzidual.png
+SHA1-Digest: yp4H4tPhgu8mtCdTxdmV4CsuYsY=
+
+Name: assets/offline/levels/fonts/tahomabd.ttf
+SHA1-Digest: tMAlpJWuLdrQFojsTLmDhuP/8Zc=
+
+Name: assets/offline/levels/images/era/era_flower-3_5b.png
+SHA1-Digest: dMfIgP4ro6LIR/FZtsy/Dj+3JvE=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_ch.png
+SHA1-Digest: YjzfSHucoX5UVJ8lx2T/bRPkcEQ=
+
+Name: assets/offline/levels/images/era/era_srhatshop-roof.png
+SHA1-Digest: /FvUvTtgxwhL86SHnNuX6f9GxCE=
+
+Name: res/drawable-xhdpi/com_facebook_button_grey_pressed.9.png
+SHA1-Digest: CKFnDef2GfRTaRgjuT6+/5YzUk4=
+
+Name: assets/offline/levels/images/era/era_door-metal-panel-1-destroye
+ d.png
+SHA1-Digest: hijHjAL0dzc2tGMnOAXRj0QURRo=
+
+Name: assets/offline/levels/images/era/era_sign-nopk.png
+SHA1-Digest: SGT4F4u9bcLIS7jhBt/msnf3a8o=
+
+Name: assets/offline/levels/images/era/era_flower-2_2b.png
+SHA1-Digest: kgPlRJHIALsNwma9PVnC5Ycd4+M=
+
+Name: assets/offline/sounds/bird2.wav
+SHA1-Digest: Y/Jvl//1lnf7qoftn2vRLMSb0Zc=
+
+Name: assets/offline/levels/ganis/era_shotgun-reload.gani
+SHA1-Digest: SZ7NEuqV3uQW0pI2dcjDw2DDVu8=
+
+Name: assets/offline/levels/images/era/era_flower-3_4a.png
+SHA1-Digest: 84xsdyfkEU1h9ETH37m+ywt6cYo=
+
+Name: assets/offline/levels/ganis/era_uzi-fire.gani
+SHA1-Digest: rEPBe6C6+hk6xqQh+2vKhU28oWw=
+
+Name: assets/offline/levels/images/era/era_door-ptmetal-panel-1.png
+SHA1-Digest: HcS1xj6DKXHzT8Nr+iK+6UtGPpE=
+
+Name: res/layout/com_facebook_picker_checkbox.xml
+SHA1-Digest: 1Q1nSU8wI7Eyz6xjPDV/bOx3jtc=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/MinCen
+ ter.bmp
+SHA1-Digest: H5NmU3Dhzllbn5J5AAbaYZcWH2M=
+
+Name: assets/offline/sounds/era_pmsound.wav
+SHA1-Digest: Pjb8MTesH+htGU/yeTO5sBQNloQ=
+
+Name: res/drawable-hdpi/fz_btn_red_disabled.9.png
+SHA1-Digest: f8fsNBeEilnLSCqJvHubvuOwsWQ=
+
+Name: assets/offline/levels/images/downloads/gazstationsign1.gif
+SHA1-Digest: ygkl3NnkMtRyK6IMFDhu+LFhq10=
+
+Name: assets/offline/levels/ganis/era_roadsign.gani
+SHA1-Digest: 0AqcOHWJaXK/v8NdtIeI0J8Udxw=
+
+Name: assets/offline/sounds/era_car-horn.wav
+SHA1-Digest: aarCEXlycuBwwU0t2jSCj5hNgas=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_pt.png
+SHA1-Digest: QA0CH11DHWoi4rOYI6y5olQ3x9Y=
+
+Name: assets/offline/levels/ganis/spin.gani
+SHA1-Digest: 8RK54hv2oKbOlhghV8YgJb6RDso=
+
+Name: assets/offline/levels/images/era/era_spotlight_1.png
+SHA1-Digest: CZCJByjAGZHSjvByITdgTtWp+0g=
+
+Name: assets/offline/levels/music/eraiphone_musiceffect0.mp3
+SHA1-Digest: GiMUwtxyExkCupCMo7hpTSZXsRE=
+
+Name: assets/offline/levels/images/sprites/sprites_uzi.png
+SHA1-Digest: 0Y4cG+nwH8CRiyhmIj1f+VyzGFo=
+
+Name: assets/offline/levels/images/era/era_hotkey-boxes.png
+SHA1-Digest: Qa/CIO7WB5jbrCfRUAcxDKsld3Y=
+
+Name: assets/offline/levels/images/era/era_fence1c.png
+SHA1-Digest: cuW8y/OqNeS9GCeT5+9voEhD11w=
+
+Name: assets/offline/levels/images/phayze/phayze_nt-plant.gif
+SHA1-Digest: zHRyojhBsMMH7aMdL87U5A2cC0w=
+
+Name: assets/offline/levels/ganis/carrynosound.gani
+SHA1-Digest: CkXl119UhasmJbnNxsTX5Z4I8CA=
+
+Name: res/drawable/fz_intro_btn_selector.xml
+SHA1-Digest: j0FKL/Ii3GboLBrhaDYbDE1z18s=
+
+Name: res/layout/com_facebook_placepickerfragment.xml
+SHA1-Digest: Xb6Lpb758+ltuLhQG4ja0cMrK7k=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/ssBar.
+ bmp
+SHA1-Digest: UVkuQ2xfZmfFX3YYjk7Pd0szaw4=
+
+Name: lib/armeabi/libfabjni.so
+SHA1-Digest: F0h+LzYZKidmToKTuW5O0P9joZ0=
+
+Name: assets/offline/levels/images/guigames/guigames_wait7.png
+SHA1-Digest: kB7uYZ+DaHa4v1qa9mbGmtQaWK8=
+
+Name: assets/offline/levels/heads/head1.png
+SHA1-Digest: oIx4Onit8qGzJear2hbFCNAA2T4=
+
+Name: assets/offline/levels/images/chrisz/chrisz_cupi.gif
+SHA1-Digest: CLaDRjOPfZi1r/JZvyIbQvkWupA=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_newsbutton.png
+SHA1-Digest: dLhI7/C1czShfFVPMUePmc/nQf4=
+
+Name: assets/offline/levels/images/guiblue/guiblue_textedit.png
+SHA1-Digest: G50LsNPdvkLzLltYOXaeQ+nEtjE=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Logoff
+ button.tga
+SHA1-Digest: QwmGZUx3rO0NdUNAh8gQwBwVBGQ=
+
+Name: assets/offline/levels/images/icon/icon_crowbar_1.png
+SHA1-Digest: Mcy0MwBN5+SPCkX31bILiNuKdu4=
+
+Name: assets/offline/levels/images/dargaro/dargaro_floor-1.gif
+SHA1-Digest: l/dLklZ+EoQXZeJo5cJOxk0KwCM=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_jp.png
+SHA1-Digest: pQ94sjjsOvsSI76VODPbx19SFY0=
+
+Name: defaultVertexShaderTex0Amb.src
+SHA1-Digest: fcpGSIrC3OelFIG8O91+HHD72Es=
+
+Name: assets/offline/levels/ganis/era_gun-ak47-reload.gani
+SHA1-Digest: Tf7rCbuH9RJZH6NUfBE2P9BwZIk=
+
+Name: assets/offline/levels/images/era/era_gaspump1-frozenlies0.png
+SHA1-Digest: 1QuqkV6KnjoUpCcRbpGs5MXboUw=
+
+Name: assets/offline/levels/images/classicgui/classicgui_color_lightgr
+ ay.png
+SHA1-Digest: 8LYSLJDgZMPQ20gzqQWS0vilJaM=
+
+Name: assets/offline/levels/images/classicgui/classicgui_color_darkgre
+ en.png
+SHA1-Digest: aXQfd5dTTp3UETikRXGDz5iQRmY=
+
+Name: assets/offline/levels/images/era/era_dargaro-overdrop-1.png
+SHA1-Digest: 8rHam3G0Q7m9OV6c08+O+oxGm5Q=
+
+Name: res/layout/fz_top_bar.xml
+SHA1-Digest: 736tuZvlO3ed9qrF9JMIYqO8uWc=
+
+Name: assets/offline/levels/ganis/era_shotgun-firedual0.gani
+SHA1-Digest: IXdfCCf3aILwai7IIuv1arjg2g4=
+
+Name: assets/offline/levels/fonts/turntablzbd.ttf
+SHA1-Digest: XiFdcCPDG4vxJk/QfkPHXQ32x/M=
+
+Name: assets/offline/sounds/ak47_clipin.wav
+SHA1-Digest: Ww22XaNjHZwNoCk5CvOwi0PMBAY=
+
+Name: assets/offline/levels/images/icon/icon_ammobox.png
+SHA1-Digest: PhhTppEcWpVL90/j2TlX/wQXpFc=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/taskba
+ rSizeVert.bmp
+SHA1-Digest: ne+N5SifHZh+ZJtCH9qkx4B3mEY=
+
+Name: assets/offline/levels/hats/hat19.png
+SHA1-Digest: tyN1cSDqwtaz8a1yot2fF6SdDnI=
+
+Name: assets/offline/levels/ganis/era_nothing.gani
+SHA1-Digest: XbNCkAvRwUBZres+V4zvKBTuggo=
+
+Name: assets/offline/levels/images/era/era_image-moranowine2.gif
+SHA1-Digest: ZO+Vqqw4c9rnIR4gbs/sj7CnKZ4=
+
+Name: assets/offline/levels/images/era/era_redtiledroof.png
+SHA1-Digest: umdVmoTNLt3aCu10g932Q0EARj4=
+
+Name: assets/offline/levels/images/classiciphone/classiciphone_signbac
+ kbigger.gif
+SHA1-Digest: qjh+NtLwshSLVxcE6WWBUhJc2WY=
+
+Name: assets/offline/levels/images/era/era_ip-mapicon1.png
+SHA1-Digest: sqelmNjNpmSxrFtk67ozk0pRm8M=
+
+Name: assets/offline/levels/images/era/era_flower-1_3a.png
+SHA1-Digest: +zyjXudF8VBh/wyqo0bTCorYPSA=
+
+Name: assets/offline/levels/images/chrisz/chrisz_basket.gif
+SHA1-Digest: S0RZ6qVEIeJueqcktcNS5nXLrwo=
+
+Name: res/layout/fz_shipping_address.xml
+SHA1-Digest: Nm2HHRdAjApv0COpG1rdhvufRcY=
+
+Name: assets/offline/levels/images/era/era_flower-1_4a.png
+SHA1-Digest: kZyKRhUlhOiQnSijS/ce+iHHdao=
+
+Name: assets/offline/levels/images/facebook/facebook_background_white.
+ png
+SHA1-Digest: nNgdfsM+uPtBV19u3WQLByCX+W0=
+
+Name: assets/offline/levels/images/furniture/furniture_chessboard.gif
+SHA1-Digest: yWvofHpNO5mKKZ7CPeuGlpq74mI=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Startm
+ enuArrow.tga
+SHA1-Digest: IZzez/0s6d1BtviIHTUwR2en5Xk=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_kr.png
+SHA1-Digest: Tatsc7m4ZUpFRcB4lEYpiK58V/o=
+
+Name: assets/offline/sounds/ak47_clipslam.wav
+SHA1-Digest: bRJ55tewbWcbiwS0Gm3K9PVtz9I=
+
+Name: assets/offline/levels/bodies/body5.png
+SHA1-Digest: v0+EXhRt4hrVENx9yKG8lHDwm+0=
+
+Name: assets/offline/levels/images/guigames/guigames_wait9.png
+SHA1-Digest: 6/a92bMC0YMu0tef3cm9K5r+55E=
+
+Name: assets/offline/levels/images/era/era_hotkey-boxes-1.png
+SHA1-Digest: ih0HUCUtPcLdozP3jFi1Wnk4ixU=
+
+Name: assets/offline/levels/fonts/verdanabd.ttf
+SHA1-Digest: /l6c/nLxy/B7QZD3/EcCzRX0UtE=
+
+Name: assets/offline/levels/images/era/era_flowerbouquet-1_1.png
+SHA1-Digest: cSRrudq9i2HyU68bP2aX9gJZRM4=
+
+Name: assets/offline/sounds/ak47_fire.wav
+SHA1-Digest: n0y5/aoKz1q4B9YzbnAEbPIjpbk=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/SSpict
+ ureFolder.bmp
+SHA1-Digest: NUZ9PiTv9eLc4Afyg2nCIitewbk=
+
+Name: assets/offline/levels/images/classicgui/classicgui_color_blue.pn
+ g
+SHA1-Digest: CQtynIN5oqxHzNJe2XgzKtpJQn8=
+
+Name: assets/offline/levels/images/era/era_flower-5_1a.png
+SHA1-Digest: ngv1QEsckReMHF9Lm18qNndxN7Y=
+
+Name: assets/offline/levels/images/era/era_knife1_icon1.png
+SHA1-Digest: jHHlpF6U8xQiu/cIhjPDyG4gX5E=
+
+Name: assets/offline/levels/shields/shield1.png
+SHA1-Digest: E3Ihd90n90KWTyc43rxIi0phE+Q=
+
+Name: assets/offline/levels/emoticons/emoticon_BRB_stay.mng
+SHA1-Digest: lwnN7ByHs08SbLfbrafBGPossAo=
+
+Name: assets/offline/levels/heads/head26.png
+SHA1-Digest: UsEoLIWbQZOtWh/f4JXCUbyO6M8=
+
+Name: assets/offline/levels/ganis/lava.gani
+SHA1-Digest: 2qPcMD6n4SgCVORFvoEf7aaNdc0=
+
+Name: assets/offline/levels/images/era/era_weight-large.png
+SHA1-Digest: gxTpIr5ThOTlFu2uGxdZjTzwZag=
+
+Name: assets/offline/levels/images/kurino/kurino_hill-1.gif
+SHA1-Digest: Ys1wJL8AnkHCPaqdsGyNTtM38sA=
+
+Name: assets/offline/sounds/arrow.wav
+SHA1-Digest: /Frr3IaX9Q+1k/wEzYlIDcOVtY0=
+
+Name: assets/offline/levels/heads/head0.gif
+SHA1-Digest: YAS77gR2I1hp9wtCynvelQV4KQw=
+
+Name: assets/offline/levels/images/era/era_banksign2-frozenlies0.png
+SHA1-Digest: XkkaW38J2U0ub0WTEQ+TyiiAGt0=
+
+Name: res/layout/fz_preview_item.xml
+SHA1-Digest: X4qfd1tw1x+Az3vpKIf67rDimnc=
+
+Name: assets/offline/levels/bodies/body12.png
+SHA1-Digest: F5ifgB4Mr5+7HeswF66iDMfX4tg=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_signbackbigger.
+ png
+SHA1-Digest: OFm+/cZ47vlLwI9Hyc3Cce8Put8=
+
+Name: res/drawable-hdpi/fz_arrow_right.png
+SHA1-Digest: 0M+wYj09EVnfzupChuGOwJKycuE=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/tabs.t
+ ga
+SHA1-Digest: kaAABK/q1Uuydl64/umLVpP320I=
+
+Name: assets/offline/levels/images/kurino/kurino_walkway-1.png
+SHA1-Digest: oAwIA7m6T3tbdop+xj2Il/G8MMI=
+
+Name: assets/offline/levels/images/downloads/blookat-vines2.png
+SHA1-Digest: niv0mOHD2uollVFmfaGV+WFVQDQ=
+
+Name: assets/offline/levels/images/era/era_roadsign-2.png
+SHA1-Digest: oNF6BiSoVSX1L2Tz6FcIiNmT5vk=
+
+Name: res/drawable-hdpi/fz_upload_background.png
+SHA1-Digest: 7MLXhzyLp6JlG8Jtxpd4uxCsmdc=
+
+Name: assets/offline/levels/images/era/era_china-lamp1.png
+SHA1-Digest: C1BUAXLM8afSeEruxCvFgpnRV6g=
+
+Name: assets/offline/levels/images/kinetaro/kinetaro_arcade-game-1.gif
+SHA1-Digest: pk0LjbJmbSJlOQmMJjYdX20uz4I=
+
+Name: assets/offline/levels/images/downloads/glass-beer1.gif
+SHA1-Digest: 3LIMDRDV6ubjdGNIfAJIokn0k5A=
+
+Name: assets/offline/levels/fonts/arialbi.ttf
+SHA1-Digest: CrpC/G5bHniZJBT1xN8xN2+Q8OI=
+
+Name: assets/offline/levels/images/guigames/guigames_wait3.png
+SHA1-Digest: PJbzil0RoLTIekynXyOjq+FqL9c=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Spinle
+ ftright.bmp
+SHA1-Digest: ReJXk9ehaPyRUpeU2+mvGNy6CCI=
+
+Name: assets/offline/levels/images/era/era_garageroof1.png
+SHA1-Digest: UUQpdNh3atE8EX3MXmLh1sWzuRE=
+
+Name: assets/offline/levels/images/downloads/smoke.gif
+SHA1-Digest: ro1SLnM0UG9xGp1sI2mbGwI4evI=
+
+Name: assets/offline/levels/images/era/era_door-wood-glass-right-1.png
+SHA1-Digest: RJoRCw5SkYEzxuXDHlZjwWP6sT8=
+
+Name: assets/offline/levels/images/cashier/cashier_left1.gif
+SHA1-Digest: HBlmVSDerfEwlN06ayAnN1zUCzE=
+
+Name: assets/offline/levels/images/era/era_china-bonzai2.png
+SHA1-Digest: dxCsI1aYuyvWiQNtkhUQsHEZh1A=
+
+Name: assets/offline/sounds/stonemove.wav
+SHA1-Digest: sB1LXHGgl53MS8v2t8xV+KR/OW0=
+
+Name: res/layout/fz_payment.xml
+SHA1-Digest: II3z0UORSLFSGgPbC0nvobmlIws=
+
+Name: assets/offline/levels/images/downloads/hotel-door01.png
+SHA1-Digest: yVvOF/6TDyT4TQnTzqHSBk7Kk2U=
+
+Name: assets/offline/levels/images/era/era_redtiledroof-window-1.png
+SHA1-Digest: y+OqtF1uPhK1MzQBi7uYsvPnz80=
+
+Name: assets/offline/levels/images/era/era_handgun.gif
+SHA1-Digest: s8PpXE+7X2os7bYSCj4SEffE2u8=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/sSSBar
+ NoneActiveup.bmp
+SHA1-Digest: cHkQt0gxtlumUQl1kr8feipqljA=
+
+Name: res/layout/fz_order_upload.xml
+SHA1-Digest: xAzXqnso8oUz3dLVHX3nL+mwRrQ=
+
+Name: assets/offline/levels/ganis/push.gani
+SHA1-Digest: yiPqCoP4K5ZhXnqQ8XdFvCwgSaM=
+
+Name: assets/offline/levels/heads/head9.png
+SHA1-Digest: q7nctGb0o6ApqbKNMYEQoVjjnuE=
+
+Name: assets/offline/sounds/extra.wav
+SHA1-Digest: /LTbVn/kiOsCbBvBGFWMtScNMHs=
+
+Name: assets/offline/levels/emoticons/emoticon_conf.png
+SHA1-Digest: p8HRSgBVYw65GGg/q6vgrpTNiqk=
+
+Name: assets/offline/levels/images/era/era_ip-mapicon7.png
+SHA1-Digest: 4+j/gaHXqbntFXjM0RiU70hqtjQ=
+
+Name: assets/offline/levels/ganis/walk.gani
+SHA1-Digest: MWsxGc52SGjkPYJ672gExtubpNU=
+
+Name: assets/offline/levels/ganis/era_melee_night_stick-attack.gani
+SHA1-Digest: v7R4XxmC7uEDK+IkZ+ThOlvB8BQ=
+
+Name: assets/offline/sounds/shotgun_reload.wav
+SHA1-Digest: yc64KxdWIFW9wfMvLbxVY8rQP9Q=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Border
+ .bmp
+SHA1-Digest: Xvc0TtX7bfmEddIsAWYR7zvEfwM=
+
+Name: res/drawable-hdpi/fz_cart_line_minus.png
+SHA1-Digest: WV4G9J85gEXAqrD3lw50x0zj6oY=
+
+Name: assets/offline/sounds/bar_fire1.wav
+SHA1-Digest: sOAxpkGMEMIh3RJuP1UkitRZdSg=
+
+Name: assets/offline/levels/ganis/tutorial_touch.gani
+SHA1-Digest: dVL0mmpIGVvV/KSLCWbTnqgeY30=
+
+Name: res/drawable-ldpi/com_facebook_close.png
+SHA1-Digest: lg0izCnB1flsd2QqLisbxkcuGyU=
+
+Name: res/drawable-hdpi/com_facebook_loginbutton_blue_focused.png
+SHA1-Digest: V27iDxNqPIzkdIgA+0DIi/AfQYY=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/XPmenu
+ select.tga
+SHA1-Digest: z0F9t7xK52h5WVe36hViNXY7rpY=
+
+Name: assets/offline/levels/images/era/era_handicapparking.png
+SHA1-Digest: DZDHj1WLt5muYONCdJKIWmmY7oc=
+
+Name: assets/offline/levels/images/era/era_tom_newsarch.gif
+SHA1-Digest: 5lRZLs8PmbzeCys6uh2xWXqcjJ4=
+
+Name: assets/offline/levels/images/rivers/rivers_napkin2.png
+SHA1-Digest: p+yrbbHFbWLNHeh+Y3fIYSedV6k=
+
+Name: assets/offline/levels/images/era/era_shootingrangeroof.png
+SHA1-Digest: WS5QHso2FAyYsXSc129ThK50TI0=
+
+Name: assets/offline/levels/images/downloads/state.png
+SHA1-Digest: yeUX0N48zW9yg7nRUaap5wP8OTM=
+
+Name: assets/offline/maps/eraiphone_map_2.jpg
+SHA1-Digest: WxDAQPER6dm0eyUzYQXhls8bZvM=
+
+Name: assets/offline/levels/images/classicgui/classicgui_color_gray.pn
+ g
+SHA1-Digest: c2UhIJsCt4ETL84HhBz6vrDfGD8=
+
+Name: assets/offline/levels/ganis/pull.gani
+SHA1-Digest: JrWvGKBzAYfxnWcB9H+JmI6rS0E=
+
+Name: assets/offline/levels/images/era/era_fashionsign.gif
+SHA1-Digest: ruQVovmBVkALBCZ05m+CBT9lLd4=
+
+Name: res/drawable/com_facebook_profile_picture_blank_square.png
+SHA1-Digest: ii3g4mqHjQXtghNZE1cibJA1Jbs=
+
+Name: res/layout/fz_wait.xml
+SHA1-Digest: 1t1u1bUjRna9ToELrn7NnEzpOa8=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Helpce
+ nter.bmp
+SHA1-Digest: eRBopEmaSXcIQZluuVYBNZbvWfs=
+
+Name: assets/offline/levels/images/era/era_china-statue.png
+SHA1-Digest: 8pdkC4LDCfGJWVu3L78yr3OOZJM=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_ru.png
+SHA1-Digest: 6txR3T+86Ab/VzcbX237ESAh/dg=
+
+Name: assets/offline/levels/images/era/era_speedypizza-sign.gif
+SHA1-Digest: zT95vHDJUpl4az9zNTuZscowlPs=
+
+Name: assets/offline/levels/images/era/era_weight-small.png
+SHA1-Digest: Yv7FjiHv51U9oIbgfQJKnJLJGew=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: wadQsk18U9ah4Wy16yC4tJqNx4A=
+
+Name: assets/offline/levels/images/era/era_gun-icon-uzi.png
+SHA1-Digest: 9fUyVeWHVix1DKr/nkdg38HLaf0=
+
+Name: assets/offline/levels/images/era/era_couchred_left.gif
+SHA1-Digest: Gfebbj3xUwmZF4vI+nNHZUht8SM=
+
+Name: assets/offline/levels/images/era/era_ip-mapicon18.png
+SHA1-Digest: Z1yrxBVR3OzkhTH9t9mYe3hR7SI=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/SSBarA
+ ctiveUp.bmp
+SHA1-Digest: 0/U3vq8zLDag5Jvmrczr7P6vhlQ=
+
+Name: assets/offline/levels/images/profilelogothumb/profilelogothumb_c
+ hristmas.png
+SHA1-Digest: 07v4/3m+YtufQUUUhYwEFFjdml8=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Status
+ bar.bmp
+SHA1-Digest: CGJEmH9nPYykhwN8owLJPp83++c=
+
+Name: res/drawable-hdpi/fz_cart_line_plus.png
+SHA1-Digest: OhJWyrILUYDKXm85GbWcdvfuNpc=
+
+Name: res/drawable/com_facebook_picker_list_focused.9.png
+SHA1-Digest: wq1XBihYEP7fT9hT55vx2S7+KDQ=
+
+Name: assets/offline/levels/shields/no-shield.gif
+SHA1-Digest: 2urYQUH0RdHcFuz7X00UvONWhjg=
+
+Name: assets/offline/levels/heads/head19.png
+SHA1-Digest: 3bnGJVbISiCQrQW3y/lrterMP/c=
+
+Name: res/drawable/fz_shape_grey.xml
+SHA1-Digest: 0QGiMfyu4BW6JvEMlG7OKUQug1w=
+
+Name: assets/offline/sounds/gunuzi.wav
+SHA1-Digest: apPpGTokXN6+0K32nZAZqtYEfGY=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_eng.png
+SHA1-Digest: HvvLyB+ITemUySBoTsrww6oL13w=
+
+Name: assets/offline/levels/images/sprites/sprites_new_winter.png
+SHA1-Digest: gqqXiIK/+RgwG2ju54UPZPH2FL0=
+
+Name: res/drawable-hdpi/com_facebook_icon.png
+SHA1-Digest: V2LEVKYg2PFb0nYYOBnKjQliS/s=
+
+Name: res/layout/fz_product_select.xml
+SHA1-Digest: UEqTgAWp8C/8yAoDBhtKM9LMFcM=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_mx.png
+SHA1-Digest: kkCqd3+yoj8gK/Kh/Yoget+9y5U=
+
+Name: assets/offline/levels/images/era/era_radiostation-walls_left.gif
+SHA1-Digest: RfTQwQAt4/woNadKFjk4j36j68Y=
+
+Name: assets/offline/levels/images/classicgui/classicgui_color_red.png
+SHA1-Digest: X2aiy9PPsVjE87hOoSNXzE367iU=
+
+Name: assets/offline/levels/images/era/era_roof-grc.png
+SHA1-Digest: naPKlJNnyHITPJ3pOFx9kBIPrEc=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_help_guns.png
+SHA1-Digest: IXN0UZusJHlD6YFWnFw8ER2X3f8=
+
+Name: assets/offline/sounds/lift.wav
+SHA1-Digest: u6V7cGsgHqq8JEly+Mbu8UcsNu4=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/trackb
+ artrckhor.bmp
+SHA1-Digest: A2ZISjY19V6AN4hk1ljn3oX+dKc=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_help_cars.png
+SHA1-Digest: oAqCgTZ86zrT9tbuwdGLtv5B8Ko=
+
+Name: assets/offline/levels/images/era/era_car2_0.png
+SHA1-Digest: jVQSXHCdiWo1PdpKGHujfE5EoxE=
+
+Name: res/drawable-hdpi/fz_discount_flag.png
+SHA1-Digest: GwoT+QVXKX4eabMZcs+SlONJP38=
+
+Name: assets/offline/levels/images/guigames/guigames_wait4.png
+SHA1-Digest: ZIOaWtpZKjRzD/gbNwWpWbV7bdA=
+
+Name: assets/offline/levels/hats/hat9.png
+SHA1-Digest: hkosNGgDW8XGxWMKxJfWwb2Ov1g=
+
+Name: assets/offline/levels/ganis/hurt.gani
+SHA1-Digest: VoojoPiqsgkh7hdNoqr8Pjtwefg=
+
+Name: assets/offline/levels/images/era/era_skateboard-sign.png
+SHA1-Digest: DfPuGkSkRuhlCsnwcnProF1M5Kg=
+
+Name: assets/offline/levels/images/chrisz/chrisz_glass-ribena.gif
+SHA1-Digest: wCeoTqksiyYTIT9JS4WbHrYBxw4=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/sSSBar
+ ActiveDown.bmp
+SHA1-Digest: 9UxxJmdjFQjUQIOjWRFqCbPr3b0=
+
+Name: res/drawable-hdpi/fz_btn_red_pressed.9.png
+SHA1-Digest: AqN5GvFq0CIYAg+d2VEWI/1dD10=
+
+Name: assets/offline/levels/images/era/era_image-moranowine1.gif
+SHA1-Digest: nqwkV83H9OPKsy9+MmPuwP/OULM=
+
+Name: assets/offline/levels/images/era/era_sprites-emid.png
+SHA1-Digest: y9PgepGPT4hdHZklqbuLtakeqZw=
+
+Name: assets/offline/levels/images/era/era_flower-5_2a.png
+SHA1-Digest: L9lvPqEebHM1xO3CqP2K3CsxiZY=
+
+Name: assets/offline/levels/images/armanno/armanno_furn-winerack.gif
+SHA1-Digest: 5rEKlQhgBOUe/S4xdypc8Fr7pLQ=
+
+Name: assets/offline/levels/ganis/carry.gani
+SHA1-Digest: dp90TVfv3rEXE5gWqhRIl8h4fNo=
+
+Name: assets/offline/levels/emoticons/emoticon_Idea.png
+SHA1-Digest: AvSSvUwObQqftadG569PfERh4w0=
+
+Name: assets/offline/levels/images/era/era_explodedebris1.png
+SHA1-Digest: syXR3Vnqy+I8WsCLEdCrL8JPq4c=
+
+Name: assets/offline/sounds/era_clipout.wav
+SHA1-Digest: XqgkPAhlZxuXxr1wnCsHKQ8arLE=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/progra
+ msback.bmp
+SHA1-Digest: SgQlMC8b4ei2PRj/xktpZcRO7RE=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/tab_bo
+ rder.bmp
+SHA1-Digest: voeRUJgHLa+XFpwptFudpzPHX9I=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: /uwg+hj04w5DP6vdjdUd7t7suxE=
+
+Name: assets/offline/levels/ganis/idle.gani
+SHA1-Digest: zvCMVA9urt63G7OYNSr9/TbgwZA=
+
+Name: assets/offline/levels/images/classicgui/classicgui_color_pink.pn
+ g
+SHA1-Digest: JCeDb8pjQnGUEiJA7NHmJi28ejE=
+
+Name: assets/offline/levels/images/downloads/blookat-newsafe.gif
+SHA1-Digest: DxyroNP1c5KoTXG1k1uOVETz5mI=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Systry
+ vert.bmp
+SHA1-Digest: lZfNZfBYBhxVlIft8MLsifSndrg=
+
+Name: assets/offline/levels/images/era/era_fence1a-frozenlies0.png
+SHA1-Digest: YPVcmSPGbVBd6a5yMszDhojmamg=
+
+Name: assets/offline/levels/images/downloads/defaultwindow.png
+SHA1-Digest: rWhL9SacmK7+lebxESgmCBml/SE=
+
+Name: defaultVertexShaderFogLight0.src
+SHA1-Digest: kZb9wCmYc5r0a475lIUinyVM2D4=
+
+Name: assets/offline/levels/images/era/era_car0_8.png
+SHA1-Digest: tCMP62Ppg7Ss5n0BUp3CGTdFjb4=
+
+Name: assets/offline/sounds/sign.wav
+SHA1-Digest: FXsiRFQAtrQchOoqnJ0vAWXibxk=
+
+Name: assets/offline/levels/images/downloads/jubie-cross.png
+SHA1-Digest: 2KInT62eritHk2rETL5Ia6qlNRE=
+
+Name: assets/offline/levels/ganis/era_uzi-walkdual.gani
+SHA1-Digest: slNCPO0BEWzhlhh3fGQliTDqnxQ=
+
+Name: assets/offline/levels/images/era/era_gunpointsign-bygizmet.gif
+SHA1-Digest: DYhsxtA7nLhm8sjTviEnfifLubw=
+
+Name: assets/offline/sounds/jump.wav
+SHA1-Digest: ZSl7FGAiU4T31lhBrq8HEu0X1e4=
+
+Name: assets/offline/sounds/crush.wav
+SHA1-Digest: umxXYuVKNZp5bSy2emVx6pySh4g=
+
+Name: assets/offline/levels/fonts/verdanabi.ttf
+SHA1-Digest: Ca/4kcYm/n07h49Apjdgc7kNT94=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Menuba
+ rItem.tga
+SHA1-Digest: FYV6RhhnlnoOKNYXtzppfceB77o=
+
+Name: assets/offline/levels/images/era/era_flower-2_5a.png
+SHA1-Digest: Vk2i2B9LOur8pPnKivrkb96pf0I=
+
+Name: assets/offline/levels/images/era/era_yellowwalltop.gif
+SHA1-Digest: ibMOg30XcEM3CaJ63c7V0qrwuPk=
+
+Name: assets/offline/levels/images/era/era_ip-mapicon14.png
+SHA1-Digest: O/lwWyAFfb968XJtFQrUN3eL12k=
+
+Name: assets/offline/sounds/44magnum.wav
+SHA1-Digest: mN+OxmZOh+WO8733EI4vnsnN4gk=
+
+Name: assets/offline/levels/images/kurino/kurino_roof-1.png
+SHA1-Digest: 46ozWDTppRnnQ4UQRiInkwSCnd0=
+
+Name: assets/offline/levels/ganis/lay.gani
+SHA1-Digest: XGuu6/mE18w3UFP3gSuVjZpIAM4=
+
+Name: assets/offline/levels/images/era/era_gangdoor-lcmetal-panel-1.pn
+ g
+SHA1-Digest: dSGrrIvGPzPChYHZOpntR/h3CRs=
+
+Name: assets/offline/levels/images/era/era_pubwindow2.png
+SHA1-Digest: ttrPvvAG0dm2JN4ZYconMR9Go1U=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Trackb
+ arleft.tga
+SHA1-Digest: c85ghNzFo3Pbf7oQHz/Zq/wxXcw=
+
+Name: assets/offline/levels/images/era/era_thpillars.png
+SHA1-Digest: nl8y03ZztG8FD5upCQ8G0RpYCSA=
+
+Name: res/drawable-hdpi/fz_btn_next_pressed.9.png
+SHA1-Digest: vG5xakKPGB2TIMvn9mebmNjFi9w=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_dk.png
+SHA1-Digest: 6mb/cX6SGKtgchFoKFtbaujNMeY=
+
+Name: res/layout/fz_progressbar.xml
+SHA1-Digest: uBV0fFsWu/r7Ik2WPR0piTrr8Pw=
+
+Name: assets/offline/levels/heads/head7.png
+SHA1-Digest: mBk/lLuFBVIPRML56UE+6oeV3UE=
+
+Name: assets/offline/levels/ganis/era_shotgun-fire.gani
+SHA1-Digest: ghALyIqZwRKlnUpaQ/cV7gx/bUw=
+
+Name: res/drawable/com_facebook_button_grey_focused.9.png
+SHA1-Digest: oegkN07TNc6Ko8z3qqCgUGgnvRw=
+
+Name: assets/offline/levels/images/guigames/guigames_wait2.png
+SHA1-Digest: PqNksXwASl7ZKqksLvWmtQvOwjw=
+
+Name: assets/offline/levels/images/sprites/sprites_plank_1.png
+SHA1-Digest: IW3dkbXCFD7NaAUUGWQxUjLEONU=
+
+Name: assets/offline/levels/images/downloads/smoke3.png
+SHA1-Digest: fQE5pouCHacHwUcq1vrs7m7sefM=
+
+Name: assets/offline/levels/images/era/era_colt1911.gif
+SHA1-Digest: y8TCXd8u04dbIN6uzdIWGheTYPI=
+
+Name: res/layout/com_facebook_picker_image.xml
+SHA1-Digest: BogopN+KH04S7nzjqh2rvSKLEIA=
+
+Name: assets/offline/levels/images/era/era_handgun_icon1.gif
+SHA1-Digest: Jpj2XmhYTBXCHjyOU/I7uvIoCAc=
+
+Name: defaultFragmentShaderFog.src
+SHA1-Digest: Z0TI/FZjODyh5B2IZ9qmmygXwLA=
+
+Name: assets/offline/levels/images/downloads/fountain1.mng
+SHA1-Digest: eYCCob1aSOPa+y1shJbgd9MjSnA=
+
+Name: assets/offline/levels/images/era/era_car6_0.png
+SHA1-Digest: 8pT3H0RKPPvuYxHbp0RqUPbqvwc=
+
+Name: res/drawable/com_facebook_profile_default_icon.png
+SHA1-Digest: hnc7R7K+VpzIWKki/iGEw6AlfPw=
+
+Name: res/drawable-hdpi/fz_background.png
+SHA1-Digest: 0+GrzHygKUOnABcfwESEknAkHMM=
+
+Name: assets/offline/levels/images/classiciphone/classiciphone_map_gui
+ ld_on.png
+SHA1-Digest: h8geIpx712uJTRlgFOXu6PECxRg=
+
+Name: assets/offline/levels/bodies/body8.png
+SHA1-Digest: OdyzAWCRiVw7SAh8tj+QXpnyruw=
+
+Name: assets/offline/levels/ganis/dead.gani
+SHA1-Digest: 0Cg0/oY7SY6NQ34X8BnH//D7v/k=
+
+Name: res/drawable/fz_cart_background.xml
+SHA1-Digest: /EYlbL/Ei3/x65+ncJlkqGb9UXg=
+
+Name: assets/offline/levels/images/era/era_flower-2_4a.png
+SHA1-Digest: J1v2urAdO2fx7bvDSaBeoNBN7s8=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/tracks
+ liderupdown.tga
+SHA1-Digest: RlocMZ0Fc5nkW5grb/+DtRm+OlQ=
+
+Name: res/drawable-hdpi/fz_arrow_left.png
+SHA1-Digest: 8m6nmBgAjFY85BpB1vfB7Ec6ktA=
+
+Name: assets/offline/levels/images/cashier/cashier_right1.gif
+SHA1-Digest: 4NoOLG1kXw5q+zojECbm1Od812s=
+
+Name: assets/offline/levels/images/era/era_sage-gunsign.gif
+SHA1-Digest: j5EgytvKyARoYZsQQINSwvxpnq8=
+
+Name: assets/offline/levels/images/downloads/dargaro-banister-1.gif
+SHA1-Digest: I0LV5URKpt8vYF3vP94ebJmU3OQ=
+
+Name: assets/offline/levels/ganis/era_ip-postmail.gani
+SHA1-Digest: ysUVNtxnRf7khBVFSVhFcqZrvBc=
+
+Name: assets/offline/levels/images/era/era_houseplant3.gif
+SHA1-Digest: yGSU6AKCftXxbCTKUhU3bP/065o=
+
+Name: assets/offline/levels/images/era/era_litter0.png
+SHA1-Digest: GKY5GRy55qIsDDFWT4SkXpbzOI8=
+
+Name: assets/offline/levels/images/downloads/glass-water1.gif
+SHA1-Digest: QFAVcqEy9tLF7zi9lzaS+ItzsSs=
+
+Name: assets/offline/sounds/era_m4-fire1.wav
+SHA1-Digest: SVXDyd+cbqxGzodA0pauvwcf1tU=
+
+Name: assets/offline/levels/images/era/era_ip-brickwalloutside.png
+SHA1-Digest: BKDXGirn+f+eiXZtOlmNLsjKYb8=
+
+Name: assets/offline/levels/images/era/era_flower-3_1a.png
+SHA1-Digest: jNd2AJ7b5ZgNIFuoz0s0yYA4VEg=
+
+Name: assets/offline/levels/images/downloads/light2.png
+SHA1-Digest: 5+HcvMABsBNG0mA7NNB0Ymk2U0g=
+
+Name: assets/offline/levels/ganis/era_parksignshort.gani
+SHA1-Digest: QXdtoZa2oZkXsnCp/aH1ArtbTRQ=
+
+Name: assets/offline/levels/images/era/era_regency-sign.png
+SHA1-Digest: kEFUxVqu++mDM7OWKd22fXxfvZ0=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/xptask
+ bar.bmp
+SHA1-Digest: 9+zylwcDP+XOhxaQYE0Kzfcgy6I=
+
+Name: assets/offline/levels/emoticons/emoticon_Frown.png
+SHA1-Digest: SaX2lpM8jrshf97EfaOwBXClrw0=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_nl.png
+SHA1-Digest: IVlbSHA42k9L3PsIrew0vwq7gKQ=
+
+Name: defaultVertexShaderFog.src
+SHA1-Digest: 30BMOv+m9XOuSFXVZf5RFU5wYVk=
+
+Name: assets/offline/levels/images/era/eraiphone_mapicon_letter.png
+SHA1-Digest: j3kM2qTDhp2OfCr1Gsu8OUaXVlA=
+
+Name: assets/offline/sounds/steps.wav
+SHA1-Digest: 0EewSIE1GvKw3WhDNfm26IXVG+k=
+
+Name: assets/offline/levels/fonts/verdana.ttf
+SHA1-Digest: uhnVfhG9Z0wdgGXhc2RU3AoFF1E=
+
+Name: assets/offline/levels/images/era/era_courthouse-newsign.png
+SHA1-Digest: McpH0p9lEVVGBUlKLTphwrm/OQg=
+
+Name: assets/offline/levels/emoticons/emoticon_Ncool.png
+SHA1-Digest: oTVTIv0VBbbM+lY10fuydO+4qrk=
+
+Name: assets/offline/levels/images/image/image_newwalls.png
+SHA1-Digest: jxaNyTCtXwRi6EKF6IgFtdPWopU=
+
+Name: assets/offline/levels/heads/head2.png
+SHA1-Digest: V9r3tJt3dQgvi3a6gF/4scEIlPM=
+
+Name: assets/offline/levels/ganis/def.gani
+SHA1-Digest: +fKFprXYXRpI6AzIyX4mgaErYmk=
+
+Name: assets/offline/levels/images/era/era_banksign1-frozenlies0.png
+SHA1-Digest: EE2sHVGWKy6L8OMI6q8XEn3sMx8=
+
+Name: assets/offline/levels/emoticons/emoticon_Umad.png
+SHA1-Digest: rQ5ESPoPpNKcfDN/qdD2v7LxgVo=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_gangbutton.png
+SHA1-Digest: QbshYYmVWoWmthbXRyQYnLCt6ik=
+
+Name: assets/offline/levels/images/era/era_image-scaffold.png
+SHA1-Digest: ClDEttg5hcy7dSE1AD1sEzEgNeg=
+
+Name: assets/offline/sounds/goal.wav
+SHA1-Digest: Y8upUbop6R1Ym74mpSsgaLtBmho=
+
+Name: assets/offline/levels/images/era/era_gun-icon-handgun.png
+SHA1-Digest: AAKACU0BsLpHsjFXtn5bir7YY2E=
+
+Name: assets/offline/levels/images/era/era_image-dangerfence.png
+SHA1-Digest: Ixi/qzb/Wtxc4XrVVjZ0gFgzreE=
+
+Name: assets/offline/levels/images/era/era_image-fireextinguisher.png
+SHA1-Digest: 1iPqVENfyHniNcn0oM9rr0FAFWw=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/fauxS-
+ XPshellstyle.xps
+SHA1-Digest: iOj6LaY9fcq1+4yy1QMzwNGBHy8=
+
+Name: assets/offline/levels/images/item/item_flower1.png
+SHA1-Digest: yNBrN/1EuDBW2VPrYQ8CmXTqSvY=
+
+Name: assets/offline/levels/images/era/era_door-lcmetal-panel-2.png
+SHA1-Digest: f4zjqW1+Vxh7hP5xxe2EKFjX9wA=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_hu.png
+SHA1-Digest: NzlUADdMwDo5AoX6zz75uMCiPXM=
+
+Name: res/drawable/fz_btn_form.xml
+SHA1-Digest: ySXimet3pQtNVC48/vGPYkcd0fo=
+
+Name: assets/offline/levels/images/image/image_mail.png
+SHA1-Digest: 2T0uqnO2R8DtxZGRfqH50iCWcsE=
+
+Name: assets/offline/levels/ganis/era_uzi-idledual.gani
+SHA1-Digest: QsU1FLveYQOEZXd2V5cSdqRWeF0=
+
+Name: assets/offline/levels/ganis/gralats.gani
+SHA1-Digest: tSZ53wJzBe+Xpnu9Tn0PzAbcP8Y=
+
+Name: res/drawable-hdpi/fz_round_pourcent.9.png
+SHA1-Digest: s5RqWrclNk4L8/kGwbAIy3vkDio=
+
+Name: assets/offline/levels/images/era/era_iphone_guildchatbutton3.png
+SHA1-Digest: 0RmlD20jt4iqH6He54w2twxY57s=
+
+Name: res/layout/fz_cart_line.xml
+SHA1-Digest: A+wAc57I7WVWTuUBBSegfu0dPlE=
+
+Name: assets/offline/levels/ganis/era_shotgun-idledual.gani
+SHA1-Digest: nqp8RXj2cXHj6FXh6XHDh2qpnnA=
+
+Name: res/layout/fz_user_lost_pwd.xml
+SHA1-Digest: cyIExQsKfqR3p+uEfccfTEANDI4=
+
+Name: res/layout/com_facebook_picker_activity_circle_row.xml
+SHA1-Digest: aEE3M/kjz7kaqlq6eGrWNkg0M60=
+
+Name: assets/offline/sounds/era_sliderelease.wav
+SHA1-Digest: 6CR+T16XKkgymlsQ1pSa6P+I0yw=
+
+Name: assets/offline/maps/era_ip-mapdec13.jpg
+SHA1-Digest: gjxZHvXeqkM3CMISTAa+GiXIpSA=
+
+Name: assets/offline/levels/images/era/era_door-wood-glass-left-1.png
+SHA1-Digest: pMNpSDkz59Il3ECu8x2/4d+0IfM=
+
+Name: assets/offline/levels/images/guigames/guigames_arcback_iphone.pn
+ g
+SHA1-Digest: 6Q7uhDESYe2DsGYbAIBUYtZC+wE=
+
+Name: res/drawable/fz_btn_form_green.xml
+SHA1-Digest: kXHvxSR84/hMzHHP1bQgF/gLYjI=
+
+Name: res/drawable/fz_btn_form_disabled.xml
+SHA1-Digest: /8Lz1JZi9x7nA4GJd8gNhuMJeT0=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_ca.png
+SHA1-Digest: /ABdh+EAZsenyC8UU1OX3vJqssw=
+
+Name: assets/offline/levels/images/kurino/kurino_hill-2.gif
+SHA1-Digest: bqevCCyapC+14iMYUtzO8blwOCo=
+
+Name: assets/offline/levels/images/era/era_melee-knife.png
+SHA1-Digest: gMNaj0Xz8LqWC7qNm1f567vOTNE=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_au.png
+SHA1-Digest: kyEmOGSW93cGSty/SHD8O1E8K2o=
+
+Name: assets/offline/levels/images/era/era_door-metal-panel-2.png
+SHA1-Digest: aczY08ZS8D7mD3S6M0Zha4G0T5M=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_at.png
+SHA1-Digest: ytnFXqnepPg52iPV5XCgACjt2IE=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_classicbutton.p
+ ng
+SHA1-Digest: QS50KclTTin6jU3u4JDrUktYtgw=
+
+Name: defaultVertexShaderTex0Light0.src
+SHA1-Digest: oNp1q0gCnf+hh0TZws4VEeGOsL0=
+
+Name: assets/offline/sounds/ak47_slide.wav
+SHA1-Digest: G5kjc/udQuR6RlLjX7/gKQU/pnw=
+
+Name: assets/offline/levels/ganis/era_sitsleep.gani
+SHA1-Digest: bO13CKkZJW0e6oY1BhSekRWjG4o=
+
+Name: res/drawable-xhdpi/com_facebook_button_grey_normal.9.png
+SHA1-Digest: ObpXSA4NH1YwVj8ZgzYz74kaDfE=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_movement4.png
+SHA1-Digest: Bt3qWFTlzsjsvM7Tmu05ZlxY7ao=
+
+Name: assets/offline/levels/images/era/era_shrub.png
+SHA1-Digest: aaNG6SoD8AK9Z23r/6d2YhOYAv8=
+
+Name: assets/offline/levels/hats/hat21.png
+SHA1-Digest: Judi7cgnDOf0PJTUNMTxWyDZ/mk=
+
+Name: assets/offline/levels/images/era/era_banksign3-frozenlies0.png
+SHA1-Digest: O0RGf19SD0UpJrM30IO0ZlaOyUc=
+
+Name: assets/offline/levels/images/era/era_fortknoxsign.png
+SHA1-Digest: 5NBvxNzvxMxdeV/0lFJD5PTC/ss=
+
+Name: res/drawable/fz_btn_red.xml
+SHA1-Digest: eDPZM+IEWCtbrM/e4/QG4uiIxoA=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/SSSerc
+ h.bmp
+SHA1-Digest: B8di6gaO3aVvF3Ixc0sHOfdrdlo=
+
+Name: res/layout/com_facebook_picker_list_section_header.xml
+SHA1-Digest: rS0WanV2pPEwymhIuv8ucA+y8fw=
+
+Name: assets/offline/levels/music/eraiphone_musicloop2.mp3
+SHA1-Digest: UFBWBZbDTdySpwN487egcPeldk0=
+
+Name: assets/offline/levels/images/era/era_door-wood-glass-right-2.png
+SHA1-Digest: nwxYN/0LDTIzYHsx28+OL5jurnw=
+
+Name: assets/offline/levels/images/era/era_image-wire_fence.png
+SHA1-Digest: VfFz+buXT6one7TkrFXw/MZQxN4=
+
+Name: assets/offline/sounds/weapon_dagger.wav
+SHA1-Digest: ka0WLI1l6tJ1rSmlyrRAgmbFO+k=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_cn.png
+SHA1-Digest: NXefWQ1QZ9ylTxupxxIWMnarKN4=
+
+Name: res/layout/com_facebook_picker_title_bar.xml
+SHA1-Digest: OZwgP7DJ3wktM/Uw7MIT9sy6M9w=
+
+Name: assets/offline/levels/ganis/era_handgun-dfire2-derekdual.gani
+SHA1-Digest: kfjBLe5kGB+em6biVXpFnmvLV/M=
+
+Name: assets/offline/levels/images/era/era_car3_8.png
+SHA1-Digest: i51tSc3nQ5s4mdOto3eTWoZODNg=
+
+Name: assets/offline/levels/ganis/era_shotgun-reloaddual.gani
+SHA1-Digest: ZzZ+2m9pm70A9PI1wf1Qd/B0D0I=
+
+Name: assets/offline/levels/images/era/era_flower-2_5b.png
+SHA1-Digest: 0uoSeB457rjYqdrg114+RvRRRM4=
+
+Name: assets/offline/levels/ganis/era_gun-ak47-idle.gani
+SHA1-Digest: KMYZqvxrAhqARm17fc7Rqf8MIZg=
+
+Name: assets/offline/levels/emoticons/emoticon.gani
+SHA1-Digest: KEKph0PBtVavRpbBie7jpgtVIrg=
+
+Name: assets/offline/levels/images/era/era_bebopchips.png
+SHA1-Digest: PIcUmwkN38MPFM6ZlM4fgrE6Nkw=
+
+Name: res/drawable-xhdpi/com_facebook_loginbutton_blue_normal.png
+SHA1-Digest: xGQtABb1AitSeN8uVNWHd/+8MQ0=
+
+Name: res/drawable-hdpi/com_facebook_button_grey_normal.9.png
+SHA1-Digest: BvNuj0JM4dW1M5X/qZOU04aa9aQ=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Scrool
+ VertGrippers.bmp
+SHA1-Digest: cl8TgWtqMmmEu36kCdQQPqYjF0A=
+
+Name: assets/offline/levels/images/classicgui/classicgui_color_black.p
+ ng
+SHA1-Digest: zFKs3WY1vo5TuRNqzGBshAdww34=
+
+Name: assets/offline/sounds/shipka-bolt.wav
+SHA1-Digest: Mf3HgHgOCEZiyOsqfS27lgVpcZY=
+
+Name: assets/offline/levels/shields/shield2.png
+SHA1-Digest: 6Q3s4emJsAyJroJpovV8+N5u9J4=
+
+Name: assets/offline/levels/ganis/era_handgun-dfire2-derek.gani
+SHA1-Digest: zgp9C7j4XpnDp5jJJdnAOVUvzYU=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_ganghousebutton
+ .png
+SHA1-Digest: qG+jQ4GISD0BnR1ry+7dkWSNO58=
+
+Name: assets/offline/levels/images/era/era_ammo-handgun.png
+SHA1-Digest: lD05xVUDCMWUYyaIE/8EDd16bj8=
+
+Name: assets/offline/levels/fonts/tahoma.ttf
+SHA1-Digest: cHOZwhvYg+Cv5dTiKq8shFK+7sI=
+
+Name: assets/offline/levels/images/era/era_door-wood-left-1.png
+SHA1-Digest: +xPPop4ezSHNvd1/khknTkwGNc4=
+
+Name: assets/offline/levels/images/era/era_door-metal-glass-bar-1.png
+SHA1-Digest: mnnVo0C+vPnqh/Q9yJAqq1sbsl8=
+
+Name: assets/offline/levels/images/era/era_flower-4_3a.png
+SHA1-Digest: wQjVyDonafHOhAbZaGcGeRJMxHw=
+
+Name: assets/offline/levels/emoticons/emoticon_Tears.mng
+SHA1-Digest: 53+MjqjUNmJCboy57jP1eztivSY=
+
+Name: assets/offline/levels/images/am/am_window.png
+SHA1-Digest: nuiy0cedzMQh6xpFfsylOLrZHbU=
+
+Name: assets/offline/levels/images/era/era_rubble1.gif
+SHA1-Digest: PPlSMqbzTaYoTCkWWCGjjuYgXlg=
+
+Name: assets/offline/levels/images/era/era_couchblue.gif
+SHA1-Digest: 95HQ8XcSLhhsW6Fae3Tz3M2cJNA=
+
+Name: assets/offline/levels/images/guiblue/guiblue_scroll.png
+SHA1-Digest: yjtm8IvWkjKztAv3+3B8jeLOHmM=
+
+Name: assets/offline/levels/emoticons/emoticon_Ohh.png
+SHA1-Digest: UJP+xeWW9H7O8ipQRNutYUqc+yI=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/SSVide
+ oFolder.bmp
+SHA1-Digest: GVwUuKOm43RHjeUXKhHXfjW0dc0=
+
+Name: assets/offline/levels/ganis/hiddenstill.gani
+SHA1-Digest: Ioe34otrq5AzX02RapTsEhlvMmw=
+
+Name: res/drawable-ldpi/com_facebook_icon.png
+SHA1-Digest: lPHIYoqZ+2OpY0LPumyDkUdNdoc=
+
+Name: assets/offline/sounds/m4_clipout.wav
+SHA1-Digest: d4Fr1vrmzuhR/93E8GGDyw1Ah44=
+
+Name: assets/offline/levels/images/downloads/pottedplant.png
+SHA1-Digest: A/2GzRxQlSaZxhltZKaN6clABIY=
+
+Name: res/drawable/com_facebook_picker_item_background.xml
+SHA1-Digest: Cq51aZYoaRIqNbq/2ExWblR0CEQ=
+
+Name: assets/offline/levels/images/era/era_flower-5_3b.png
+SHA1-Digest: 5h6NNN14FBUW7NPM9V0S+hUix4E=
+
+Name: res/drawable-hdpi/fz_obj_name_label.9.png
+SHA1-Digest: YqsIcwMgFPfkmThXROy2fcTa0kw=
+
+Name: assets/offline/levels/emoticons/emoticon_Qphone_stay.png
+SHA1-Digest: RKIM6GvVzxmbkiia0BgpqdQGskY=
+
+Name: assets/offline/levels/ganis/hiddenobj.gani
+SHA1-Digest: 7lv65y79OFGXFnD41V7Pc4F4ZBM=
+
+Name: res/layout/fz_size_select.xml
+SHA1-Digest: ReHZsHqgCFoVpZTfIJni2pIDJ1o=
+
+Name: assets/offline/levels/shields/shield3.png
+SHA1-Digest: JghcK9rcBmGqFXIpPsreiDyPghw=
+
+Name: assets/offline/levels/images/image/image_item38.png
+SHA1-Digest: 8/p0tpfTAxbSHO5QUC83wz2aa8s=
+
+Name: assets/offline/levels/images/era/era_icon_newspaper.png
+SHA1-Digest: IKmfqN63mSTaeOQDfRPRXTiwAhs=
+
+Name: assets/offline/levels/tiles/tileset_era01-autumn-online.png
+SHA1-Digest: wjiCGOQyAPuYkwh+NzYr3OUa4Yo=
+
+Name: assets/offline/levels/images/downloads/newneorifle1.gif
+SHA1-Digest: pCAaTTn8i1jHqkEvVzxrR1/mNNo=
+
+Name: assets/offline/levels/images/era/era_public-spar_glass-door.png
+SHA1-Digest: jK9mm10CFnG2Q+8nnptCbfu3t9s=
+
+Name: assets/offline/levels/images/downloads/blookat-efbiwindow2.gif
+SHA1-Digest: mWvm6qV1J76nNnqMKLjjyulNK1E=
+
+Name: res/layout/fz_intro.xml
+SHA1-Digest: pcsZ3t+E3kfB0cNwwfdbM/jSa34=
+
+Name: assets/fonts/handsean.ttf
+SHA1-Digest: wJeR7rd9qVBT77AWsxszLuIctWw=
+
+Name: assets/offline/levels/images/era/era_ip-town-well.gif
+SHA1-Digest: 1LSybdiQB3EJ1I+F3SURvsvxsbA=
+
+Name: assets/offline/sounds/weapon_bamboo.wav
+SHA1-Digest: VDMshzNCTVTBV/S/CpS0BMmcNlE=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Border
+ Hedder.bmp
+SHA1-Digest: 4X6HRa1aRP6l4iGWrtRQMU4GxkE=
+
+Name: assets/offline/levels/images/guigames/guigames_showprofileclick2
+ .png
+SHA1-Digest: 1BGNyJh6PfJaWTiJHpaWqUEJ844=
+
+Name: assets/offline/levels/images/era/era_door-wood-left-2.png
+SHA1-Digest: fnT7Ax27b3WqzzO19n8SiTEXQ2g=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_tutorial_messag
+ eback.png
+SHA1-Digest: klcs3hf0lhTDsw4t16JI59rK4wA=
+
+Name: assets/offline/levels/images/image/image_postwindow2.png
+SHA1-Digest: urq6YYl+khVf1WsTPJ3L16+/A6s=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/XPgrip
+ perVert.bmp
+SHA1-Digest: sFHdbHCanVmoVVmWf6tcvrqvj+M=
+
+Name: assets/offline/levels/images/era/era_door-metal-glass-2.png
+SHA1-Digest: UDiqZhTmuiqqMnUe9/m65fokv6A=
+
+Name: assets/offline/levels/images/era/era_halloween-fence.png
+SHA1-Digest: zaBz4W4GBM+OE5+VAeW21uZo6/k=
+
+Name: res/layout/fz_address.xml
+SHA1-Digest: jFgoEl/DMr0rA7BVdDttaNJqpnQ=
+
+Name: assets/offline/levels/images/classiciphone/classiciphone_signbut
+ ton.png
+SHA1-Digest: jOt+F6aM4bYV24FWRLoMb2TYzrc=
+
+Name: assets/offline/sounds/steps2.wav
+SHA1-Digest: n/5UGKEUyCqxL1updfJ++bp1KF4=
+
+Name: assets/offline/levels/images/icon/icon_atm.png
+SHA1-Digest: h5IhYhPml3lpNGXqpbY2+kLNkBM=
+
+Name: assets/offline/levels/images/era/era_ip-mapicon24.png
+SHA1-Digest: FdAkNDgv+gNrEpV9poVIfkGtc24=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_il.png
+SHA1-Digest: KR4WG+Y0FTseLZKwvGdQNQ8SyKI=
+
+Name: res/layout/com_facebook_picker_title_bar_stub.xml
+SHA1-Digest: 1uphtJ/yl1GofzhbN40oTAGW2bU=
+
+Name: assets/offline/levels/images/guigames/guigames_smallbutton2_gree
+ n.png
+SHA1-Digest: d7uHUkIq238gEZnSK6oBn3WHPlo=
+
+Name: assets/offline/levels/fonts/turntablz.ttf
+SHA1-Digest: Y8r0QsQ2F20l9OV5dN+62iKnv/w=
+
+Name: assets/offline/maps/eraiphone_map_1.jpg
+SHA1-Digest: UrBJWPx8ojbgU+CRgDT6kxmNsds=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/listvi
+ ew.bmp
+SHA1-Digest: Bsn+MG03l4tM3TP4SJGdkFBsZ8A=
+
+Name: defaultVertexShaderTex0.src
+SHA1-Digest: z23muLdr/plKsenX1/ihy2KX3rE=
+
+Name: assets/offline/levels/images/era/era_pubsign3.png
+SHA1-Digest: Q6GyboH4DFBGJFzSJNoH1eMD/Mc=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_help_battles.pn
+ g
+SHA1-Digest: y6MWRmY5/dwHV9LWJ9YHs8Hl1qE=
+
+Name: res/drawable/fz_btn_green.xml
+SHA1-Digest: ut27TS6hKe3ffk6cZu0+8ksPH04=
+
+Name: res/drawable-hdpi/fz_default_image.png
+SHA1-Digest: f7eEr5+LJJeGOTSNFrJIl4XBUYk=
+
+Name: assets/offline/levels/images/chrisz/chrisz_glass-empty.gif
+SHA1-Digest: TdJ7LlYuVO4lHFJRmWH1PXN52Y0=
+
+Name: assets/offline/levels/images/era/era_selph-nightstick.png
+SHA1-Digest: dYelokdlBs2a01ubPbXRQ1rtHQs=
+
+Name: defaultFragmentShaderTex0Amb.src
+SHA1-Digest: eO/42X1uaTj/4BhxTC+u0B6X5K0=
+
+Name: assets/offline/levels/ganis/era_melee_plank-attack.gani
+SHA1-Digest: I3qclEdpuEhBj/cWns95SuT6foM=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/groupm
+ enu.tga
+SHA1-Digest: lzSMi4mxyDfLsPWcjSwAFqNKuUI=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/XPTryB
+ uttonVert.tga
+SHA1-Digest: 2CPsdD50kxJpKvEPpmBe3cESuEo=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Helple
+ ft.bmp
+SHA1-Digest: smdtPEuu2OZteGw79WjTrD4rEXs=
+
+Name: assets/offline/levels/images/guigames/guigames_wait10.png
+SHA1-Digest: QgUemvl17ECNQXrCu+FM/2bKRhQ=
+
+Name: assets/offline/levels/images/era/era_icarus-bk-garagedoor.gif
+SHA1-Digest: tSxNuJQ3KTBtriNigyFNlqbMlDI=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_ph.png
+SHA1-Digest: idy3JcFExZc65emB1Z5NJTyHzB4=
+
+Name: assets/offline/levels/images/guigames/guigames_smallbutton2_blue
+ .png
+SHA1-Digest: 1hic3tUXEk3475rsZibDOJ65rXI=
+
+Name: assets/offline/levels/images/classiciphone/classiciphone_signbut
+ tonera.png
+SHA1-Digest: tsDGF/QdI+DGRc5aB4HV1oN/97o=
+
+Name: assets/offline/levels/images/classiciphone/classiciphone_map_pla
+ yers_off.png
+SHA1-Digest: NLA0LRoL5lPbjVOEIfBHfzV1FJ4=
+
+Name: assets/offline/levels/images/downloads/blookat-derby.gif
+SHA1-Digest: lW4d9ea9LNT2GX9NmRfwge8yOfs=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Toolba
+ rBitmap.bmp
+SHA1-Digest: XS855sSBjqmeffc1ir3YhY4OHQM=
+
+Name: assets/offline/levels/images/era/era_flower-1_1a.png
+SHA1-Digest: 0gU3nTG58i4G4uFYOaz9erEAWhw=
+
+Name: assets/offline/levels/fonts/arial.ttf
+SHA1-Digest: LFy3z6Ge6l2Qw3XcD5+OUC6pfww=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Spinup
+ down.bmp
+SHA1-Digest: 6VLvOySIV1SlREpSoYYlZJzp8nM=
+
+Name: assets/offline/levels/images/downloads/defaultcheck.png
+SHA1-Digest: i4HhwR9uNmgzxQHZu5C+Tvpu/Lg=
+
+Name: assets/offline/levels/hats/hat92.png
+SHA1-Digest: VmJE/OwkpxLQIc2oi/r5BBYHLoE=
+
+Name: assets/offline/sounds/skills_newselect1.wav
+SHA1-Digest: QUt5k+iwIFLqw8VAXAQFV31LL2Q=
+
+Name: res/layout/fz_cart.xml
+SHA1-Digest: rLbGxyOHzk2gz2jUISEYDxUyJzY=
+
+Name: assets/offline/levels/emoticons/emoticonmicro.png
+SHA1-Digest: 10HP7g8xpjOh1LN5HTK5Dcb4r6s=
+
+Name: assets/offline/levels/images/era/era_sodamachine3.png
+SHA1-Digest: z6uMTBSQNKekRJ+IOVYyGkj8Ftk=
+
+Name: res/drawable-xhdpi/com_facebook_loginbutton_blue_focused.png
+SHA1-Digest: vaIikRMPOeSzfh5geLs840nHy5o=
+
+Name: assets/offline/levels/images/chrisz/chrisz_glass-beer.gif
+SHA1-Digest: sauL14knlgeSiPGlyJdUzL+Fep4=
+
+Name: assets/offline/levels/images/era/era_mud304.png
+SHA1-Digest: BLpbu/ForqQdeUCQcGvARBx70R4=
+
+Name: assets/offline/sounds/lift2.wav
+SHA1-Digest: 2h2IiFAW72FlsE9UEGMA5E0BzAM=
+
+Name: assets/offline/sounds/frog2.wav
+SHA1-Digest: qdsqmlgg8U/KtoDdGYQQWKkPZX4=
+
+Name: assets/offline/levels/images/era/era_flower-3_2a.png
+SHA1-Digest: 0H4QtobMBFHAo6FGhd5vzIvhKaM=
+
+Name: assets/offline/levels/bodies/body2.png
+SHA1-Digest: pXUPL9SyD6VjIk+juvL7jIsY/x8=
+
+Name: assets/offline/levels/ganis/shoot.gani
+SHA1-Digest: j154p7Zl4df9aH9j1ZQF9+oe6TU=
+
+Name: res/drawable/com_facebook_picker_list_selector_disabled.9.png
+SHA1-Digest: cKGQg8jgT0IkOi1RPo5Y+TSnQb4=
+
+Name: assets/offline/levels/images/era/era_bullet-trails.png
+SHA1-Digest: tiAoFGL5sFxcaKzMryPzq5UOyrI=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_cl.png
+SHA1-Digest: uasroFJFv35CK1DxIDghtGy/3jY=
+
+Name: assets/offline/levels/images/downloads/blookat-shrimpandrice.gif
+SHA1-Digest: euooZd5At2Lxd4Qtf7wJeRhDy+s=
+
+Name: assets/offline/levels/ganis/lift.gani
+SHA1-Digest: 507hhBiXfVX/eWhtznu57ao2wzs=
+
+Name: assets/offline/levels/images/era/era_fire.mng
+SHA1-Digest: keG56D7zSYuJpw6r547J3UtNrYc=
+
+Name: assets/offline/levels/images/era/era_flower-3_4b.png
+SHA1-Digest: l7u7iJjd2uOW92v8u7qx4jshc4A=
+
+Name: res/layout/main.xml
+SHA1-Digest: rwI3NtvlhpCIERwuagB+q/CRbMo=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Close.
+ bmp
+SHA1-Digest: mTiKXbXp/Am9ZNTy7Vkx2QBaneQ=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/XPquic
+ klaunchbuttons.tga
+SHA1-Digest: zcc0KhPQLkA3um6/Mt0/8dW61Eo=
+
+Name: assets/offline/levels/images/era/era_flower-1_2a.png
+SHA1-Digest: 0MYCa9hBclf2E2qXFl5Jebdn9pw=
+
+Name: assets/offline/levels/images/downloads/blookat-lawngnomedecor.gi
+ f
+SHA1-Digest: 6hkvW4K9kB6MykzZuCK6YjzIlt4=
+
+Name: assets/offline/levels/images/era/era_pool-table.png
+SHA1-Digest: dchAGL1f4CHENuQffJsQas4zhmE=
+
+Name: assets/offline/levels/images/era/era_image-tree-shadow.png
+SHA1-Digest: oVnkOjH2ZFMCVh9ics2QbYf1XlY=
+
+Name: res/layout/com_facebook_placepickerfragment_list_row.xml
+SHA1-Digest: 7gdiohauQ2xjT6ztpcQ5gPAdbsE=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/trackb
+ ardoup.tga
+SHA1-Digest: oy5GBKpshMrFj8tJJDp3QaVbh54=
+
+Name: assets/offline/levels/ganis/era_melee_knife-attack.gani
+SHA1-Digest: YsZZf/uitfHrvNJTW/bFP8L38pM=
+
+Name: assets/offline/levels/images/blookat/blookat_nt-smallcomputer.gi
+ f
+SHA1-Digest: EegdzpUnqkv/+vl6UiOvkMW7uFM=
+
+Name: assets/offline/levels/images/chrisz/chrisz_teai.gif
+SHA1-Digest: CE3FPhD85fx43+8dDV8lmUBXQqo=
+
+Name: res/drawable/fz_address_new_box_background_pressed.xml
+SHA1-Digest: 1+QeHcLKOLjy2gmyM2Cz2CZ97l0=
+
+Name: assets/offline/levels/images/guigames/guigames_smallbutton2_yell
+ ow.png
+SHA1-Digest: JFLkX/f8et+JEsq7DPMmB0C/pOY=
+
+Name: assets/offline/levels/images/era/era_image-mines-sign.png
+SHA1-Digest: j0hRMax+HH/2v3E7JgwqdOj+SJo=
+
+Name: assets/offline/levels/music/eraiphone_musiceffect4.mp3
+SHA1-Digest: jRsIcGoFIbvl8Qe+UDk9TwX0dhs=
+
+Name: assets/offline/levels/images/era/era_pyrotech-roof.png
+SHA1-Digest: ZglifDxfVPyJ13UHEifvWNa+JRk=
+
+Name: assets/offline/levels/images/era/era_bluebin.png
+SHA1-Digest: Bu92QHO6fQj4cV+w3JdbpMRPgCQ=
+
+Name: assets/offline/levels/heads/head0.png
+SHA1-Digest: k5bcbxnebgiTWzyjBt/1dYg30Ws=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_uk.png
+SHA1-Digest: KiW9bBtrqvaXGm4zwaPgxe+SCAg=
+
+Name: assets/offline/levels/images/era/era_ip-icon-padlock.png
+SHA1-Digest: n7OV8a6VUb3KEUgdXxeTy0kzF/M=
+
+Name: assets/offline/levels/images/era/era_icarus-bk-door1.gif
+SHA1-Digest: KNOxPit1qC5cWSDOxEaorygRXd0=
+
+Name: assets/offline/sounds/era_car-screech_loud.wav
+SHA1-Digest: EYBj2dcshbEeM7uz1Ovu6GwosZ4=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_help_gangs2.png
+SHA1-Digest: 3v4U9Q5TsM+6SzLjSWHdpXBy3Og=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_movement2.png
+SHA1-Digest: 5Fiz4y4vjSpHfW8VJ4mQynSiKDQ=
+
+Name: assets/offline/levels/tiles/tileset_era01-winter-online.png
+SHA1-Digest: tVyYV7v79ktP97j5fH54RbUVXWM=
+
+Name: assets/offline/sounds/m4_clipin.wav
+SHA1-Digest: OalZcbGrYFpw+99GAiIDecr+tcg=
+
+Name: assets/offline/levels/heads/head4.png
+SHA1-Digest: d5+xn52w17nKoXb3k6Y0Zrt8uUA=
+
+Name: assets/offline/levels/images/era/era_iphone_mapbutton.png
+SHA1-Digest: L4o18+DMKluGNi97B79pEFsY/T0=
+
+Name: assets/offline/levels/emoticons/emoticon_Heart.png
+SHA1-Digest: VBnCcfe7zNpOaBlU4VAyICjcCI8=
+
+Name: res/drawable/fz_white_background.xml
+SHA1-Digest: WeASYO5TEhFC4RV01tTBiDfj3f8=
+
+Name: res/drawable-hdpi/fz_factory.png
+SHA1-Digest: plMMI4ZT6sOZw3Yb64f/wUL8+30=
+
+Name: assets/offline/levels/images/image/image_sign-dd.png
+SHA1-Digest: sNb0yM9uSvbJZEA+v8K/p+/yYEg=
+
+Name: assets/offline/levels/images/classiciphone/classiciphone_map_fri
+ ends_on.png
+SHA1-Digest: 0OsnwwMDj74l2FStTd5n24DbWck=
+
+Name: assets/offline/levels/images/classicgui/classicgui_color_purple.
+ png
+SHA1-Digest: fvvXXwN+LnvLXKVpdYJSrUWNhvQ=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_es.png
+SHA1-Digest: cglDANlqeWLotPRM5wNld9JR0pg=
+
+Name: assets/offline/levels/images/era/era_garagedoornew.png
+SHA1-Digest: ESAcIPXTDlSRP79uJoULUTfzBT4=
+
+Name: res/drawable-hdpi/com_facebook_close.png
+SHA1-Digest: vzoVwUXnEtJQCL4582EeDreqvIA=
+
+Name: assets/offline/levels/images/classicgui/classicgui_color_brown.p
+ ng
+SHA1-Digest: pge9tsb9543LlGT75AyKKvFol/I=
+
+Name: res/drawable-hdpi/fz_3dcusto_background.png
+SHA1-Digest: szHNm9BzqWu1hZSbDmLLtJNi/fk=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/MenuBa
+ ckground.bmp
+SHA1-Digest: sMeezIEMMLRHaVU8Cc2ztre+vC8=
+
+Name: assets/offline/sounds/fire.wav
+SHA1-Digest: mwykmzWaalvXgFD0hXHyb6JDAu4=
+
+Name: assets/offline/levels/images/era/era_garageroof2.png
+SHA1-Digest: PzkKIrkBdFVCW/7Ita4FEAH/44g=
+
+Name: assets/offline/levels/images/image/image_postwindow1m.png
+SHA1-Digest: OkJy3pAz1X31agtO9VNWMlfl0LU=
+
+Name: assets/offline/levels/images/era/era_couchred.gif
+SHA1-Digest: LDmElHYVZYW6G7UB+iNAqfG1DDg=
+
+Name: assets/offline/levels/emoticons/emoticon_Yummy.png
+SHA1-Digest: /hrMtTVjaMqzogA1BM9B1zt2sIE=
+
+Name: assets/offline/levels/images/classicgui/classicgui_color_yellow.
+ png
+SHA1-Digest: L/JF356fS8cXFf2wGBuaz3zF3EU=
+
+Name: assets/offline/levels/images/era/era_eh-railing3.png
+SHA1-Digest: T4xonVY4b0VRCNYGA7AP+/HZO3s=
+
+Name: assets/offline/levels/images/downloads/skateshopsign.png
+SHA1-Digest: fDZhPN7dqXWiA0QIrqBZ/6gDGAM=
+
+Name: assets/offline/levels/images/era/era_mailbag2.png
+SHA1-Digest: eAtmOmYU70sMNxy6zmOSGK82u+U=
+
+Name: res/drawable-hdpi/com_facebook_logo.png
+SHA1-Digest: +F9i6TennSQx3Unl/q4mPr3itE8=
+
+Name: res/drawable/fz_address_new_box.xml
+SHA1-Digest: c6N9jKYxIoaO9h+1h3LN71RdmWA=
+
+Name: assets/offline/levels/images/classicgui/classicgui_color_orange.
+ png
+SHA1-Digest: Ed4Xai5wwUprUDSko/MVVamV21s=
+
+Name: assets/offline/levels/images/era/era_door-metal-panel-1.png
+SHA1-Digest: 8EqOiSUXJ3m/ZSE14rX3eiXR9nQ=
+
+Name: assets/offline/levels/images/era/era_sign-duh.png
+SHA1-Digest: KVh/FbLu4WTmu4ZYahwH+qJKOZM=
+
+Name: assets/offline/levels/images/era/era_mu-sign.png
+SHA1-Digest: sR2aLjvJldvXtDk/PDPe6krDlMk=
+
+Name: assets/offline/levels/music/eraiphone_musiceffect3.mp3
+SHA1-Digest: zDltV/a8fi/dXE/3Zm676RmCM2o=
+
+Name: assets/offline/levels/images/era/era_couchred_right.gif
+SHA1-Digest: QXvlrby1VMbjcaLAeg0IdpNPPug=
+
+Name: assets/offline/levels/images/era/era_ip-mapicon19.png
+SHA1-Digest: jGs70B2h6jqtEOX0E5Nl87sB5rk=
+
+Name: assets/offline/levels/ganis/era_melee_brokenbottle-attack.gani
+SHA1-Digest: fFaKJHnCWgcEtOmU7yxK/697vkQ=
+
+Name: assets/offline/levels/images/era/era_hat-icon-029.png
+SHA1-Digest: FzPDhF0qZoDhNLbdZjqJWjlq9kM=
+
+Name: assets/offline/sounds/exolia.wav
+SHA1-Digest: Wpi4xtu0U7Bowq/epj8JjS5ymxw=
+
+Name: assets/offline/levels/images/reno/reno_wallphone.gif
+SHA1-Digest: 2Klom/B18fB18Dm5DDE5E8P4Oos=
+
+Name: assets/offline/levels/images/era/era_flower-5_4b.png
+SHA1-Digest: Vy19O+CnrGR3RVtt0klW1CcNcA8=
+
+Name: assets/offline/levels/ganis/era_duelhandgun-idle.gani
+SHA1-Digest: pMzBlK5vVwbAsXezfb8lBHmTKVQ=
+
+Name: assets/offline/levels/ganis/walknosound.gani
+SHA1-Digest: IUI2+4aVsN2pSYqbnbQB+O22wZk=
+
+Name: assets/offline/levels/emoticons/emoticonbubbles.png
+SHA1-Digest: G/9D7W5/4FEChEL2r6pxqx8aiZg=
+
+Name: assets/offline/levels/images/era/era_iphone_chatbutton2.png
+SHA1-Digest: Rxyrxl+O05nlU9f06ZfyI3LJmSY=
+
+Name: assets/offline/levels/images/era/era_recycle-sign.png
+SHA1-Digest: LsbPM1qWk8O0WjizShEaBpL1dqI=
+
+Name: assets/offline/levels/images/image/image_item26.png
+SHA1-Digest: Mcy0MwBN5+SPCkX31bILiNuKdu4=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/LogOnB
+ oxFlag.bmp
+SHA1-Digest: ONv095e6WYor65VoyWSeMePrxT0=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_jumpbutton.png
+SHA1-Digest: rmlGERbAJ4KnNUpY7sdZp0wetjE=
+
+Name: assets/offline/levels/images/era/era_sign-trash.png
+SHA1-Digest: LBpgs4DthPKPw6DEonEKXWPFtg4=
+
+Name: assets/offline/levels/images/classicgui/classicgui_color_cynober
+ .png
+SHA1-Digest: x/DNv4P00SCxN6742+wabwJKe6M=
+
+Name: assets/offline/levels/images/era/era_pubdarts-pp.png
+SHA1-Digest: n39cw5QpmW/wggIqUOawrJwM9eA=
+
+Name: assets/offline/sounds/bird1.wav
+SHA1-Digest: cebxv37PwLAogin74emj9DjyCNk=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Scrool
+ buttons.bmp
+SHA1-Digest: 1GY1X0avn7LmbdF7eK5HJXMsHK0=
+
+Name: assets/offline/levels/images/era/era_flower-2_2a.png
+SHA1-Digest: oGytFUmmg6moc/mDgPlbhaI+AWc=
+
+Name: assets/offline/levels/images/downloads/blookat-alarmoff.gif
+SHA1-Digest: ftVz6om11Ne34dVXvOdEszSK3x4=
+
+Name: assets/offline/levels/heads/head431.png
+SHA1-Digest: BUGR2xzhPwlCavnt9aKj2AMB1PQ=
+
+Name: assets/offline/levels/images/era/era_bridge-gap-1.gif
+SHA1-Digest: KTnr1kNouZBqnZzQDRxxq7G1k1A=
+
+Name: res/drawable-hdpi/fz_btn_next.9.png
+SHA1-Digest: VQ3YRcvg7mfif2wtmdzkgu5TvPs=
+
+Name: assets/offline/levels/images/era/era_radiostation-walls_middle.g
+ if
+SHA1-Digest: MFCD6x5gztcKFJEaTfttWdwR9jE=
+
+Name: defaultVertexShader.src
+SHA1-Digest: r2gyHh3+Ck7EWCzQLCxCl9zsEwE=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/framer
+ ight.bmp
+SHA1-Digest: WPdh43A7sWJPuC6rq8+OcQteuRs=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/grippe
+ rhor.bmp
+SHA1-Digest: PYkDbB0I7YhPrrs8JBPAOJ9azQ4=
+
+Name: res/drawable/com_facebook_logo.png
+SHA1-Digest: COOFdQDqXjvNdi+5TMPa3bPhaEQ=
+
+Name: assets/offline/levels/images/era/era_flower-4_3b.png
+SHA1-Digest: jHkvS+in+cnBhoiyanRPq4WAows=
+
+Name: assets/offline/levels/fonts/tempsitc.ttf
+SHA1-Digest: AG4nfnkaPS7768uoQhxeyBlLoUo=
+
+Name: assets/offline/sounds/water.wav
+SHA1-Digest: eR15Hm7aPcg9hLcd8Tuf8rt+qgI=
+
+Name: assets/offline/levels/emoticons/emoticon_Smile.png
+SHA1-Digest: J/0b4wgGlQHQCAXeUbyPzTLxfyI=
+
+Name: assets/offline/levels/images/era/era_lamp.mng
+SHA1-Digest: UfY55yLzXkCZM1eZwMYHbfB6n38=
+
+Name: assets/offline/sounds/ak47_shellbolt.wav
+SHA1-Digest: w+e4UpPFRgqvIAVj5ONGWOvk+yQ=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/framet
+ op.bmp
+SHA1-Digest: o8xsz7H3EbRMOMNjxj/Lt1hpxD0=
+
+Name: assets/offline/levels/images/era/era_image-tree-02.png
+SHA1-Digest: bSQ3JkEI05rYWTT3J4wQSJYxPF8=
+
+Name: assets/offline/levels/images/downloads/blackmfhat.gif
+SHA1-Digest: b0yI/JwG7mY6bFnh7yOCUdxUElM=
+
+Name: assets/offline/levels/heads/head6.png
+SHA1-Digest: IAFJSAY6rpb/Kmgwp/2njuSmYjE=
+
+Name: assets/offline/levels/images/era/era_ip-wallyellowtop.png
+SHA1-Digest: vOXA6qU/8KuduG41I/Y9SMdP92s=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_movement1.png
+SHA1-Digest: D88d4eHtUdcbTAaolNPkCU6Eprk=
+
+Name: assets/offline/levels/images/guigames/guigames_arcmessage.png
+SHA1-Digest: wN+v3y+L7+5ca1ouMOP1Je/kTqU=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_no.png
+SHA1-Digest: Q6zAwDzvqYqV53FTpXHD8dk8K3M=
+
+Name: assets/offline/levels/images/classicgui/classicgui_color_lightbl
+ ue.png
+SHA1-Digest: Kc278xobr5L6vbp/nU/nUFHIGMI=
+
+Name: assets/offline/levels/images/era/era_tablesprite-1.gif
+SHA1-Digest: BS5dwa9w/hCOgUcK5TrgAlcCwMk=
+
+Name: assets/offline/levels/images/downloads/defaultbutton.png
+SHA1-Digest: Z7OcVtKDnH4NYdLEkW36cI1YCgk=
+
+Name: assets/offline/levels/fonts/adventure.ttf
+SHA1-Digest: AeMAJJK8yhewS4/+KNV4NhfKEqg=
+
+Name: res/drawable/com_facebook_picker_list_selector_background_transi
+ tion.xml
+SHA1-Digest: jGr2Ud+kdCJRbYNguzNSGVBp4fs=
+
+Name: assets/offline/levels/images/era/era_flower-6_1a.png
+SHA1-Digest: GjG8P+xJMLWfBzy9WTEzwtjQt0s=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/XPProg
+ ramMenuBack.bmp
+SHA1-Digest: KCZoN2CB6hy2t+gHwHbpCd0JaIU=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_it.png
+SHA1-Digest: dfpe7vt99ZFCOeTYKyuN6dSwlTY=
+
+Name: assets/offline/levels/tiles/tiles_sand1.png
+SHA1-Digest: PqygN+WoqmyCjXPHLGaMiNtpkIc=
+
+Name: assets/offline/levels/images/downloads/smokeani.gif
+SHA1-Digest: Tmd++j8yehOk5Fr/VSD84qDc/Ek=
+
+Name: assets/offline/levels/ganis/sleep.gani
+SHA1-Digest: NqOyWvOEYHNBt4tftK2zb6Qb4/0=
+
+Name: assets/offline/levels/images/era/era_letter-white.png
+SHA1-Digest: llPRFmf7sMPQnXm5hQk3MCcb9CA=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/LogOff
+ Background.tga
+SHA1-Digest: YfPxTGDXaGi+TeoWiYZf2zCOuvc=
+
+Name: assets/offline/levels/fonts/ariali.ttf
+SHA1-Digest: 0gXUQ/RDFgA3itqpKinMA5ZQiRk=
+
+Name: res/layout/fz_discount_image.xml
+SHA1-Digest: +nBxL1nZD10H/CB2j55Bd0N78pw=
+
+Name: assets/offline/levels/images/era/era_ammo-shotgun.png
+SHA1-Digest: JAs8zaHq2tevcjy2u30g9SB5ssA=
+
+Name: assets/offline/levels/images/downloads/gasstationtank1.gif
+SHA1-Digest: VOFyiDimDTGx+lxkAFTiGEhmR5I=
+
+Name: res/drawable-hdpi/fz_bar_discount.png
+SHA1-Digest: pm71LFfJl8hri6sfEbftqdcHkps=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/framel
+ eft.bmp
+SHA1-Digest: CU/VRKNoiJb1uPfxen4DqqShJR4=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_feedbackbutton.
+ png
+SHA1-Digest: /ZZWvfI1hgJA3S6p/WYb00FVuAg=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_tw.png
+SHA1-Digest: XFguSZddtE/wt72xroqPnTZLh5g=
+
+Name: res/raw/fz_wheel.wav
+SHA1-Digest: 4FHi90RpRyblZsmtINYzEM8fCMo=
+
+Name: assets/offline/levels/shields/no-shield.png
+SHA1-Digest: gCU1qGr1btYAmWO5NeMWZS58UkY=
+
+Name: assets/offline/levels/images/era/era_flower-5_4a.png
+SHA1-Digest: BTnPPGOu8cTaqK1GBErb486p5u4=
+
+Name: assets/offline/levels/emoticons/emotions_template.png
+SHA1-Digest: xXOAJ8f32xQfK0VnzvSRc7f6A/Q=
+
+Name: res/drawable-xhdpi/com_facebook_close.png
+SHA1-Digest: 0IaTuYpHdwNgyn8PrCfM4P1LSUM=
+
+Name: assets/offline/sounds/axe.wav
+SHA1-Digest: vfgSeQeT7V5UGCV+aKLe/9ZE+MU=
+
+Name: res/layout/fz_promo_container.xml
+SHA1-Digest: Ka520galoJgQWxJNEl/mIMDwfR4=
+
+Name: assets/offline/levels/ganis/swim.gani
+SHA1-Digest: a9TiaKMF4PYkW8wWfH4BleOra/w=
+
+Name: assets/offline/sounds/nextpage.wav
+SHA1-Digest: EGfBUNocXE2v2iizjXS56eNPTwE=
+
+Name: assets/offline/levels/tiles/blookat-ocelot_tiles1.gif
+SHA1-Digest: Y8r+uwZInBg4zF/jG6XRB/IbeiU=
+
+Name: assets/offline/levels/music/eraiphone_musiceffect5.mp3
+SHA1-Digest: 2Jm5VikJ9PohE99gB1aoDAji9GA=
+
+Name: assets/offline/levels/bodies/body14.png
+SHA1-Digest: AmjlIFKR3arxBVoXG4sACf5Rbto=
+
+Name: assets/offline/levels/images/era/era_shovel.png
+SHA1-Digest: s/Xup6g0kAG+74su/+ZRMbQPAm0=
+
+Name: assets/offline/levels/images/era/era_ip-mapicon20.png
+SHA1-Digest: GzZ5dWOup5Q7k2AalBeegR31t/I=
+
+Name: assets/offline/levels/images/image/image_sewercover.png
+SHA1-Digest: xL6QiVTkQiklTo6Fe9N+18ZqW7k=
+
+Name: assets/offline/levels/images/era/era_beach-sign.png
+SHA1-Digest: DHDVVigKBvdMKZpOhF6ZKOyV668=
+
+Name: assets/offline/levels/images/era/era_fire.gif
+SHA1-Digest: NOrVMj2bfAwqReW7uylrr9FunSk=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_en.png
+SHA1-Digest: CmeR2B9Pnto7UXpr9Qfm0GsQdIg=
+
+Name: assets/offline/levels/images/sprites/sprites_buildingstuff.png
+SHA1-Digest: DM/2ED3WwrqP8IulUTaD/wpLZG4=
+
+Name: assets/offline/levels/ganis/era_handgun-walk.gani
+SHA1-Digest: SXnN4aylCh+8XRO+9M/Sbgy0SFg=
+
+Name: assets/offline/sounds/frog.wav
+SHA1-Digest: zXoKEQgW9m82fsXVn1wnyiHfWB0=
+
+Name: assets/offline/levels/ganis/iidle.gani
+SHA1-Digest: zsCjxC0LBo54oBHkxcBtI4uqerc=
+
+Name: assets/offline/levels/emoticons/emoticon_ROFL.mng
+SHA1-Digest: wYM8+POFnJBxOLvx/r57Z+dwIQE=
+
+Name: assets/offline/levels/images/era/era_couchblack.png
+SHA1-Digest: 0eQd9puLbesj0tDE4bgtiPlzvkU=
+
+Name: assets/offline/levels/images/downloads/sign-car.gif
+SHA1-Digest: d4JrXqWL6RYZQ49xBwRv6b3YRKQ=
+
+Name: assets/offline/levels/images/era/era_gun-icon-shotgun.png
+SHA1-Digest: /pqxJ5//7Bwli4gybbX7PWZFYic=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_br.png
+SHA1-Digest: Kx9bMAm4stwH8eC9CSOWLICTPZM=
+
+Name: assets/offline/levels/images/classiciphone/classiciphone_signbac
+ kbigge.png
+SHA1-Digest: pKBoVaGJSpyqjWzc6xlQ9dU4ZX0=
+
+Name: assets/offline/levels/images/classicgui/classicgui_color_green.p
+ ng
+SHA1-Digest: iIrboKpx3LRvBu9XdVa8p4FTYBM=
+
+Name: assets/offline/sounds/walk_grass2.wav
+SHA1-Digest: p19R1CINvtneFnJgQ0vAOW1330c=
+
+Name: assets/offline/sounds/de_magout.wav
+SHA1-Digest: S3P+O0QSHnX6VoEJ0dbQrQtqtnw=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/menuba
+ r.bmp
+SHA1-Digest: 5JtN2hM5MKLsXwwfymrjVmMNSow=
+
+Name: assets/offline/levels/images/guigames/guigames_wait0.png
+SHA1-Digest: 3ZKXLXJxWP/ky2o+VDmjd9LR/eI=
+
+Name: assets/offline/levels/ganis/era_newmap2.gani
+SHA1-Digest: +PlCOOC7gWOg9aZqWvQIGQjzs4E=
+
+Name: assets/offline/levels/images/era/era_flower-3_2b.png
+SHA1-Digest: 8PzbXN+LRXrNlQ6h/ix102cbDUo=
+
+Name: assets/offline/levels/ganis/era_map-in.gani
+SHA1-Digest: +QDUMdB+NXSvxj58rG6oEbU5GqA=
+
+Name: assets/offline/levels/ganis/era_parksign.gani
+SHA1-Digest: 6WcEGaFnmqFMfBvjFG8abZyJ56g=
+
+Name: assets/offline/sounds/put.wav
+SHA1-Digest: MeSe1uM3ppuq2DRz+7RSk7y8fXM=
+
+Name: assets/offline/levels/images/era/era_flower-1_4b.png
+SHA1-Digest: UhEGQWsTaaWH08rULLsWCvvSAHQ=
+
+Name: defaultFragmentShaderTex0.src
+SHA1-Digest: tIV1YCYnPNQV5slylJ4vv1Od11w=
+
+Name: assets/offline/levels/ganis/era_ilamppost.gani
+SHA1-Digest: gxbaFx+hCTP8rfuJEcGqq9J55HQ=
+
+Name: assets/offline/levels/images/era/era_weaponsshop_sign1.png
+SHA1-Digest: Rde/jbjj/hPVqyeJA97qhAwUzCo=
+
+Name: assets/offline/levels/images/era/era_image-tnt.png
+SHA1-Digest: u8HMytXtiZhb78kHoicLR/HCRAg=
+
+Name: assets/offline/levels/images/era/era_halloween-fence-pillar.png
+SHA1-Digest: z3xJXkACyrQuDrY8Fmksrn3RaFk=
+
+Name: assets/offline/levels/ganis/sit.gani
+SHA1-Digest: qJPdrf+wyduEuoH+qWZIQVzl+D0=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/checkb
+ ox.tga
+SHA1-Digest: XAOdt9EfUBcr9G8r08PA25zeDVo=
+
+Name: assets/offline/levels/images/era/era_door-lcmetal-panel-3.png
+SHA1-Digest: t4Q3cw3+Wm3JXFlodqwJKjjowHc=
+
+Name: res/drawable-hdpi/fz_background_address_box_off.9.png
+SHA1-Digest: +nzETxGTQcVoRKNP0b6Dxd5mCow=
+
+Name: assets/offline/levels/ganis/era_shotgun-firedual1.gani
+SHA1-Digest: kM/zPlb1hJ9SHHMIWG1DeurGH1s=
+
+Name: assets/offline/levels/images/era/era_image-mailbox.png
+SHA1-Digest: 1saUA2fZGnfHbou5rq7AGj4H6CE=
+
+Name: assets/offline/levels/ganis/era_item.gani
+SHA1-Digest: Ew/XCw/C0pNjMLy/LgroNf77qgM=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Main B
+ utton.tga
+SHA1-Digest: 02XAKxz66+6wgznd0qqM6kkUUNE=
+
+Name: assets/offline/levels/images/era/era_shell2.png
+SHA1-Digest: a4exP9US/YCagso/E+Cne8zdujw=
+
+Name: assets/offline/levels/images/armanno/armanno_catt.gif
+SHA1-Digest: iHsQc4lVZiB2H915x7d3ATpu2pY=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_facebookbutton.
+ png
+SHA1-Digest: HRC8U23Y9+QGnYeafmbKLAfQRJg=
+
+Name: res/drawable-hdpi/com_facebook_button_grey_pressed.9.png
+SHA1-Digest: tWUWjtTo3HxE/8a02qZ5QsaeyfM=
+
+Name: assets/offline/levels/images/era/era_car0_0.png
+SHA1-Digest: ZBeDy4b/9wJZ9347aTDmlaljIkY=
+
+Name: assets/offline/levels/music/eraiphone_musicloop3.mp3
+SHA1-Digest: H9BIFvjaAgGCPu0A4I/6UCKQjHM=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/XPtask
+ barButtonAttention.tga
+SHA1-Digest: i/TsuoX65ojZ/LRMmJ+6dzmW2E0=
+
+Name: assets/offline/levels/images/era/era_brokenbottle.png
+SHA1-Digest: pXMx7u9W4Mzc3jVjB0mPXtTZhY4=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: 8+P72iITnzMNAyVq+QFQ0zAH6Oc=
+
+Name: res/drawable-hdpi/fz_background_address_box_on.9.png
+SHA1-Digest: 1+5jjR3VTa4euYbL/LBvzG070gM=
+
+Name: assets/offline/levels/ganis/era_uzi-reloaddual.gani
+SHA1-Digest: iYupQXdGw4dFIAWl9XpAxMfg9zk=
+
+Name: assets/offline/levels/ganis/era_shotgun-walkdual.gani
+SHA1-Digest: fKhU/E4YLNQ4hd4Q8wBaXEGdAfo=
+
+Name: assets/offline/levels/ganis/grab.gani
+SHA1-Digest: zldRnraW/pqRSIU8P9EDT99sMDA=
+
+Name: res/layout/com_facebook_friendpickerfragment.xml
+SHA1-Digest: sFgUHugEmUc0ZW7nQRlIkf64s4U=
+
+Name: assets/offline/levels/images/era/era_image-ppasign-destroyed.png
+SHA1-Digest: 1ANc4/x8eQaSkTveONrTLIRI3V0=
+
+Name: assets/offline/levels/fonts/elementaryheavysf.ttf
+SHA1-Digest: RI74l8wbuwfCNir4g2PFtI3H0ig=
+
+Name: assets/offline/levels/music/eraiphone_musicloop0.mp3
+SHA1-Digest: NZZt2K7s4BHkNvEjrampxiMnsMs=
+
+Name: assets/offline/levels/images/era/era_phayzestatue.png
+SHA1-Digest: /QpAOdv6bN7uTFrLXvMgK8Cma00=
+
+Name: assets/offline/levels/images/era/era_ip-mapicon16.png
+SHA1-Digest: 5l82yER2pUmOTQWr7fJlyJwTaWE=
+
+Name: assets/offline/levels/emoticons/emoticon_Dgrin.png
+SHA1-Digest: TLib1o3DyuyYZHeEAeAzoZVSJ0U=
+
+Name: assets/offline/levels/images/era/era_flower-2_3a.png
+SHA1-Digest: oGeuGHB0Q3aox1Qv2+TtHZdY0MQ=
+
+Name: assets/offline/levels/images/era/era_ip-gloveicon.png
+SHA1-Digest: kbjZdbGVIBq9wP5e0SIBM5/TBPs=
+
+Name: assets/offline/levels/images/era/era_letter-yellow.png
+SHA1-Digest: AJScImD33PDMwr2ntG9wLn0MAsY=
+
+Name: assets/offline/levels/music/eraiphone_musicloop1.mp3
+SHA1-Digest: gLZA8dGMNZeJZrC+NL6ITotf0Dg=
+
+Name: assets/offline/levels/emoticons/emoticon_Maybe.png
+SHA1-Digest: bFo3eyAfuhsiZcPn1xI+UcnUMEU=
+
+Name: assets/offline/sounds/era_car-accel.wav
+SHA1-Digest: vMEcNrOSriih8kRl1onA+knIAV4=
+
+Name: assets/offline/levels/images/downloads/hotel-door02.png
+SHA1-Digest: bP/aqQ1IBbikskbXHQM+XPWjbK8=
+
+Name: res/drawable-xhdpi/com_facebook_button_grey_focused.9.png
+SHA1-Digest: wx0FTcs+RGcIb3fC9wYKpWawDgI=
+
+Name: assets/offline/levels/images/sprites/sprites_shotgun.png
+SHA1-Digest: n37RU7qKU7ZOb364VwpiUDc8zOk=
+
+Name: assets/offline/levels/images/sign/sign_core.png
+SHA1-Digest: dCgbmqYRvf5HQQlUhUw4wU4ayO0=
+
+Name: assets/offline/levels/heads/era_personal_graal680507-headkitty.p
+ ng
+SHA1-Digest: ZJInkYJFN7f+UMnvGAi0Yjlqij8=
+
+Name: assets/offline/levels/images/guigames/guigames_trophy.png
+SHA1-Digest: U7KLzKAtzwsrkzCb5gwaE24bheU=
+
+Name: assets/offline/levels/ganis/era_handgun-walkdual.gani
+SHA1-Digest: gDDEb1jNgpiNdcHtN3zzPGgHXGU=
+
+Name: assets/offline/levels/images/era/era_image-crate.png
+SHA1-Digest: USB01H/JQqOxcr3jfMUnzvrpmxA=
+
+Name: assets/offline/levels/images/guigames/guigames_wait.gani
+SHA1-Digest: QbXZLJNEwOXRkl++173CS/lWM1s=
+
+Name: res/layout/com_facebook_picker_list_row.xml
+SHA1-Digest: 7NCKQcHwMgeB/COdpjVRiJ2BAYc=
+
+Name: assets/offline/levels/images/guigames/guigames_wait8.png
+SHA1-Digest: qDVIEmx7T4hbZJN2L9bK6MYIjqk=
+
+Name: assets/offline/levels/images/era/classiciphone_map_friends_on.pn
+ g
+SHA1-Digest: 0OsnwwMDj74l2FStTd5n24DbWck=
+
+Name: assets/offline/levels/images/era/era_ip-mapicon25.png
+SHA1-Digest: h0kPcemRDwhE/4Uv2hgPRSem2tY=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/XPTask
+ barVert.bmp
+SHA1-Digest: ZT9LIJrEtJ9B6Kj3/tYj2G18NKw=
+
+Name: assets/offline/levels/images/era/era_iphone_friendsbutton.png
+SHA1-Digest: Ualan5m9aE2vDKVMtezu6pdcsyc=
+
+Name: assets/offline/levels/images/downloads/workingpaper1.gif
+SHA1-Digest: C1dW14k4aRXbvpP9SinweZBkxWs=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Menuit
+ embackgorund.tga
+SHA1-Digest: FNBad8QpCYhNGOgTBYGDX9eHgJw=
+
+Name: assets/offline/levels/images/era/era_mailpackage.png
+SHA1-Digest: upTV1b27lK6BvhsOXO4xnawtha4=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_speedbutton.png
+SHA1-Digest: 55v+5kv/qRPZKSL9DIwB3Tuo+OA=
+
+Name: assets/offline/levels/images/era/era_couchblack-wraparound.gif
+SHA1-Digest: zGj90oVM45c7syTDKKY/trAZj6g=
+
+Name: assets/offline/levels/images/era/classiciphone_map_players_on.pn
+ g
+SHA1-Digest: aaBWPOC5Szrg/f4VTBTsPSegm5M=
+
+Name: assets/offline/levels/emoticons/emoticons_readme.txt
+SHA1-Digest: Ka7Omk1euKx1dq7lITgbZHr7I7M=
+
+Name: res/drawable/com_facebook_place_default_icon.png
+SHA1-Digest: T6PfkzvzoTErI9HPUHhPTzYuaOw=
+
+Name: assets/offline/levels/images/era/era_armanno_furn-liquorcabinet.
+ gif
+SHA1-Digest: lgvl09TorivclbA6XiXPmpoc/as=
+
+Name: assets/offline/levels/images/era/era_sodamachine2.png
+SHA1-Digest: cLe6h5+SluN9q7BzvHzeJH4sTF8=
+
+Name: assets/offline/levels/ganis/era_flowergone.gani
+SHA1-Digest: XbNCkAvRwUBZres+V4zvKBTuggo=
+
+Name: assets/offline/levels/images/downloads/blookat-vines3.png
+SHA1-Digest: 2MaId3YgVwroQ/gc441fbSDUhSk=
+
+Name: assets/offline/levels/images/era/era_shovel2.png
+SHA1-Digest: 5lQMw2UnGjta8T6Io0ey9+/kYYc=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/frameb
+ ottom.bmp
+SHA1-Digest: Y8w9Najq3Df2dBH3DfZ4/yN0Wic=
+
+Name: assets/offline/levels/images/era/era_barrelsprites.png
+SHA1-Digest: 1z0NpF5tSu4F1HUSgxUCZ7rRdeA=
+
+Name: assets/offline/levels/images/era/era_shell3.png
+SHA1-Digest: q09yupFAVVWz+Ls78jCIMZZB2yI=
+
+Name: assets/offline/levels/heads/head10.png
+SHA1-Digest: aZB7qkTnOnzNB2V4myus5xVkC7o=
+
+Name: assets/offline/levels/images/guiblue/guiblue_button.png
+SHA1-Digest: FXT1yhCz/SS3zk9pXZEHP2JYrzo=
+
+Name: assets/offline/levels/fonts/arialbd.ttf
+SHA1-Digest: DZnJ0VHbUlwguCCbnw7hzoEqlhw=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Roleup
+ .bmp
+SHA1-Digest: nOr0yWfeusS22sWb6MQ/f/z9sNU=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/clasic
+ taskbarbutton.bmp
+SHA1-Digest: vroMflKO8mSOPCZTCXz2Wt3j49M=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Fyrg87Md71zCcY5JyvH23PwBRVU=
+
+Name: assets/offline/levels/images/image/image_window.png
+SHA1-Digest: mtgcCg3B88g9E12IOB71dKayULw=
+
+Name: res/layout/com_facebook_picker_search_box.xml
+SHA1-Digest: blcjnR/Gy4u8jmc+I0pI8j/8BI4=
+
+Name: res/drawable/fz_address_box.xml
+SHA1-Digest: Ji0cOftCrp9hJAZBT9yu0S7fNpc=
+
+Name: assets/offline/sounds/shotgun.wav
+SHA1-Digest: O2xqZmV+E7GaZh/GsBVW7OkronE=
+
+Name: assets/offline/levels/images/guigames/guigames_wait1.png
+SHA1-Digest: OnQ0ESaJfqGbIaE60FjZJr4eRRc=
+
+Name: assets/offline/levels/images/era/era_southridge-sign.png
+SHA1-Digest: huHA4MwQOM0Iwtb7Y+yMft+nb9I=
+
+Name: res/drawable/com_facebook_loginbutton_blue_normal.png
+SHA1-Digest: 5eqq9jxVF9PeVyf0iNJD0gmKE3g=
+
+Name: assets/offline/levels/heads/head3.png
+SHA1-Digest: +LeOZit3wtjZ/AF5HvYsvjQ8xDo=
+
+Name: assets/offline/levels/emoticons/emoticon_AFK_stay.mng
+SHA1-Digest: Bb+2f0xr6NHmEE85kAvM0xwuFjA=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Trackb
+ arright.tga
+SHA1-Digest: 7b28iMfoa7eqqc0lmI/wnSPCamA=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_fullscreenbutto
+ n.png
+SHA1-Digest: GXSZu0pfR7V1k4iBCGCe4HgQjSE=
+
+Name: assets/offline/levels/images/era/era_channelradioco.png
+SHA1-Digest: MJLpZYJkzzWHdP1GpUw8WIKwkXY=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/XPtask
+ barButtons.tga
+SHA1-Digest: eRfoGmHMCc01Zqe+W3+r0g3lJ7I=
+
+Name: classes.dex
+SHA1-Digest: mzZI5AWP1sbJdlXm2MtsfCIIRuA=
+
+Name: assets/offline/sounds/ak47_clipout.wav
+SHA1-Digest: di4jqWc6WDsMuvwbYXkEF1UTh2E=
+
+Name: assets/offline/levels/bodies/body13.png
+SHA1-Digest: cJjc86eoDqgyIFT0ssOhbm4fdgs=
+
+Name: assets/offline/sounds/sword.wav
+SHA1-Digest: U+8JxxUzfVB9G7VhUbrY/tyqcss=
+
+Name: assets/offline/levels/images/era/era_door-wood-right-1.png
+SHA1-Digest: 0ccRO4mGzVyOBKapYOUYEIrx1k4=
+
+Name: res/drawable-xhdpi/com_facebook_logo.png
+SHA1-Digest: 94ZTspodsrcPndjRFwq4Cqz6Wc4=
+
+Name: assets/offline/levels/images/era/era_china-lamp2.png
+SHA1-Digest: 0Uc0mWhlfjS6FwxGdiU8srEcPvo=
+
+Name: assets/offline/levels/images/era/era_sign-flowershop.png
+SHA1-Digest: xVHENuS2MPy97BdjLEacEyi5Omk=
+
+Name: assets/offline/levels/images/era/era_flower-2_4b.png
+SHA1-Digest: kVRIMSWMMQOrfmpwB/sUhsgBjpw=
+
+Name: assets/offline/levels/ganis/walkslow.gani
+SHA1-Digest: IxtDtq6itELNP9XMUu5O5MPcPyo=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_helpbutton.png
+SHA1-Digest: nxtTfNQsAxjvRubPsq3WE4jYftg=
+
+Name: assets/offline/levels/images/era/era_lcgaragedoor4.gif
+SHA1-Digest: 22wMjR25ADG93a0mkDJCtfnr9AU=
+
+Name: assets/offline/levels/emoticons/emoticon_Ptongue.mng
+SHA1-Digest: mdRWmJf1axcMFBy8OIhlF3PNBik=
+
+Name: assets/offline/sounds/eragulp.wav
+SHA1-Digest: +E5bHXR2cdZXJ/yRugbUxXg5j9Y=
+
+Name: assets/offline/levels/ganis/sword.gani
+SHA1-Digest: maY7FrZO6muYPqH+Qow3GUSEmvo=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Tabpag
+ e.bmp
+SHA1-Digest: D5dai/jJ2oBSfNhKqiWr/gJhcDw=
+
+Name: res/layout/fz_not_connected.xml
+SHA1-Digest: ypUbV3qjmdH4SxmtFJqepyhkbqo=
+
+Name: assets/offline/levels/images/downloads/eragpsign.png
+SHA1-Digest: i7hBLw9QuAssVwm9W2oqKlAAT0s=
+
+Name: assets/offline/sounds/skills_newselect0.wav
+SHA1-Digest: eQUrUkVfwSUfyz6R868ihcbq+c8=
+
+Name: res/drawable-hdpi/fz_hand.png
+SHA1-Digest: NcP73d7h2gAXhSPDw3a+VKG8h+g=
+
+Name: res/drawable-hdpi/fz_btn_next_disabled.9.png
+SHA1-Digest: Qf5MNF3/ms8U7RwZkHD03W7wG8Y=
+
+Name: res/drawable/com_facebook_button_check.xml
+SHA1-Digest: v1FfVbTQ5lKmgzSbfb9HbYKU4Bk=
+
+Name: assets/offline/levels/ganis/era_uzi-firedual.gani
+SHA1-Digest: f3OWlZ0+SbVVno8SvYxpEhHnFv8=
+
+Name: assets/offline/levels/images/era/era_ammo-ak47.png
+SHA1-Digest: h7ksjANS4Qa4x6UpEbFDDPzGQxg=
+
+Name: assets/offline/levels/images/era/era_sign-parking.png
+SHA1-Digest: S3i2iGRFFCuSL6Uxa3qAU+cvyh4=
+
+Name: assets/offline/levels/images/era/era_flower-3_1b.png
+SHA1-Digest: mFn2v0VKXl3Otl+BNFNqZIgbX90=
+
+Name: assets/offline/levels/emoticons/emoticon_Vsorry.mng
+SHA1-Digest: PLnQfKHUaeBEu1gA4OFk9jlI5lw=
+
+Name: assets/offline/levels/images/era/era_flower-4_2a.png
+SHA1-Digest: 4NM3/Eg6dMewPcdB0iEaQ4MBsl0=
+
+Name: assets/offline/levels/images/era/era_handgun-derekedit.gif
+SHA1-Digest: ipbgt52XLWMFeojt6KpvetiGyJw=
+
+Name: assets/offline/levels/images/era/era_sodamachine1.png
+SHA1-Digest: deWAHl10g9fN3a686VyZXIMdGnk=
+
+Name: assets/offline/levels/images/classicgui/classicgui_color_lightgr
+ een.png
+SHA1-Digest: po1xRzZKWNegHFx71fDzOMzlE9A=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_se.png
+SHA1-Digest: FX88pWyUPhdyK4VN0pnSDcWNIMI=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/FauxS-
+ XPxpstuff.xp
+SHA1-Digest: bxtakASx2VNmdmwvk4SRRlaRSwo=
+
+Name: res/layout/fz_login.xml
+SHA1-Digest: Huv9rRjD6OZAUBPZSx9zWft3s9c=
+
+Name: assets/Default.jpg
+SHA1-Digest: DigvhF3anBoYGkRP59QgnO3wFv8=
+
+Name: assets/offline/levels/images/era/era_yellowwall.gif
+SHA1-Digest: NFnmpVFH620RDy821tu239v/RNU=
+
+Name: assets/offline/sounds/swordon.wav
+SHA1-Digest: 7yBzVLFT6h4OvbEXMg2T9vmXwuQ=
+
+Name: assets/offline/levels/images/downloads/water32.gif
+SHA1-Digest: ouPOxpJQrNAnq0gbV9aV3UoBNzs=
+
+Name: assets/offline/levels/images/downloads/kinetaro-rose-vase.gif
+SHA1-Digest: /vrtHGeqARXRZ05pGpWOXOH5XV8=
+
+Name: org/apache/http/version.properties
+SHA1-Digest: iiWpqmaEuFDufe0EIK9nfIwRkiE=
+
+Name: res/drawable/com_facebook_picker_top_button.xml
+SHA1-Digest: FpCN68q2eV+3WjoqLCPZ0C/7pGQ=
+
+Name: assets/offline/levels/images/guigames/guigames_arcmessage2.png
+SHA1-Digest: iHaYgLZQpW8riaKixr76Wg5oWGU=
+
+Name: assets/offline/levels/ganis/era_gotmail.gani
+SHA1-Digest: FexHYEv1cNi4UG3vdqjD7Y78aqQ=
+
+Name: assets/offline/levels/bodies/body10.png
+SHA1-Digest: dyr6iAMVFIdApcTryZgDoCzxMI4=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Maxami
+ ze.bmp
+SHA1-Digest: JwlZz61qxZbPkpemgrPySbnEDC4=
+
+Name: res/drawable/com_facebook_top_background.xml
+SHA1-Digest: 2jGeRfgb5Xm7OmXOYRKQWRbaaUw=
+
+Name: assets/offline/levels/images/era/era_painting-9.gif
+SHA1-Digest: 7Z3lwa9D8S6J75cKXg24YjbfLC0=
+
+Name: assets/offline/levels/images/downloads/smoke.mng
+SHA1-Digest: u8kbWwaiETcJvQPrFp5keNWLjNU=
+
+Name: assets/offline/levels/images/era/era_image-metalcrate.png
+SHA1-Digest: nUIbQyeirHKlnvTBtoa55yG3GP4=
+
+Name: assets/offline/levels/images/era/era_slope-1.gif
+SHA1-Digest: dQIg52QhOCQXF8ZGskkMB+GvgBo=
+
+Name: res/layout/fz_connected.xml
+SHA1-Digest: 2YoPAfodaDV2uaB28y7lWaFXWD4=
+
+Name: assets/offline/levels/images/era/era_sprite-rockdrill-idle.png
+SHA1-Digest: ouDqp6C4UPWPXn0XoeZDaJ1alB8=
+
+Name: assets/offline/levels/heads/head8.png
+SHA1-Digest: sEZiv57jsNDWMPgq4eBWcvFRr44=
+
+Name: assets/offline/levels/images/image/image_postwindow2m.png
+SHA1-Digest: oJDID2t5sCdQDJ5XX4ys8jJ/aCQ=
+
+Name: assets/offline/levels/ganis/era_handgun-reload.gani
+SHA1-Digest: Aw+i8+ojHJCVI4dR37EiyrLtR0o=
+
+Name: assets/offline/sounds/item2.wav
+SHA1-Digest: 9fsaj1d+EKLCSdbs+ifCY3il9b8=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/midibu
+ ttons.bmp
+SHA1-Digest: gcRAHwEb3mZ49oR4KurBgikIK70=
+
+Name: assets/offline/levels/images/image/image_greenroads-banner.png
+SHA1-Digest: N9VqnMSLySOqTcfc9N3tl5FaUEo=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_ie.png
+SHA1-Digest: GSwRX4OMkqthRgZL39Td4umRxyY=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_shopbutton.png
+SHA1-Digest: kn1Rs74CLSqZlQI8AZuOs6LBo1g=
+
+Name: res/drawable/com_facebook_profile_picture_blank_portrait.png
+SHA1-Digest: 9kGOeq/tVClWE7Lz9AgjtukRZnQ=
+
+Name: defaultFragmentShader.src
+SHA1-Digest: +dwvcrlLm02ldOMQ/DFij06RD4k=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Minlef
+ t.bmp
+SHA1-Digest: lilpbyBk/NLlIGsN8FEffF6aWgw=
+
+Name: assets/offline/levels/emoticons/emoticon_Grr.png
+SHA1-Digest: ldyocLnk5DsyJXdwR9ihhFAI/p8=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/SSBarA
+ ctiveDown.bmp
+SHA1-Digest: OscJPivf/Tslu/76VXEanr3XJeE=
+
+Name: res/drawable/com_facebook_picker_list_selector.xml
+SHA1-Digest: WHqB9RVhykjDfj90mkBVqervSyM=
+
+Name: assets/offline/levels/images/downloads/newspaper.png
+SHA1-Digest: wlgiZGncq2m2npJRaz7k6dg+CZs=
+
+Name: assets/offline/levels/images/era/era_ip-mapicon13.png
+SHA1-Digest: c5qMgaIbs60va1V4yRHt48VV8fw=
+
+Name: assets/offline/levels/images/era/era_flower-3_3a.png
+SHA1-Digest: iXmwobtagKXeMxMBmnhtm4zwJe4=
+
+Name: assets/offline/levels/images/era/era_icon-brokenbottle.png
+SHA1-Digest: esoN2cZpBMObJAB94gdBjGOOJcg=
+
+Name: res/drawable/com_facebook_list_divider.9.png
+SHA1-Digest: 45BAgKtOkC0fHYqIunSXrQ8YubM=
+
+Name: res/drawable/com_facebook_close.png
+SHA1-Digest: FDOOYcRoxfXB5QdY1YikzqT7kx8=
+
+Name: assets/offline/levels/images/guigames/guigames_wait11.png
+SHA1-Digest: O+eFMgfp0BIm0Kd28VHP9Bax8us=
+
+Name: assets/offline/levels/images/era/era_sign-newpk.png
+SHA1-Digest: 8RWQqzp67n0bvw30V1cA6Dsat5c=
+
+Name: res/drawable/com_facebook_loginbutton_silver.xml
+SHA1-Digest: Tgb2f9Y9rEHaeRBScQMCHouRkH4=
+
+Name: assets/offline/levels/images/classicgui/classicgui_color_white.p
+ ng
+SHA1-Digest: LdPz30gnXy86cKuCr3OYEYRYTSI=
+
+Name: assets/offline/levels/images/chrisz/chrisz_tuliplamp.gif
+SHA1-Digest: v8d6w7vwZr07E0Rao9Wq5awdhf0=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_za.png
+SHA1-Digest: Gn4zxXHvqIBGUSWt6ugIJXPVjR8=
+
+Name: assets/offline/levels/images/downloads/tankoutline11b4.gif
+SHA1-Digest: EIK3piUokebOfvFgHZqsXf/Bwgc=
+
+Name: assets/offline/levels/images/era/era_sodacan2.png
+SHA1-Digest: JPlXQAtIdbdBNaFcVkBYurdcINs=
+
+Name: assets/offline/levels/images/icon/icon_shotgun.png
+SHA1-Digest: Xfgz2ITTh3wWBonOmOm92QQwfnI=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/XP-Pan
+ el-UserBack.bmp
+SHA1-Digest: YQoH4oeJzcl6htiRVieeSVpdemw=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_pl.png
+SHA1-Digest: atYcHyobOwMnN+7krFzSlIWeZ5w=
+
+Name: assets/offline/levels/images/era/era_flower-3_3b.png
+SHA1-Digest: ginJEEbn8WF9cBP3QMV86bQIgQI=
+
+Name: assets/offline/levels/images/era/era_flower-4_1b.png
+SHA1-Digest: uRw5uwkY/DJo+Vft78wSFrY1wuA=
+
+Name: assets/offline/levels/ganis/era_copter_idle-left.gani
+SHA1-Digest: Egqo3oXm4qdi9k3obQstiz4Nl3s=
+
+Name: assets/offline/levels/images/era/era_car4_8.png
+SHA1-Digest: EklPlwkmDWeVhDbRwS5MOoBAyEs=
+
+Name: assets/offline/levels/images/guigames/guigames_arcbutton.png
+SHA1-Digest: 47mrfi/xlHKLx5AKYA65Xe9C5H0=
+
+Name: assets/offline/levels/images/downloads/sign-car2.gif
+SHA1-Digest: DHN+kqkSujNGh//+aG8z0FAnT/Y=
+
+Name: assets/offline/levels/emoticons/emoticon_LOL.mng
+SHA1-Digest: f5RfNtrDoEU5HeEpoD5LLs0JzOc=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Scrool
+ Vertbars.bmp
+SHA1-Digest: Puq0W3OHUM69SS6cHlNrSWYOaX4=
+
+Name: assets/offline/levels/images/classiciphone/classiciphone_chatbub
+ ble.gif
+SHA1-Digest: eM7/p8U5obH4iPV0HPSCLdBCTXQ=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/tabbor
+ der.bmp
+SHA1-Digest: nn2WdyzJsI7V8oq1ggrz69QI5Oo=
+
+Name: res/drawable-hdpi/host_logo.png
+SHA1-Digest: ZLOG4ljJgbKdcDkQrx8s4F5Jr+k=
+
+Name: assets/offline/levels/images/kurino/kurino_lamppost-1.gif
+SHA1-Digest: lZpH2A7GeyjxT5ZbVlGw2e001hQ=
+
+Name: assets/offline/levels/fonts/corleone.ttf
+SHA1-Digest: FZGzH4M76yIhbHPWfzg8QDK0koc=
+
+Name: assets/offline/levels/images/era/era_fence1b-frozenlies0.png
+SHA1-Digest: tb1MhD6QxBXhoGBtRz91PvlaBmo=
+
+Name: assets/offline/levels/ganis/era_map-out.gani
+SHA1-Digest: ItYisaosx4QVKyOL7RU5940e66U=
+
+Name: assets/offline/levels/images/classiciphone/classiciphone_map_gui
+ ld_off.png
+SHA1-Digest: JUPxQcGqxmiVaAiCRhiQkrKgnJk=
+
+Name: assets/offline/levels/ganis/era_melee_crowbar-attack.gani
+SHA1-Digest: 4QsJ5MBShJ1UBKKhKtiLT0vox1I=
+
+Name: assets/offline/levels/images/guigames/guigames_smallbutton2_red.
+ png
+SHA1-Digest: MOORFP9vLpmFIjvs9cQCcoePvQk=
+
+Name: res/drawable-hdpi/fz_address_inactive.png
+SHA1-Digest: YZkpG+8Hs7rst8IvFpr2h08PkLs=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Handel
+ Old.bmp
+SHA1-Digest: XxgS1+iJciqLqsFBHxrq1ZLLDPw=
+
+Name: assets/offline/levels/images/era/era_flower-1_1b.png
+SHA1-Digest: uedSs1NwfhM0j5AycJMAW1KNpXs=
+
+Name: assets/offline/levels/images/guigames/guigames_arctab.png
+SHA1-Digest: SymXQFZ0BxrvKAGFIZCp+TzlBM4=
+
+Name: assets/offline/levels/ganis/era_gun-ak47-fire.gani
+SHA1-Digest: BWFu5k395xsrIhBuYlBmyPmebrM=
+
+Name: assets/offline/levels/images/era/era_radiostation-walls_right.gi
+ f
+SHA1-Digest: 18smlDzSzvIoHfQaJkWp5sqlrD0=
+
+Name: assets/offline/levels/images/era/era_lockerrooftop.png
+SHA1-Digest: Xg6hWMwMxZsBlzjnij28H354zgA=
+
+Name: assets/offline/levels/images/era/era_door-wood-right-2.png
+SHA1-Digest: FuKtb2WIbGC4ZwgubNNcq6Anw2c=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/sSSBar
+ NoneActivedown.bmp
+SHA1-Digest: 6G0p5dAyIeaHR2/hSsz7MVkI3B0=
+
+Name: assets/offline/levels/images/era/era_flower-1_2b.png
+SHA1-Digest: buHLQEoILvM13shUYPDZVOcYprU=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/SSMusi
+ cFolder.bmp
+SHA1-Digest: f5k1sZ9zIXOttT0izcYkHXAbVyE=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_furniturebutton
+ .png
+SHA1-Digest: bRTMBzHaf5iuTYVlCyBQOjVIVUE=
+
+Name: res/drawable-hdpi/com_facebook_loginbutton_blue_normal.png
+SHA1-Digest: lSztBHFVRlPMsGcFT26oMQipfTQ=
+
+Name: assets/offline/levels/images/downloads/smokeani.mng
+SHA1-Digest: ngTRzrtSMFz+Ni5ODEV/a5S4iCM=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Midiba
+ ck.bmp
+SHA1-Digest: YGcANzMjQlsA3hiWA+toKnvmh7M=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_help_jobs.png
+SHA1-Digest: JA3px9oPE1iKKOCO8N3u9rYv3Gk=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/FauxS-
+ TOON.uis
+SHA1-Digest: TEZcVo5yoPYAeBAWPdxpDK98sfM=
+
+Name: defaultVertexShaderTex1.src
+SHA1-Digest: ndZUtNkzTVUdjgSSfQRm5mMy7bw=
+
+Name: assets/offline/levels/images/downloads/blookat-vines1.png
+SHA1-Digest: 99Z6fGq4rqvp2RfLsj60LJLZIQk=
+
+Name: assets/offline/levels/ganis/era_uzi-walk.gani
+SHA1-Digest: 6PxRQO5hXrc3p9YUwsK7HXEw0Kk=
+
+Name: assets/offline/levels/heads/head24.png
+SHA1-Digest: 9TfLbIFuRBAnNT14VyI4UoMzAvk=
+
+Name: assets/offline/levels/images/era/era_window-bar-1.png
+SHA1-Digest: 2XwpNiTbZKH4IFAUwVFDQ8wrDCM=
+
+Name: assets/offline/levels/images/era/era_melee-icon-knife.png
+SHA1-Digest: jHHlpF6U8xQiu/cIhjPDyG4gX5E=
+
+Name: assets/offline/sounds/chest.wav
+SHA1-Digest: cslmyHVu2CA9M7u1KcilRikXUdg=
+
+Name: assets/offline/levels/images/era/era_hydrant.gif
+SHA1-Digest: Ls1dkxj6qisUpZiz1Qv7es2Il1o=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Toolba
+ rbuttons.tga
+SHA1-Digest: BdfgBh3nzSc2CtR9QJKhXB3kolE=
+
+Name: assets/offline/levels/ganis/era_shotgun-bullet.gani
+SHA1-Digest: rZ2/l6ltoK8/z5UNFbLglPJW9uE=
+
+Name: assets/offline/levels/images/sprites/sprites_crowbar_1.png
+SHA1-Digest: dxcGdyD40Umq8mnCbn1n0QfCrA4=
+
+Name: res/drawable-hdpi/fz_pen.png
+SHA1-Digest: 1QPb8XSvOGYlSU+d28rwGLZBU/w=
+
+Name: assets/offline/levels/images/image/image_item7.png
+SHA1-Digest: 9fUyVeWHVix1DKr/nkdg38HLaf0=
+
+Name: defaultFragmentShaderTex0Light0.src
+SHA1-Digest: tIV1YCYnPNQV5slylJ4vv1Od11w=
+
+Name: assets/offline/levels/ganis/era_npccar.gani
+SHA1-Digest: IM5GwLOYrSLz7WDS6///0UuRTUY=
+
+Name: assets/offline/levels/images/era/era_stamp-1.png
+SHA1-Digest: LiXhdREzjcgO/ubZ993RVAeaM+c=
+
+Name: assets/offline/levels/bodies/body.png
+SHA1-Digest: kZMnS7J1Qgp0TpzhpIAEOoLlzVc=
+
+Name: assets/offline/sounds/compudead.wav
+SHA1-Digest: KHQ6wk8NsIeGzmBiJPqWpTDAnYA=
+
+Name: assets/offline/levels/images/gui/gui_htmllist_square.png
+SHA1-Digest: fTvnABFbejkfP2e9RFXS2bhnJAs=
+
+Name: assets/offline/levels/images/era/era_gun-icon-newak47.png
+SHA1-Digest: 5SwITxbVDo+/L4mP5b4a3bTXFDI=
+
+Name: assets/offline/levels/images/era/era_shell1.png
+SHA1-Digest: HE8NBT4DdHWDtw6UMku4kbpNKt8=
+
+Name: assets/offline/levels/images/downloads/graal2002letters.png
+SHA1-Digest: lzKTJEzuHrwUN1zZ1/myVBQmPjQ=
+
+Name: assets/offline/levels/images/era/era_gun-icon-handgundual.png
+SHA1-Digest: wOe1Xtd9B/S0shJ7xsJYrVJgckw=
+
+Name: assets/offline/levels/ganis/era_barrelexplode.gani
+SHA1-Digest: 1SRQz1jujroUwm6l1jxn0to787Y=
+
+Name: res/layout/com_facebook_login_activity_layout.xml
+SHA1-Digest: imtH1x/lD3gOoVBUgZdpSK0RWSI=
+
+Name: assets/offline/levels/heads/head54.png
+SHA1-Digest: e00av6/QOLs3cGlgUWhWuxVu52Y=
+
+Name: assets/offline/levels/images/profilelogothumb/profilelogothumb_c
+ orleone.png
+SHA1-Digest: j8dwya691iv9nsUXwWgUNeO/aX8=
+
+Name: assets/offline/levels/images/core/core_atm.png
+SHA1-Digest: 1xAb+VJEVQUEfRFBfm0NIsddO4Y=
+
+Name: assets/offline/levels/heads/head25.png
+SHA1-Digest: qp+xFzKrva8KZZZ/5hbHUKWA3sM=
+
+Name: assets/offline/levels/images/downloads/blookat-officeplant1.gif
+SHA1-Digest: WDJv7koG7dalinBscj09+XmCoEI=
+
+Name: assets/offline/levels/hats/hat127.png
+SHA1-Digest: dpAzarw7wfBcFASNYk5ojEY7eJI=
+
+Name: assets/fonts/helveticaneue_condensedbold.otf
+SHA1-Digest: 2PaK7UlMMng2pbVn8GLGfkZPxUM=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: 4DWCHNUpglXGghToEIX6GcsXc/Q=
+
+Name: assets/offline/levels/images/era/era_flower-2_1b.png
+SHA1-Digest: urmsGn04Dm2QnL3Tkgo9ynqUGlU=
+
+Name: assets/offline/levels/images/guigames/guigames_arcback_era3.png
+SHA1-Digest: 5So2/IjSEmCd62wwS171LVCH5EM=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/XPTryB
+ uttonHor.tga
+SHA1-Digest: fVsU10NdmcoTr4NJyGQ1RkkhClk=
+
+Name: assets/offline/levels/ganis/era_handgun-reloaddual.gani
+SHA1-Digest: kuv7twsSse8fUQRsg71Q78VO2vY=
+
+Name: assets/offline/levels/heads/head28.png
+SHA1-Digest: hiPZ36DXys+T3eL0sU5J+dAHNKI=
+
+Name: res/drawable-hdpi/com_facebook_loginbutton_blue_pressed.png
+SHA1-Digest: V27iDxNqPIzkdIgA+0DIi/AfQYY=
+
+Name: assets/offline/sounds/arrowon.wav
+SHA1-Digest: llesFx1cA+HjAN+SZDYkJ/Y1ECY=
+
+Name: assets/offline/levels/images/era/era_comic-club-sign-scary_sock.
+ gif
+SHA1-Digest: r3Ayy+cSAUNkGSdTPeZcHJg39Ic=
+
+Name: org/apache/http/entity/mime/version.properties
+SHA1-Digest: 5Y6HHy6Tfj3AzRXZftyq1hPknVE=
+
+Name: assets/offline/levels/tiles/era_demisis_walltiles.png
+SHA1-Digest: FpI9/jw/ffbFPjB8nOQTjTI/hvM=
+
+Name: assets/offline/levels/images/cortez/cortez_bed.png
+SHA1-Digest: WSWuBxxUfzf8UWUgGNDQSanVe64=
+
+Name: assets/offline/levels/images/era/era_flower-6_1b.png
+SHA1-Digest: TaCr/iSht7gyGrkmLk/vblw2ZKc=
+
+Name: res/drawable/com_facebook_button_check_off.png
+SHA1-Digest: NDLFyRfWjBjm9xCkOlx9fqTCMug=
+
+Name: res/drawable/fz_btn_form_pressed.xml
+SHA1-Digest: QdI/NBgpOnkZ5HNT+GrHvn6lLpM=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Tracku
+ pdown.bmp
+SHA1-Digest: J91VstgzFYGaYKxPWVBB519EbaQ=
+
+Name: assets/offline/levels/images/classiciphone/classiciphone_map_pla
+ yers_on.png
+SHA1-Digest: aaBWPOC5Szrg/f4VTBTsPSegm5M=
+
+Name: assets/offline/levels/tiles/tileset_era01-winter.png
+SHA1-Digest: F9h5iM2gFuyJWG826SZWtc+jXKE=
+
+Name: assets/offline/levels/images/era/era_mailbag1.png
+SHA1-Digest: DPkGYT1SKX+zhWAkpaKVQLkuDMk=
+
+Name: res/drawable/fz_btn_form_payment.xml
+SHA1-Digest: ySXimet3pQtNVC48/vGPYkcd0fo=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/XPgrip
+ perHor.bmp
+SHA1-Digest: wSNrffEJRj8us78BWrTuIGfsfBM=
+
+Name: assets/offline/levels/images/era/era_armanno-winebottle.gif
+SHA1-Digest: joFzvJ2J5mOOHl1NlYk2mB0QAIA=
+
+Name: assets/offline/sounds/m4_boltrelease.wav
+SHA1-Digest: AAswRgupMqbZvpzpYuNTupx1Sf8=
+
+Name: assets/offline/levels/heads/head5.png
+SHA1-Digest: M2cdsoXu421kmpH/IJ822lCN5d0=
+
+Name: assets/offline/levels/images/chrisz/chrisz_ph-plant.gif
+SHA1-Digest: 8nhzEphrTKblc+I3vkv6kIH4vhY=
+
+Name: assets/offline/levels/images/classiciphone/classiciphone_map_fri
+ ends_off.png
+SHA1-Digest: eCqZrciHAL7Dn3skf+KYCDYdQa8=
+
+Name: assets/offline/sounds/ak47_shellting.wav
+SHA1-Digest: mkiQIkpWRaKHEizO8i1dcw2e4uA=
+
+Name: assets/offline/sounds/skills_bubbles.wav
+SHA1-Digest: mMiDnVi4uMKOVPOBEQ0o96EeSPk=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_housebutton.png
+SHA1-Digest: OUEGGAdOmh+o5Rr0kJ2NumB2Tn4=
+
+Name: assets/offline/levels/images/era/era_weights-small.png
+SHA1-Digest: L8YVKFvgxT30ZVWvJxqmueYJepM=
+
+Name: assets/offline/levels/images/guigames/guigames_wait5.png
+SHA1-Digest: CetGCmcKjDzyxibDRwPlLAHzbfI=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Combob
+ oxDropdownBack.bmp
+SHA1-Digest: GUa52he1mgx4z/5PK98+hOpkIQU=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_movement3.png
+SHA1-Digest: NktVtOc14k9966sTKgiOuztqtr4=
+
+Name: assets/offline/levels/images/era/era_pondstuff.png
+SHA1-Digest: Og30gYwmG+xOldZKO08FQOj/aBY=
+
+Name: assets/offline/levels/emoticons/emoticon_kitty.png
+SHA1-Digest: SfqjZQl5FTefR3PJOzsToChj4y4=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Systry
+ Hor.bmp
+SHA1-Digest: iJ9iKX290Xqf0iZ9ThP5IwmGAuU=
+
+Name: assets/offline/levels/ganis/era_barrel.gani
+SHA1-Digest: 8HH5OQMd2XtrU2ngiTjaJI126ds=
+
+Name: js/closebutton.html
+SHA1-Digest: HNKUUr65xvF43DhYePNX2XJIC0A=
+
+Name: assets/offline/levels/tiles/tileset_era01-summer-online.png
+SHA1-Digest: 73UKmoBQgNGHxdLcvMYsD2PwGZc=
+
+Name: assets/offline/levels/ganis/pray.gani
+SHA1-Digest: AnK0R63RevVVMgrYNRP8pC9lmfA=
+
+Name: res/drawable/com_facebook_list_section_header_background.9.png
+SHA1-Digest: UlppTzQMf0S8p04nUqt4qCBKRF0=
+
+Name: assets/offline/levels/images/era/era_furnituresign-frozenlies0.p
+ ng
+SHA1-Digest: 53DFzt6zmyolon8Ka00owzKTlOY=
+
+Name: assets/offline/sounds/skills_wait.wav
+SHA1-Digest: 7vH7BmhUjLjud8U6JZt74Yh/DYY=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_loginbutton.png
+SHA1-Digest: ke/qWY+vXpoP4veWA1NsVghyTK4=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/devide
+ rrigt.tga
+SHA1-Digest: /HgrGMTL3g4rLTdcAEDmQBH9zfM=
+
+Name: assets/offline/levels/images/era/era_halloween-lanternlight.png
+SHA1-Digest: nBJM6jOvW42K0ZZa8e6YLuUoMFE=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/trackb
+ ardown.tga
+SHA1-Digest: km05mqaZrgFLiZJiTm0RhF+hPRM=
+
+Name: assets/offline/levels/images/downloads/ptech.gif
+SHA1-Digest: 44ddnvVdbAK5rRV41N6ETR2axgI=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_us.png
+SHA1-Digest: oGWEygLFQOrFMjeaiNL7BZ9z2Uo=
+
+Name: assets/offline/levels/images/era/era_flower-1_3b.png
+SHA1-Digest: +d3i13ZaPz2FYXb3trI4jEBGtoI=
+
+Name: assets/offline/levels/ganis/hidden.gani
+SHA1-Digest: xoyLipH34IYa+km+ttSGJUndyfQ=
+
+Name: assets/offline/levels/images/era/era_weapon-detect-new.png
+SHA1-Digest: EPOFMPwpuWSdZ5KbbRZnx87UU9s=
+
+Name: assets/offline/levels/images/downloads/fire.gif
+SHA1-Digest: 4s1bh5uyHUIiCXJ0J0lj+EDKngU=
+
+Name: assets/offline/levels/images/era/era_hroofbuilding2.png
+SHA1-Digest: vCzhLf4/HOPGRK0tU65QY1MadNQ=
+
+Name: assets/offline/sounds/walk_grass4.wav
+SHA1-Digest: vqUHcd3g5QKd/Bz5boy9kE9bubo=
+
+Name: assets/offline/levels/images/chrisz/chrisz_window.gif
+SHA1-Digest: jtwv9dtyoh3fKD1xNUB9IvjIkbc=
+
+Name: assets/offline/levels/images/kurino/kurino_outsidewalls-1.png
+SHA1-Digest: ROJa4VwDa0HKTh9Qpr/yDbuzl8s=
+
+Name: assets/offline/levels/images/era/era_personal_tichieljuspian-sun
+ glassesblue.gif
+SHA1-Digest: z6LvU7gKGipeA6tU/dUTIr7bFPw=
+
+Name: assets/offline/levels/images/era/era_pictureframe-1.gif
+SHA1-Digest: ldcQFnrBg/TlKixDLo3TyLAtW1M=
+
+Name: assets/offline/levels/images/era/era_sprite-minelift.png
+SHA1-Digest: tlgs7Ak9XaBbCUuyo60cJxziSew=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/expl.b
+ mp
+SHA1-Digest: rjQ0P6q86HHC7IOZVZZfDM/egns=
+
+Name: assets/offline/levels/images/era/era_flower-4_2b.png
+SHA1-Digest: kQ2Yd3RjHhc9VuQ6Yvb+uJO6C0g=
+
+Name: res/drawable/fz_shape_white.xml
+SHA1-Digest: WQMm/zkwLusler5riYn3I+3yuxw=
+
+Name: assets/offline/levels/images/era/era_ip-mapicon22.png
+SHA1-Digest: a6PDOnXA2vJ9yJhquVbQlcv6/V0=
+
+Name: assets/offline/levels/ganis/era_itemexplode.gani
+SHA1-Digest: xjJl1vYlpX4927GwngFKmywKOnA=
+
+Name: assets/offline/levels/images/guigames/guigames_wait6.png
+SHA1-Digest: SADV0SN3uymNVFFDZ6PciA9BMj8=
+
+Name: assets/offline/levels/images/era/era_car1_8.png
+SHA1-Digest: v8mpTEBBJCvVMcnutac+r+lh3K8=
+
+Name: assets/offline/levels/images/era/era_china-entrence.png
+SHA1-Digest: QGVj4j6CkrJ5K3TyuDyKbjXHwqU=
+
+Name: assets/offline/levels/images/image/image_blackness.png
+SHA1-Digest: VEpWm0BLvRiqjErIJMFeZcx4URU=
+
+Name: assets/offline/levels/emoticons/emoticon_Eyes.mng
+SHA1-Digest: PiaU3T4HDVGBLRcrQSdOodESwqI=
+
+Name: lib/armeabi/libqplay.so
+SHA1-Digest: jpoIwAJhMQ6tXdmlbZW+f1NDQKM=
+
+Name: assets/offline/levels/images/image/image_postwindow1.png
+SHA1-Digest: xvL6eJRJ3nChnrjlEQAZ1I7wEQo=
+
+Name: assets/offline/levels/images/era/era_image-junk.png
+SHA1-Digest: +VxaEcU0skslUZT4fFDCDoO3/o0=
+
+Name: res/drawable-xhdpi/com_facebook_loginbutton_blue_pressed.png
+SHA1-Digest: vaIikRMPOeSzfh5geLs840nHy5o=
+
+Name: assets/offline/levels/emoticons/emoticon_jpm_stay.mng
+SHA1-Digest: QjxEWvgqyDhklIFmKOAqxHIAQ4Q=
+
+Name: res/drawable/com_facebook_usersettingsfragment_background_gradie
+ nt.xml
+SHA1-Digest: UudkMujfDbVwQrl+1pBZ2WIJ8ro=
+
+Name: assets/offline/levels/emoticons/emoticon_Zzz_stay.mng
+SHA1-Digest: 3JFZI3sFrOzgy1e3gzzQzuGmcjQ=
+
+Name: assets/offline/levels/images/era/era_icon-nightstick.png
+SHA1-Digest: RilV+3LKqmlZ3HvCTVOGuw/wxdQ=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/FauxS-
+ TOON.uis_frames.wb4
+SHA1-Digest: kH6FDrCR1s6IYkbi5qC+6cL4qbw=
+
+Name: assets/offline/levels/images/downloads/sprites.png
+SHA1-Digest: gFRPpKh+T/s+lYPGb15wGyKF43E=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/menu.b
+ mp
+SHA1-Digest: dXuUDzcNQpjT2hhTIX69nr60lWA=
+
+Name: res/layout/fz_cgv.xml
+SHA1-Digest: pagZ7wvfpFIkos//mtwv4T56FvM=
+
+Name: res/drawable-hdpi/fz_btn_red.9.png
+SHA1-Digest: PfR5sLx6SjgdYpCSK0UueT+K4Fc=
+
+Name: assets/offline/levels/music/era_rain.mp3
+SHA1-Digest: K4WXZOJLWiS2c+lPdTFLlJH+uFg=
+
+Name: res/drawable-hdpi/fz_wheel_arrow.png
+SHA1-Digest: F7alS2ZWkcJE5egPsBqRZ03O0c0=
+
+Name: assets/offline/levels/images/era/era_olirus-regencytheatre2.png
+SHA1-Digest: mSFSdWNMk7kw02lZ50tnlH0XzZI=
+
+Name: assets/offline/levels/images/era/era_wheelchair-icon1.png
+SHA1-Digest: DB6xtSTW+R2TtBCzRXWOKw3oU54=
+
+Name: assets/offline/sounds/era_car-screech.wav
+SHA1-Digest: c4oJ1coXLoaYtPI3Aim0blPDrTE=
+
+Name: assets/offline/levels/ganis/era_uzi-idle.gani
+SHA1-Digest: tMPJabLptvtTtykpG3N39uDXzQU=
+
+Name: assets/offline/levels/images/facebook/facebook_background_grass.
+ png
+SHA1-Digest: QztuC/K7gCq57NTRJ7ri3wB+jYQ=
+
+Name: resources.arsc
+SHA1-Digest: B+T+pnKkxyzF05LSZNSeBIitL/s=
+
+Name: assets/offline/levels/ganis/era_gun-ak47-walk.gani
+SHA1-Digest: PXpG9EV6fM25DHyMERVShlfuBZY=
+
+Name: assets/offline/levels/images/era/era_ammo-uzi.png
+SHA1-Digest: /zJ9IEvWYkk/ZC7n2VzdVM96g2Q=
+
+Name: assets/offline/levels/images/downloads/garage-door1.png
+SHA1-Digest: LpnpGyQxdIngw9FMdPI6I1KNs/k=
+
+Name: res/drawable/com_facebook_button_grey_normal.9.png
+SHA1-Digest: kZ9314YgSZHYcEuP+vXCuujxd48=
+
+Name: assets/offline/levels/images/downloads/bottle.png
+SHA1-Digest: Gdi/tw1eNQqnxcNCIu36fDPJGE4=
+
+Name: assets/offline/levels/music/hospital.mp3
+SHA1-Digest: uT76j+xVqZbJx5h7u2odIXBEBRw=
+
+Name: assets/offline/levels/images/era/era_barrel.png
+SHA1-Digest: +yshlPfzTkXdwOtS6xx5Je66BmU=
+
+Name: assets/offline/levels/images/era/era_gun-icon-shotgundual.png
+SHA1-Digest: lGLjB5qFuJe6m6WZp5b4fwsNg6g=
+
+Name: assets/offline/levels/ganis/era_punch.gani
+SHA1-Digest: aO2vH1/CQ5EiuvYotMYvjuKiIWg=
+
+Name: assets/offline/levels/ganis/era_shotgun-idle.gani
+SHA1-Digest: OxCkKysd8+llQC6EfH53+qHf6Xo=
+
+Name: assets/offline/levels/images/era/era_lcwindow7.gif
+SHA1-Digest: 1PfFfHvEJBmeUSR8bQtT6Gwq3L0=
+
+Name: assets/offline/sounds/item.wav
+SHA1-Digest: q6IqHwRrr9Q92c2COJV8AmQRNG0=
+
+Name: res/drawable/fz_address_new_box_background.xml
+SHA1-Digest: ByD7anUukBQK7zECyqt6z2cUJqM=
+
+Name: assets/offline/levels/images/era/era_eggrollsign.gif
+SHA1-Digest: S7OdfcBShjfO0X7sca/tcxwpT4s=
+
+Name: assets/offline/maps/era_ip-mapfeb13.jpg
+SHA1-Digest: 5fz8JfkaQTiirAzMlcsdhO1l7nI=
+
+Name: assets/offline/levels/ganis/era_handgun-idle.gani
+SHA1-Digest: 7qZYeKyCUTBoNxPak7o3mrcOpjs=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/radio.
+ tga
+SHA1-Digest: MrJEjtopcTGpQxMnLzmxj2Dbuo0=
+
+Name: assets/offline/levels/images/era/era_lamplight_1.png
+SHA1-Digest: QKzOwtF0ZZcpB2N7esjg/bYG7mM=
+
+Name: res/drawable/com_facebook_top_button.xml
+SHA1-Digest: VM8ulECxaDURmEX97MsmLc1rTq4=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_aboutbutton.png
+SHA1-Digest: TJUfXMUmHooImljyUmW+d3U8EA8=
+
+Name: assets/offline/levels/images/classicgui/classicgui_color_darkpur
+ ple.png
+SHA1-Digest: pLMzu4naCMmOFrYFfUmhblvGlNg=
+
+Name: assets/offline/levels/images/era/era_teasign.gif
+SHA1-Digest: gyw3lKuowjhTfdB4TnrhJyAl2Ls=
+
+Name: defaultFragmentShaderFogLight0.src
+SHA1-Digest: Z0TI/FZjODyh5B2IZ9qmmygXwLA=
+
+Name: assets/offline/levels/fonts/verdanai.ttf
+SHA1-Digest: OsMWtVM05wppk97ZEyhoJzPE0TM=
+
+Name: assets/offline/levels/images/downloads/blookat-officeplant2.gif
+SHA1-Digest: WDJv7koG7dalinBscj09+XmCoEI=
+
+Name: res/drawable/com_facebook_loginbutton_blue_focused.png
+SHA1-Digest: /l9r0DHSIj4WdudFxA18dCfnfec=
+
+Name: assets/offline/levels/images/image/image_item6.png
+SHA1-Digest: pQufYe82qDHg6hkUzeawesfbCyA=
+
+Name: assets/offline/levels/images/image/image_item27.png
+SHA1-Digest: 3PMmHYGvIqvOTnrBrDIW/DYvgY8=
+
+Name: assets/offline/levels/ganis/carrystill.gani
+SHA1-Digest: MBlJQ/1j2tqvJzlojarNZMcYNXI=
+
+Name: assets/offline/levels/images/downloads/blookat-vines4.png
+SHA1-Digest: Y7/PULTVesUVj00Z+tXiAjajJgg=
+
+Name: assets/offline/levels/images/downloads/blookat-efbiwindow.gif
+SHA1-Digest: mZ9gUOMh8ibWvUqJERikx68ebuA=
+
+Name: assets/offline/levels/images/era/era_rooftopa3.png
+SHA1-Digest: k7+5nTy8uHL0rQH8vTMPnLQhFDc=
+
+Name: assets/offline/levels/images/era/era_flower-5_1b.png
+SHA1-Digest: ts2X7CI2xFunzw4oLd4jlb7/9lU=
+
+Name: assets/offline/levels/images/era/era_china-bonzai.png
+SHA1-Digest: JPP95NJvPtWpqeV5VYXv6Nc4RB4=
+
+Name: assets/offline/levels/images/era/era_ak.gif
+SHA1-Digest: 3mEa6eKnS5WBro7VsdMUJyXw0AY=
+
+Name: js/mraid.js
+SHA1-Digest: fJRITYOyHYdamhEtzTgzGT6+74I=
+
+Name: assets/offline/levels/images/era/era_ocean-cable.png
+SHA1-Digest: X6eM9Up2xYfAt8JBQ89qMIxA+xA=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/sSSBar
+ ActiveUp.bmp
+SHA1-Digest: r9xH2DhtecvCY6CgwXFX4a1uuHc=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_jo.png
+SHA1-Digest: 6IrhvIPo5xcLG8sTQlqtyEQoWQ4=
+
+Name: assets/offline/levels/images/era/era_terisu-dojo-entrance.png
+SHA1-Digest: 1fQH7Jbrrp4SJbaO62eqV22p7iU=
+
+Name: assets/offline/levels/images/era/era_tool-trashpick.png
+SHA1-Digest: iZZy5AtGzmMRP/M1mgNUO+a+pcA=
+
+Name: assets/offline/levels/images/era/era_ip-brokenwindow.png
+SHA1-Digest: 6IR/tvnpeQActmYiT9OlO6D+yaE=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_startlogo.png
+SHA1-Digest: 9564LiZDc04DZr6hZ9R4aTbF/1k=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_help_houses.png
+SHA1-Digest: B5yYlERCyVHyUtZZmeo+Z1gjEko=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_tr.png
+SHA1-Digest: IlVw5NVr16jiYe/unRsWZIgL1dI=
+
+Name: assets/offline/levels/images/era/era_sprite-fishy.png
+SHA1-Digest: xS/R3jdaqBe9j6Hq70pOGpskEjc=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Restor
+ .bmp
+SHA1-Digest: T5pGP2Ez6KsBtY8bTU2VhmvUCro=
+
+Name: res/layout/fz_address_box.xml
+SHA1-Digest: uohTHHXMt88c5kr9rN6qs27Aj7E=
+
+Name: assets/offline/levels/images/chrisz/chrisz_gasbag.png
+SHA1-Digest: 8NsslrgCIBuOvb5So8JM6LxqFPQ=
+
+Name: assets/offline/levels/images/era/era_pistol_ammobox1.png
+SHA1-Digest: 5QkMBnL3vEq9OaeEIKKQJVyL+5c=
+
+Name: res/drawable-hdpi/fz_sel_background.png
+SHA1-Digest: xHbaUy3Kg40kWTpr4N+QKnAqIV4=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Progre
+ ssbar.bmp
+SHA1-Digest: ekXo3LZnjUOKmnZLBkzOBpGCD5Q=
+
+Name: assets/offline/sounds/bomb.wav
+SHA1-Digest: xXEHZm6WVa39F7KReTz0oij9eAE=
+
+Name: assets/offline/levels/images/era/era_ip-mapicon5.png
+SHA1-Digest: l7gDaohwpRNAcyBQ/WEZ0fHLLaY=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Combob
+ oxborder.bmp
+SHA1-Digest: XTqFHFmFKZlzK3dee3UC20vsZ2E=
+
+Name: res/drawable-hdpi/fz_wheel.png
+SHA1-Digest: 1aD51k3Y2HML7Ix40eApBQ1RDPc=
+
+Name: assets/offline/levels/ganis/newspaper_read.gani
+SHA1-Digest: kBGIgNs3W7bY5f/UJinLL/9ZImk=
+
+Name: assets/offline/levels/heads/head354.png
+SHA1-Digest: qnR0rBFOfmx/if14BHqs6MApPmE=
+
+Name: assets/offline/levels/images/era/era_icarus-bk-door2.gif
+SHA1-Digest: FFgw9npiyxuGJjfYaaLnTRKMnFk=
+
+Name: res/drawable/com_facebook_loginbutton_blue_pressed.png
+SHA1-Digest: /l9r0DHSIj4WdudFxA18dCfnfec=
+
+Name: assets/offline/levels/images/era/era_door-wood-glass-left-2.png
+SHA1-Digest: 7W6ucQlmVrbcCiTKVBTW98A44Ng=
+
+Name: assets/offline/sounds/m4_boltpull.wav
+SHA1-Digest: 8YBuh9LF2plr4UQ/k08Fzdciiu4=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/tree.b
+ mp
+SHA1-Digest: /AxfHLgQkiPnX6ILrevnA1SXEsk=
+
+Name: assets/offline/levels/images/era/era_car1_0.png
+SHA1-Digest: tFvAQXzPCd+ocAaFxeQfTspfdRE=
+
+Name: assets/offline/levels/music/eraiphone_musiceffect2.mp3
+SHA1-Digest: ga+Z6yqla0SzGfVyBuvjrqO6eDY=
+
+Name: assets/offline/sounds/era_car-drive.wav
+SHA1-Digest: 0cCXQJFYUQo3s2JyPiwpBOsHILQ=
+
+Name: assets/offline/levels/ganis/ghostani.gani
+SHA1-Digest: UCAKEY+MaAnyjfQnt1WpGnC7/NY=
+
+Name: res/drawable/com_facebook_button_grey_pressed.9.png
+SHA1-Digest: P0wPjAW7g0+CwVv4YccsLFHlsh0=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/Scrool
+ HorGrippers.bmp
+SHA1-Digest: VK9rCvZuJndyZSp9iJIubxy/QG8=
+
+Name: assets/offline/levels/images/era/era_court-fence.png
+SHA1-Digest: y14W/C5hzV4d0b1ky5Ni9gVx67g=
+
+Name: assets/offline/sounds/m4_fire.wav
+SHA1-Digest: Mi76qvXjCQaohHr1jNbCqJPAD+w=
+
+Name: res/drawable-hdpi/fz_powered.png
+SHA1-Digest: IqwpRUoq0Tw6D37am68D89I6bHw=
+
+Name: assets/offline/levels/images/era/era_houseplant2.gif
+SHA1-Digest: nQkXYh0ZRFAhQwE9CfyQlhDwQGo=
+
+Name: res/raw/fabzat_com.crt
+SHA1-Digest: ydSrgGItHVskJ5xnU1zXgqmm4S4=
+
+Name: assets/offline/levels/images/switch/switch_button_off1.gif
+SHA1-Digest: +fctsrr8qdnKwhjSvhQ080WTGHg=
+
+Name: assets/offline/levels/guistyles/toon_small.wba/FauxS-TOON/ComboB
+ oxButtons.tga
+SHA1-Digest: blfcPEOtfkSAerv2L3ZnTNpi1kI=
+
+Name: defaultFragmentShaderTex1.src
+SHA1-Digest: +gklAaty0t8boXOv7RFSZrfelUs=
+
+Name: assets/offline/levels/images/era/era_flower-2_1a.png
+SHA1-Digest: akiM4SFYgEblaAxGQxM9KLKOXOU=
+
+Name: assets/offline/levels/images/era/era_ip-mapicon2.png
+SHA1-Digest: Ks6ieyqNTtMoJ5DUq79Qfu5MZkw=
+
+Name: assets/offline/levels/music/stef32a.mp3
+SHA1-Digest: pwjjG1F3fU32jbI8DyzqcqORpRI=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_tutorial_messag
+ earrow.png
+SHA1-Digest: M+cZWmB9itSrp1wBxIIrOXbyqRM=
+
+Name: assets/offline/levels/images/era/era_snowres-board.gif
+SHA1-Digest: JAqvhWuoaHS4fCq2JaX/IT8aE2k=
+
+Name: assets/offline/levels/images/eraiphone/eraiphone_gamecenterbutto
+ n.png
+SHA1-Digest: cGowkiM5FwET5tJRBbKIujhc8yY=
+
+Name: assets/offline/levels/images/era/era_dairyhutsign.gif
+SHA1-Digest: NWrbKxqY8GOTEmASBVQeJnN8yAE=
+
+Name: assets/offline/levels/images/era/era_painting-4.gif
+SHA1-Digest: f3C9Gk9Q0Jehx1zeOAnIF1Vuyyg=
+
+Name: assets/offline/levels/images/era/era_flower-4_1a.png
+SHA1-Digest: Gsv9PQc/HlQsRTQOuZxD8aUMejU=
+
+Name: assets/offline/levels/images/chrisz/chrisz_glass-lemonade.gif
+SHA1-Digest: ijWN/J1layPyLjn0N/BK1bgCNaA=
+
+Name: assets/offline/levels/images/era/era_shell4.png
+SHA1-Digest: JrnwIZOnZjwBeSVrxCDrKvNVHZ8=
+
+Name: assets/offline/levels/images/guigames/guigames_flag_de.png
+SHA1-Digest: VYPDKaiNmr/afChc+aoBhRqYG/4=
+
+Name: assets/offline/levels/images/tonyrivers/tonyrivers_parkbench1.pn
+ g
+SHA1-Digest: KF0HWLpW4NJCxP3/ba6u3bCnAFg=
+
+Name: assets/offline/levels/ganis/iwalk.gani
+SHA1-Digest: hjT3BuWKCXfky8o9A4BHYo+BB2Y=
+
+Name: res/drawable-hdpi/fz_background_address.9.png
+SHA1-Digest: a8ugGVH4qUA7snEXvv+yh8bk3/0=
+
+Name: assets/offline/levels/images/era/era_image-barrel.png
+SHA1-Digest: +yshlPfzTkXdwOtS6xx5Je66BmU=
+
+Name: assets/offline/levels/images/era/era_tent2.gif
+SHA1-Digest: 1Bk0xgL5V76fGzQh+My8yMdLqsE=
+
+Name: assets/offline/levels/images/era/era_lampposts.png
+SHA1-Digest: 89rmHMaV9/G/vc1lb4w2BRHdlO8=
+
+Name: assets/offline/levels/images/downloads/bcalarmclock.png
+SHA1-Digest: 4wHr33ogGPsGGVhP5yyyR6L4D04=
+
+Name: assets/offline/levels/ganis/era_uzi-reload.gani
+SHA1-Digest: 2WWxOaIGqpWOcL18f2WQOm2VqGg=
+
+Name: assets/offline/levels/ganis/iwalkslow.gani
+SHA1-Digest: EIaH6OHx0utuNKRrMZPZ/bcSzhQ=
+
+Name: res/drawable/com_facebook_icon.png
+SHA1-Digest: 9jTbeG4b8nJZlZss16UPfagqlUs=
+
+Name: assets/offline/levels/images/era/era_coverdrop-2.gif
+SHA1-Digest: XfOpbSTg2GBac06LjRnm1aFBMHQ=
+
+Name: assets/offline/levels/images/facebook/facebook_background_black.
+ png
+SHA1-Digest: 7UdhT3C7HD15wdoaBzp0LH1PQ8c=
+
+Name: res/drawable-hdpi/com_facebook_button_grey_focused.9.png
+SHA1-Digest: xw3C3hxhbAqRc7fZEiHwllptNuM=
+
+Name: assets/offline/levels/images/era/era_lsrooftopentrance.png
+SHA1-Digest: 7zsMZq1ciVfthldwT5soH4MMhug=
+

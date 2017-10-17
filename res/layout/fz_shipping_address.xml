@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/fz_background_address" android:padding="20.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.fabzat.shop.utils.ui.FZTextView android:textColor="@color/fz_black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fz_label.shippingAddresses" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/fz_address_container" android:paddingBottom="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="2.0">
+        <LinearLayout android:orientation="vertical" android:id="@id/fz_address_linear1" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <LinearLayout android:orientation="vertical" android:id="@id/fz_address_linear2" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

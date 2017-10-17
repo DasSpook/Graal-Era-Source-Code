@@ -1,0 +1,12 @@
+GANI0001
+SPRITE    0         SPRITES    0    0   24   16 shadow
+
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   0  12  34
+   0  12  34
+
+   0  12  34
+ANIEND

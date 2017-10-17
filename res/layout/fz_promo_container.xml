@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/fz_cart_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fz="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.fabzat.shop.utils.ui.FZTextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="@color/fz_black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fz_label.addProduct" />
+        <com.fabzat.shop.utils.ui.FZTextView android:textSize="25.0sp" android:textStyle="bold" android:textColor="@color/fz_black" android:gravity="center_horizontal" android:id="@id/fz_discount_flag" android:background="@drawable/fz_discount_flag" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" />
+        <com.fabzat.shop.utils.ui.FZTextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="@color/fz_black" android:id="@id/fz_discount_promotion" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="@string/fz_label.discount" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/fz_discount_resource_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="5.0dip" />
+</LinearLayout>

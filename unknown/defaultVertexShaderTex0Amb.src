@@ -1,0 +1,33 @@
+uniform mat4 modelViewProjectionMatrix;
+
+uniform vec4 additionalColor;
+uniform vec4 ambientColor;
+
+uniform float alpha;
+uniform bool useColors;
+
+attribute vec4 position;
+attribute vec3 normal;
+attribute vec4 color;
+attribute vec2 texture0;
+
+varying vec2 texCoord;
+varying vec4 vertexColor;
+
+const vec4 WHITE = vec4(1,1,1,1);
+
+void main() {
+	texCoord = texture0;
+
+	// Yes, these two lines actually serve no purpose...but if i remove them, my phone doesn't render anything using this shader...!?!? WTF?
+	vec4 pos = position;
+	vec3 normalDummy = normal;
+	
+	vertexColor=vec4(min(WHITE, ambientColor + additionalColor).xyz, alpha);
+	
+	if (useColors) {
+		vertexColor *= color;
+	}
+	
+	gl_Position = modelViewProjectionMatrix * pos;
+}

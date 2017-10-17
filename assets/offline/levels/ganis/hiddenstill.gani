@@ -1,0 +1,13 @@
+SPRITE    0         SPRITES    0    0   24   12 shadow
+SPRITE    1           ATTR3    0    0   32   32 item
+
+SINGLEDIRECTION
+DEFAULTATTR3 bushitem.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   0  12  34,    1   8  16
+
+ANIEND
+

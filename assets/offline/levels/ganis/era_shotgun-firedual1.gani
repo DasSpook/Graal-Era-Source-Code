@@ -1,0 +1,59 @@
+GANI0001
+SPRITE   -5            BODY   40  494    8    8 sprite
+SPRITE    0         SPRITES    0    0   24   12 shadow
+SPRITE    6            BODY   32  398    8    8 sprite
+SPRITE    8            BODY  120  330    8    8 sprite
+SPRITE   20 sprites_shotgun.png    0   17   38   17 Shotgun
+SPRITE   21 sprites_shotgun.png    0    0   38   17 Shotgun
+SPRITE   22 sprites_shotgun.png   38    0    7   34 Shotgun
+SPRITE   23 sprites_shotgun.png   45    0    7   31 Shotgun
+SPRITE   24 sprites_shotgun.png   52   10   11    3 Shotgun load
+SPRITE   25 sprites_shotgun.png   73    0   15    5 Shotgun load
+SPRITE   26 sprites_shotgun.png   73    5   15    7 Shotgun load
+SPRITE   27 sprites_shotgun.png   73   12    7   20 Shotgun load
+SPRITE   28 sprites_shotgun.png   79   12    7   20 Shotgun load
+SPRITE   40           ATTR1    0    0   48   48 hat up
+SPRITE   41           ATTR1   48    0   48   48 hat left
+SPRITE   42           ATTR1   96    0   48   48 hat down
+SPRITE   43           ATTR1  144    0   48   48 hat right
+SPRITE  100            HEAD    0    0   32   32 head up
+SPRITE  101            HEAD    0   32   32   32 head left
+SPRITE  102            HEAD    0   64   32   32 head down
+SPRITE  103            HEAD    0   96   32   32 head right
+SPRITE  201            BODY   32    0   32   32 body left
+SPRITE  203            BODY   96    0   32   32 body right
+SPRITE  206            BODY   64   32   32   32 body walking1 down
+SPRITE  210            BODY   64   64   32   32 body walking2 down
+SPRITE  211            BODY   96   64   32   32 body walking2 right
+SPRITE  216            BODY    0  128   32   32 body walking4 up
+SPRITE  223            BODY   96  160   32   32 body walking5 right
+SPRITE  233            BODY   32  256   32   32 body sword3 left
+SPRITE  239            BODY   96  288   32   32 
+
+SETBACKTO era_shotgun-idledual
+DEFAULTATTR1 hat0.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+  23  34  -1,    0  12  34,   23  10  -2,  216   8  16,  100   8   2,   40   0 -16
+  20 -16  16,    0  12  36,  101  11   2,  201  12  18,   41  -1 -16,   20  -8  27,   24   1  34,  239   4  12,   24  -4  23,    6  20  33
+   0  12  34,  210   8  17,  102   8   2,   42   0 -16,   22  32  23,   22  12  25
+  21  28  15,   24  43  22,    0  12  36,  203   4  18,  103   4   2,   43   0 -16,   21  18  27,   24  33  34,  239   4  13,    8  19  32
+
+  23  34  -3,    0  12  34,   23  11  -5,  216   8  16,  100   8   2,   40   0 -16
+  20 -16  16,    0  12  36,  233  10  17,  101  10   2,   41  -2 -16,   20  -8  27,   24   1  34,  239   2   9,    6  20  33,   24  -5  23
+   0  12  34,  210   8  18,  102   8   2,   42   0 -16,   22  34  20,   22  13  27
+  21  29  16,    0  12  36,  211   4  16,  103   4   2,   43   0 -16,   21  17  25,   24  33  32,  239   5  14,   24  44  23,    8  17  31
+
+  23  33  -3,    0  12  34,   27  31 -14,   23  11  -2,   27  35 -14,  216   8  16,  100   8   2,   40   0 -16
+  20 -13  16,    0  12  36,  233  13  15,  101  12   2,   41   0 -16,   20  -6  26,   24   4  32,   26 -24  16,   26 -24  18,  239   2   8,   24  -3  23,    6  23  32
+   0  12  34,  206   8  16,  102   8   0,   42   0 -18,   22  32  21,   28  12  53,   28  16  53,   22  14  22
+  21  21  15,    0  12  36,  223   4  20,  103   2   2,   24  38  22,   43  -2 -16,   21  24  24,   24  43  31,   25  61  23,   25  60  27,  239   4  14,    8  26  30
+PLAYSOUND shotgun.wav 3 3
+
+  23  33  -1,    0  12  34,   23  11  -4,  216   8  16,  100   8   2,   40   0 -16
+  20 -10  17,    0  12  36,  233  11  15,   24   3  24,  101  12   2,   41   0 -16,   20  -8  27,   24   3  34,  239   6  12,    6  21  33
+   0  12  34,  210   8  18,  102   8   2,   42   0 -16,   22  34  22,   22  13  26
+  21  24  16,    0  12  36,  103   4   2,  223   6  21,   43   0 -16,   21  20  26,   24  35  33,  239   3  15,   24  39  23,    8  21  31
+ANIEND

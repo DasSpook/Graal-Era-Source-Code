@@ -1,0 +1,14 @@
+precision mediump float;
+
+uniform sampler2D textureUnit0;
+
+varying vec2 texCoord;
+varying vec4 vertexColor;
+varying float fogWeight;
+varying vec3 fogVertexColor;
+
+void main() {
+	vec4 col = texture2D(textureUnit0, texCoord) * vertexColor;
+	col.xyz = (1.0-fogWeight) * col.xyz + fogVertexColor;
+	gl_FragColor=col;
+}

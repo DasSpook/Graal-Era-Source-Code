@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:keepScreenOn="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.quattroplay.GraalEra.GLView android:id="@id/glview" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <EditText android:id="@id/textfield" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:singleLine="true" android:imeOptions="actionDone" />
+</RelativeLayout>

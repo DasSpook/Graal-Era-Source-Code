@@ -1,0 +1,33 @@
+GANI0001
+SPRITE    0         SPRITES    0    0   24   12 shadow
+SPRITE    1          PARAM1    0    0   32   32 Glass
+SPRITE   40           ATTR1    0    0   48   48 hat up
+SPRITE   41           ATTR1   48    0   48   48 hat left
+SPRITE   42           ATTR1   96    0   48   48 hat down
+SPRITE   43           ATTR1  144    0   48   48 hat right
+SPRITE  101            HEAD    0   32   32   32 head left
+SPRITE  103            HEAD    0   96   32   32 head right
+SPRITE  108            HEAD    0  272   32   32 head pushing up
+SPRITE  110            HEAD    0  336   32   32 head pushing down
+SPRITE  241            BODY   32  320   32   32 body grabbing left
+SPRITE  242            BODY   64  320   32   32 body grabbing down
+SPRITE  243            BODY   96  320   32   32 body grabbing right
+SPRITE  252            BODY    0  416   32   32 body pulling1 up
+
+DEFAULTPARAM1 chrisz_glass-empty.gif
+DEFAULTATTR1 hat0.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   1   9   3,    0  12  34,  252   8  16,  108   8   2,   40   0 -13
+   0  12  36,  241  10  16,  101   8   2,   41  -4 -16,    1 -11   9
+   0  12  34,  242   8  16,  110   8   6,   42   0  -9,    1   9  25
+   0  12  36,  243   6  16,  103   8   2,   43   4 -16,    1  29  11
+PLAYSOUND nextpage.wav 1.5 2
+
+   1   9   3,    0  12  34,  252   8  16,  108   8   2,   40   0 -13
+   0  12  36,  241  10  16,  101   8   2,   41  -4 -16,    1 -11   9
+   0  12  34,  242   8  16,  110   8   6,   42   0  -9,    1   9  25
+   0  12  36,  243   6  16,  103   8   2,   43   4 -16,    1  29  11
+ANIEND

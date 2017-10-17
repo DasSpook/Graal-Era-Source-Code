@@ -1,0 +1,50 @@
+SPRITE    0 ghostshadow.png    0    0   16    8 shadow
+SPRITE   20 ghostanimation.png    0    0   36   44 ghost (0, 0)
+SPRITE   21 ghostanimation.png   36    0   36   44 ghost (1, 0)
+SPRITE   22 ghostanimation.png   72    0   36   44 ghost (2, 0)
+SPRITE   23 ghostanimation.png  108    0   36   44 ghost (3, 0)
+SPRITE   24 ghostanimation.png    0   44   36   44 ghost (0, 1)
+SPRITE   25 ghostanimation.png   36   44   36   44 ghost (1, 1)
+SPRITE   26 ghostanimation.png   72   44   36   44 ghost (2, 1)
+SPRITE   27 ghostanimation.png  108   44   36   44 ghost (3, 1)
+SPRITE   28 ghostanimation.png    0   88   36   44 ghost (0, 2)
+SPRITE   29 ghostanimation.png   36   88   36   44 ghost (1, 2)
+SPRITE   30 ghostanimation.png   72   88   36   44 ghost (2, 2)
+SPRITE   31 ghostanimation.png  108   88   36   44 ghost (3, 2)
+SPRITE   32 ghostanimation.png    0  132   36   44 ghost (0, 3)
+SPRITE   33 ghostanimation.png   36  132   36   44 ghost (1, 3)
+SPRITE   34 ghostanimation.png   72  132   36   44 ghost (2, 3)
+SPRITE   35 ghostanimation.png  108  132   36   44 ghost (3, 3)
+
+LOOP
+CONTINUOUS
+DEFAULTATTR1 hat0.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   0  16  34,   20   6 -48
+   0  16  34,   21   6 -48
+   0  16  34,   22   6 -48
+   0  16  34,   23   6 -48
+WAIT 5
+
+   0  16  34,   24   6 -48
+   0  16  34,   25   6 -48
+   0  16  34,   26   6 -48
+   0  16  34,   27   6 -48
+WAIT 5
+
+   0  16  34,   28   6 -48
+   0  16  34,   29   6 -48
+   0  16  34,   30   6 -48
+   0  16  34,   31   6 -48
+WAIT 5
+
+   0  16  34,   32   6 -48
+   0  16  34,   33   6 -48
+   0  16  34,   34   6 -48
+   0  16  34,   35   6 -48
+WAIT 5
+
+ANIEND

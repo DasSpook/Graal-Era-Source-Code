@@ -1,0 +1,34 @@
+GANI0001
+SPRITE   -5            BODY   40  494    8    8 sprite
+SPRITE    0         SPRITES    0    0   24   12 shadow
+SPRITE    5            BODY  120  398    8    8 sprite
+SPRITE    6            BODY   32  398    8    8 sprite
+SPRITE   20 sprites_shotgun.png    0   17   38   17 Shotgun
+SPRITE   21 sprites_shotgun.png    0    0   38   17 Shotgun
+SPRITE   22 sprites_shotgun.png   38    0    7   34 Shotgun
+SPRITE   23 sprites_shotgun.png   45    0    7   31 Shotgun
+SPRITE   24 sprites_shotgun.png   52   10   11    3 Shotgun load
+SPRITE   40           ATTR1    0    0   48   48 hat up
+SPRITE   41           ATTR1   48    0   48   48 hat left
+SPRITE   42           ATTR1   96    0   48   48 hat down
+SPRITE   43           ATTR1  144    0   48   48 hat right
+SPRITE  100            HEAD    0    0   32   32 head up
+SPRITE  101            HEAD    0   32   32   32 head left
+SPRITE  102            HEAD    0   64   32   32 head down
+SPRITE  103            HEAD    0   96   32   32 head right
+SPRITE  200            BODY    0    0   32   32 body up
+SPRITE  201            BODY   32    0   32   32 body left
+SPRITE  202            BODY   64    0   32   32 body down
+SPRITE  203            BODY   96    0   32   32 body right
+SPRITE  239            BODY   96  288   32   32 
+
+DEFAULTATTR1 hat0.png
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+  23  33   0,    0  12  34,   23   7   1,  200   8  16,  100   8   2,   40   0 -16
+  20 -17  18,    0  12  36,  201  12  16,  101  12   2,   41   0 -16,   20  -7  27,   24   5  34,  239   8  15,   24  -3  25,    6  21  33
+   0  12  34,  202   8  16,  102   8   2,   42   0 -16,   22  33  23,   22   8  23
+  21  27  17,    0  12  36,  203   4  16,  103   4   2,   43   0 -16,   21  17  27,   24  33  34,  239   5  15,   24  42  24,    5  19  33
+ANIEND

@@ -1,0 +1,28 @@
+GANI0001
+SPRITE    0         SPRITES    0    0   24   16 shadow
+SPRITE   20 era_letter-white.png    0    0   28   28 sprite
+
+LOOP
+SINGLEDIRECTION
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+  20  -2  -5
+
+  20  -2  -8
+
+  20  -2 -10
+
+  20  -2 -11
+
+  20  -2 -11
+
+  20  -2 -10
+
+  20  -2  -8
+
+  20  -2  -5
+
+  20  -2  -5
+ANIEND

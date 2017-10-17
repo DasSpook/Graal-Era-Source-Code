@@ -1,0 +1,46 @@
+GANI0001
+SPRITE  -11 newneorifle1.gif  173  154    7    6 sprite
+SPRITE    0         SPRITES    0    0   24   12 shadow
+SPRITE    1 sprites_uzi.png    0    0   25   30 Uzi
+SPRITE    2 sprites_uzi.png   25    0   25   30 Uzi
+SPRITE    3 sprites_uzi.png   50    0    6   30 Uzi
+SPRITE    4 sprites_uzi.png   56    0    8   30 Uzi
+SPRITE    5 era_handgun.gif  135    0   20   22 Uzi
+SPRITE    6 era_handgun.gif  155    0   22   22 Uzi
+SPRITE    7 era_handgun.gif  175    0   22   22 Uzi
+SPRITE    8 era_handgun.gif  195    0   22   22 Uzi
+SPRITE   40           ATTR1    0    0   48   48 hat up
+SPRITE   41           ATTR1   48    0   48   48 hat left
+SPRITE   42           ATTR1   96    0   48   48 hat down
+SPRITE   43           ATTR1  144    0   48   48 hat right
+SPRITE  100            HEAD    0    0   32   32 head up
+SPRITE  101            HEAD    0   32   32   32 head left
+SPRITE  102            HEAD    0   64   32   32 head down
+SPRITE  103            HEAD    0   96   32   32 head right
+SPRITE  216            BODY    0  128   32   32 body walking4 up
+SPRITE  221            BODY   32  160   32   32 body walking5 left
+SPRITE  222            BODY   64  160   32   32 body walking5 down
+SPRITE  223            BODY   96  160   32   32 body walking5 right
+SPRITE  239            BODY   96  288   32   32 
+SPRITE  330            BODY   32  330    8    8 body pushing3 left
+
+SETBACKTO era_uzi-idle
+DEFAULTATTR1 hat0.png
+DEFAULTATTR2 TakeOmni007
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   7  -2 -10,    0  12  34,    4   9   0,  216   8  16,  100   8   2,   40   0 -16
+   0  12  36,  221  12  16,  101  10   2,    1   1  13,   41  -2 -16,    6 -18  15,  239  -1  10,  330  14  28
+   0  12  33,  222   8  22,  102   8   2,   42   0 -16,    3  27  25,    8  15  51
+   0  12  36,    2  26  12,  223   5  19,  103   5   2,   43   1 -16,    5  49  14,  239   4  12
+PLAYSOUND gunuzi.wav -0.25 -1.375
+WAIT 1
+
+   0  12  34,    4   9  -1,  216   8  16,  100   8   2,   40   0 -16
+   0  12  36,  221  12  16,  101  10   2,    1  -1  13,   41  -2 -16,  239  -1  10,  330  11  28
+   0  12  33,  222   8  22,  102   8   2,   42   0 -16,    3  27  27
+   0  12  36,    2  28  12,  223   5  19,  103   5   2,   43   1 -16,  239   4  12
+WAIT 7
+ANIEND

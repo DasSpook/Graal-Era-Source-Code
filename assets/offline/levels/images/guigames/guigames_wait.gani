@@ -1,0 +1,45 @@
+GANI0001
+SPRITE    1 guigames_wait0.png     0    0   100  100 wait
+SPRITE    2 guigames_wait1.png     0    0   100  100 wait
+SPRITE    3 guigames_wait2.png     0    0   100  100 wait
+SPRITE    4 guigames_wait3.png     0    0   100  100 wait
+SPRITE    5 guigames_wait4.png     0    0   100  100 wait
+SPRITE    6 guigames_wait5.png     0    0   100  100 wait
+SPRITE    7 guigames_wait6.png     0    0   100  100 wait
+SPRITE    8 guigames_wait7.png     0    0   100  100 wait
+SPRITE    9 guigames_wait8.png     0    0   100  100 wait
+SPRITE   10 guigames_wait9.png     0    0   100  100 wait
+SPRITE   11 guigames_wait10.png    0    0   100  100 wait
+SPRITE   12 guigames_wait11.png    0    0   100  100 wait
+
+LOOP
+CONTINUOUS
+SINGLEDIRECTION
+DEFAULTHEAD 
+DEFAULTBODY 
+
+ANI
+   1   0   0
+
+   2   0   0
+
+   3   0   0
+
+   4   0   0
+
+   5   0   0
+
+   6   0   0
+
+   7   0   0
+
+   8   0   0
+
+   9   0   0
+
+  10   0   0
+
+  11   0   0
+
+  12   0   0
+ANIEND

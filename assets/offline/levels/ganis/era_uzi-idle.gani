@@ -1,0 +1,33 @@
+GANI0001
+SPRITE  -11 newneorifle1.gif  173  154    7    6 sprite
+SPRITE    0         SPRITES    0    0   24   12 shadow
+SPRITE    1 sprites_uzi.png    0    0   25   30 uzi (0)
+SPRITE    2 sprites_uzi.png   25    0   25   30 uzi (1)
+SPRITE    3 sprites_uzi.png   50    0    6   30 uzi (0)
+SPRITE    4 sprites_uzi.png   56    0    6   30 uzi (1)
+SPRITE   40           ATTR1    0    0   48   48 hat up
+SPRITE   41           ATTR1   48    0   48   48 hat left
+SPRITE   42           ATTR1   96    0   48   48 hat down
+SPRITE   43           ATTR1  144    0   48   48 hat right
+SPRITE  100            HEAD    0    0   32   32 head up
+SPRITE  101            HEAD    0   32   32   32 head left
+SPRITE  102            HEAD    0   64   32   32 head down
+SPRITE  103            HEAD    0   96   32   32 head right
+SPRITE  200            BODY    0    0   32   32 body up
+SPRITE  201            BODY   32    0   32   32 body left
+SPRITE  202            BODY   64    0   32   32 body down
+SPRITE  203            BODY   96    0   32   32 body right
+SPRITE  239            BODY   96  288   32   32 
+SPRITE  330            BODY   32  330    8    8 body pushing3 left
+
+DEFAULTATTR1 hat0.png
+DEFAULTATTR2 TakeOmni007
+DEFAULTHEAD head19.png
+DEFAULTBODY body.png
+
+ANI
+   0  12  34,    4   8   3,  200   8  16,  100   8   2,   40   0 -16
+   0  12  36,  201  12  16,  101  12   2,   41   0 -16,    1   7  19,  239   8  16,  330  22  34
+   0  12  34,  202   8  16,  102   8   2,   42   0 -16,    3  34  27
+   2  24  12,    0  12  36,  203   4  16,  103   4   2,   43   0 -16,  239   5  16
+ANIEND
